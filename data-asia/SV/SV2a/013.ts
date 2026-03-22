@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "ビードル",
 		'zh-tw': "獨角蟲",
 		th: "บีเดิล",
+		ko: "뿔충이",
 		id: "Weedle"
 	},
 
@@ -22,6 +23,7 @@ const card: Card = {
 		ja: "毒針は とても 強力。 目立つ 体の 色は 相手に 警戒を させるためだ。",
 		'zh-tw': "毒針非常厲害。 鮮豔的體色是用來 警告對手的。",
 		th: "เข็มพิษมันมีพิษรุนแรงมาก สีสันตามตัวที่ดูเด่นสะดุดตาก็เพื่อทำให้ฝ่ายตรงข้ามคอยระวังตัว",
+		ko: "독침이 매우 강력하다. 눈에 띄는 몸의 색깔은 상대방을 경계시키기 위해서다.",
 		id: "Jarum beracun Weedle sangat kuat. Warna tubuhnya yang mencolok membuat lawan menjadi waspada."
 	},
 
@@ -34,6 +36,7 @@ const card: Card = {
 			ja: "ぶつかる",
 			'zh-tw': "衝撞",
 			th: "กระแทก",
+			ko: "부딪치기",
 			id: "Menyeruduk"
 		},
 
@@ -45,6 +48,7 @@ const card: Card = {
 			ja: "むしくい",
 			'zh-tw': "蟲咬",
 			th: "แมลงกัด",
+			ko: "벌레먹기",
 			id: "Gigitan Serangga"
 		},
 

@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "スピアー",
 		'zh-tw': "大針蜂",
 		th: "สเปียร์",
+		ko: "독침붕",
 		id: "Beedrill"
 	},
 
@@ -22,6 +23,7 @@ const card: Card = {
 		ja: "集団で 現れることもある。 猛スピードで 飛び回り お尻の 毒針で 刺しまくる。",
 		'zh-tw': "有時會成群結隊地出現。 能以極快的速度飛來飛去， 並用尾部的毒針不斷刺擊對手。",
 		th: "บางครั้งจะปรากฏตัวกันเป็นฝูง บินวนไปมาด้วยความเร็วสูงและทิ่มแทงเข็มพิษจากก้นไปทั่ว",
+		ko: "집단으로 나타나기도 한다. 맹렬한 스피드로 날아 엉덩이의 독침으로 마구 찌른다.",
 		id: "Kadang Beedrill muncul secara berkelompok. Pokémon ini terbang berkeliling dengan kecepatan tinggi dan terus-menerus menusuk dengan jarum beracun di bagian bawah tubuhnya."
 	},
 
@@ -34,6 +36,7 @@ const card: Card = {
 			ja: "ぎゃっきょうニードル",
 			'zh-tw': "逆境尖刺",
 			th: "เข็มแห่งภัยพิบัติ",
+			ko: "역경니들",
 			id: "Jarum Kemalangan"
 		},
 
@@ -43,6 +46,7 @@ const card: Card = {
 			ja: "自分の手札が1枚もないなら、120ダメージ追加し、相手のバトルポケモンをどくとマヒにする。",
 			'zh-tw': "若自己1張手牌都沒有，則增加120點傷害，並將對手的戰鬥寶可夢【中毒】與【麻痺】。",
 			th: "ถ้าบนมือฝ่ายเราไม่มีการ์ดเลยแม้แต่ 1 ใบ การโจมตีนี้จะเพิ่มแดเมจอีก 120 ทำให้โปเกมอนบนตำแหน่งต่อสู้ฝ่ายตรงข้ามเป็นสภาวะ[พิษ]และ[ชา]",
+			ko: "자신의 패가 1장도 없다면 120데미지를 추가하고 상대의 배틀 포켓몬을 독과 마비로 만든다.",
 			id: "Jika Kartu Pegangan sendiri tidak tersisa 1 lembar pun, kerusakan yang diberikan bertambah sejumlah 120, lalu ubah kondisi Pokémon Bertarung lawan menjadi Racun dan Lumpuh."
 		}
 	}, {
@@ -52,6 +56,7 @@ const card: Card = {
 			ja: "つきさす",
 			'zh-tw': "突刺",
 			th: "แทง",
+			ko: "궤찌르기",
 			id: "Melubangi"
 		},
 
