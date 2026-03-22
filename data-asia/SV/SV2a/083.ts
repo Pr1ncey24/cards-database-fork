@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "カモネギ",
 		'zh-tw': "大蔥鴨",
 		th: "คาโมเนกิ",
+		ko: "",
 		id: "Farfetch'd"
 	},
 
@@ -22,6 +23,7 @@ const card: Card = {
 		ja: "植物の 茎で 戦う。 茎の 振り方には いくつかの 流派の ようなものが ある。",
 		'zh-tw': "用植物的莖來戰鬥。莖的揮舞方式存在著 好幾種不同的流派。",
 		th: "ใช้ลำต้นของพืชในการต่อสู้ มีสไตล์การฟาดฟันด้วยลำต้นที่เหมือนกับวิชาต่อสู้หลายรูปแบบ",
+		ko: "",
 		id: "Farfetch'd bertarung menggunakan batang tumbuhan. Terdapat beberapa aliran terkait cara mengayunkan batang."
 	},
 
@@ -34,6 +36,7 @@ const card: Card = {
 			ja: "しょってくる",
 			'zh-tw': "背來",
 			th: "แบกขึ้นหลัง",
+			ko: "",
 			id: "Memanggul"
 		},
 
@@ -41,6 +44,7 @@ const card: Card = {
 			ja: "自分の山札を2枚引く。",
 			'zh-tw': "從自己的牌庫抽出2張卡。",
 			th: "จั่วการ์ด 2 ใบจากสำรับการ์ดฝ่ายเรา",
+			ko: "",
 			id: "Ambil 2 kartu dari atas Deck sendiri."
 		}
 	}, {
@@ -50,6 +54,7 @@ const card: Card = {
 			ja: "ネギでぶつ",
 			'zh-tw': "用蔥毆打",
 			th: "หวดด้วยต้นหอม",
+			ko: "",
 			id: "Daun Bawang Penghajar"
 		},
 

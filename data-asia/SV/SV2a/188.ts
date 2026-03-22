@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "キュウコンex",
 		'zh-tw': "九尾ex",
 		th: "คิวคอนex",
+		ko: "",
 		id: "Ninetales ex"
 	},
 
@@ -25,6 +26,7 @@ const card: Card = {
 			ja: "ねっぷう",
 			'zh-tw': "熱風",
 			th: "คลื่นความร้อน",
+			ko: "",
 			id: "Angin Panas"
 		},
 
@@ -34,6 +36,7 @@ const card: Card = {
 			ja: "相手のバトルポケモンをやけどにする。",
 			'zh-tw': "將對手的戰鬥寶可夢【灼傷】。",
 			th: "ทำให้โปเกมอนบนตำแหน่งต่อสู้ฝ่ายตรงข้ามเป็นสภาวะ[ไหม้]",
+			ko: "",
 			id: "Ubah kondisi Pokémon Bertarung lawan menjadi Luka Bakar."
 		}
 	}, {
@@ -43,6 +46,7 @@ const card: Card = {
 			ja: "うつしほむら",
 			'zh-tw': "現形熾火",
 			th: "เปลวไฟสะท้อน",
+			ko: "",
 			id: "Kobaran Api Refleksi"
 		},
 
@@ -52,6 +56,7 @@ const card: Card = {
 			ja: "自分の手札と相手の手札が同じ枚数なら、140ダメージ追加。",
 			'zh-tw': "若自己的手牌與對手的手牌張數相同，則增加140點傷害。",
 			th: "ถ้าจำนวนการ์ดบนมือฝ่ายเราเท่ากับจำนวนการ์ดบนมือฝ่ายตรงข้าม การโจมตีนี้จะเพิ่มแดเมจอีก 140",
+			ko: "",
 			id: "Jika jumlah Kartu Pegangan sendiri dan jumlah Kartu Pegangan lawan sama, kerusakan yang diberikan bertambah sejumlah 140."
 		}
 	}],

@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "ワンリキー",
 		'zh-tw': "腕力",
 		th: "วันริกี",
+		ko: "",
 		id: "Machop"
 	},
 
@@ -22,6 +23,7 @@ const card: Card = {
 		ja: "いつも パワフル。 体力が 有り余っているので 暇つぶしに 岩を持ち上げ さらに 強くなる。",
 		'zh-tw': "時時刻刻都充滿力量。由於體力過剩而去舉岩石 消磨時間，也因此變得更強。",
 		th: "มีพละกำลังเต็มเปี่ยมอยู่ตลอด มีกำลังเหลือเฟือก็เลยยกหินขึ้นเพื่อฆ่าเวลาและทำให้ตัวเองแข็งแกร่งยิ่งขึ้น",
+		ko: "",
 		id: "Machop selalu penuh kekuatan. Karena vitalitasnya yang berlebihan, Pokémon ini mengangkat batu besar untuk membuang waktu, sehingga menjadi makin kuat."
 	},
 
@@ -34,6 +36,7 @@ const card: Card = {
 			ja: "やまたたき",
 			'zh-tw': "敲山",
 			th: "ทุบภูเขา",
+			ko: "",
 			id: "Menghantam Gunung"
 		},
 
@@ -41,6 +44,7 @@ const card: Card = {
 			ja: "相手の山札を上から1枚トラッシュする。",
 			'zh-tw': "將對手的牌庫上方1張卡丟棄。",
 			th: "ทิ้งการ์ด 1 ใบจากด้านบนของสำรับการ์ดฝ่ายตรงข้ามที่ตำแหน่งทิ้งการ์ด",
+			ko: "",
 			id: "Buang 1 kartu dari atas Deck lawan ke Trash."
 		}
 	}, {
@@ -50,6 +54,7 @@ const card: Card = {
 			ja: "パンチ",
 			'zh-tw': "出拳",
 			th: "หมัด",
+			ko: "",
 			id: "Pukulan"
 		},
 

@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "エレブー",
 		'zh-tw': "電擊獸",
 		th: "เอเลบู",
+		ko: "",
 		id: "Electabuzz"
 	},
 
@@ -22,6 +23,7 @@ const card: Card = {
 		ja: "嵐が 来ると 高い 木の まわりに 集まり 雷が 落ちるのを じっと 待ち続ける。",
 		'zh-tw': "暴風雨來臨時，牠們會聚集在高大的樹周圍， 靜靜地一直等待落雷。",
 		th: "เมื่อมีพายุจะพากันไปรวมตัวบริเวณต้นไม้สูงและเฝ้ารอให้ฟ้าผ่าอย่างใจจดใจจ่อ",
+		ko: "",
 		id: "Ketika badai datang, Electabuzz berkumpul di sekeliling pohon tinggi dan dengan sabar terus menunggu jatuhnya petir."
 	},
 
@@ -34,6 +36,7 @@ const card: Card = {
 			ja: "エレキコンボ",
 			'zh-tw': "電氣合擊",
 			th: "อิเล็กทริกคอมโบ",
+			ko: "",
 			id: "Electric Combo"
 		},
 
@@ -43,6 +46,7 @@ const card: Card = {
 			ja: "自分のベンチに「ブーバー」がいるなら、40ダメージ追加。",
 			'zh-tw': "若自己的備戰區有「鴨嘴火獸」，則增加40點傷害。",
 			th: "ถ้าบนเบนช์ฝ่ายเรามี [บูเบอร์] อยู่ การโจมตีนี้จะเพิ่มแดเมจอีก 40",
+			ko: "",
 			id: "Jika ada Magmar di Cadangan sendiri, kerusakan yang diberikan bertambah sejumlah 40."
 		}
 	}, {
@@ -52,6 +56,7 @@ const card: Card = {
 			ja: "なぐる",
 			'zh-tw': "打擊",
 			th: "ทุบตี",
+			ko: "",
 			id: "Memukul"
 		},
 

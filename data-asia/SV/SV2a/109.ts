@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "ドガース",
 		'zh-tw': "瓦斯彈",
 		th: "โดกาซ",
+		ko: "",
 		id: "Koffing"
 	},
 
@@ -22,6 +23,7 @@ const card: Card = {
 		ja: "毒ガスで パンパンの 体。 生ゴミの 腐った においを 求め ゴミ捨て場に やってくる。",
 		'zh-tw': "身體裡充滿了毒氣。會為了尋求廚餘垃圾的 腐敗氣味而來到垃圾場。",
 		th: "ร่างอัดแน่นไปด้วยแก๊สพิษ มาที่ทิ้งขยะเพราะต้องการกลิ่นเหม็นเน่าของขยะสด",
+		ko: "",
 		id: "Tubuh Koffing padat oleh gas beracun. Dia mendatangi tempat pembuangan sampah untuk mencari bau busuk sampah basah."
 	},
 
@@ -34,6 +36,7 @@ const card: Card = {
 			ja: "あやしいガス",
 			'zh-tw': "奇異瓦斯",
 			th: "ก๊าซประหลาด",
+			ko: "",
 			id: "Gas Membingungkan"
 		},
 
@@ -43,6 +46,7 @@ const card: Card = {
 			ja: "相手のバトルポケモンをこんらんにする。",
 			'zh-tw': "將對手的戰鬥寶可夢【混亂】。",
 			th: "ทำให้โปเกมอนบนตำแหน่งต่อสู้ฝ่ายตรงข้ามเป็นสภาวะ[สับสน]",
+			ko: "",
 			id: "Ubah kondisi Pokémon Bertarung lawan menjadi Pusing."
 		}
 	}],

@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "モンジャラ",
 		'zh-tw': "蔓藤怪",
 		th: "มอนจารา",
+		ko: "",
 		id: "Tangela"
 	},
 
@@ -22,6 +23,7 @@ const card: Card = {
 		ja: "ちぎれても 無限に 伸びる ツルの 奥の 正体は いまだ 解明されていない。",
 		'zh-tw': "藤蔓即使斷了也會繼續無限地生長。藤蔓下的 真面目至今仍是個謎。",
 		th: "แม้เถาวัลย์จะขาดก็ยืดยาวออกมาได้ไม่มีที่สิ้นสุด ตัวตนลึก ๆ ที่แท้จริงของมัน จนทุกวันนี้ก็ยังพิสูจน์ไม่ได้",
+		ko: "",
 		id: "Hingga saat ini, wujud asli Tangela di balik jalar yang terus tumbuh tanpa batas walau dicabut ini masih belum terungkap."
 	},
 
@@ -34,6 +36,7 @@ const card: Card = {
 			ja: "まきつきさほう",
 			'zh-tw': "緊束作法",
 			th: "วิธีการพันเลื้อย",
+			ko: "",
 			id: "Etiket Membelit"
 		},
 
@@ -43,6 +46,7 @@ const card: Card = {
 			ja: "この番、手札から「エリカの招待」を出して使っていたなら、60ダメージ追加。",
 			'zh-tw': "在這個回合，若從手牌使出了「莉佳的招待」，則增加60點傷害。",
 			th: "เทิร์นนี้ ถ้านำการ์ด [คำเชิญของเอริกะ] จากบนมือออกมาใช้แล้ว การโจมตีนี้จะเพิ่มแดเมจอีก 60",
+			ko: "",
 			id: "Jika pada giliran ini, Undangan Erika telah dimainkan dari Kartu Pegangan, kerusakan yang diberikan bertambah sejumlah 60."
 		}
 	}],

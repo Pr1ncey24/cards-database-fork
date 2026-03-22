@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "ヤドラン",
 		'zh-tw': "呆殼獸",
 		th: "ยาโดรัน",
+		ko: "",
 		id: "Slowbro"
 	},
 
@@ -22,6 +23,7 @@ const card: Card = {
 		ja: "ヤドンが 海へ エサを 取りにいったとき シェルダーに 尻尾を かまれ ヤドランになった。",
 		'zh-tw': "呆呆獸去海裡捕食時，被大舌貝咬住了尾巴， 於是就變成了呆殼獸。",
 		th: "ยาดงโดนเชลเดอร์งับหางตอนออกไปหาอาหารแถวทะเลจนกลายเป็นยาโดรัน",
+		ko: "",
 		id: "Ketika Slowpoke sedang mencari makan di laut, ekornya digigit oleh Shellder, lalu ia berevolusi menjadi Slowbro."
 	},
 
@@ -34,6 +36,7 @@ const card: Card = {
 			ja: "おおあくび",
 			'zh-tw': "大哈欠",
 			th: "หาวปากกว้าง",
+			ko: "",
 			id: "Menguap Lebar"
 		},
 
@@ -41,6 +44,7 @@ const card: Card = {
 			ja: "おたがいのバトルポケモンを、それぞれねむりにする。",
 			'zh-tw': "將雙方的戰鬥寶可夢【睡眠】。",
 			th: "ทำให้โปเกมอนบนตำแหน่งต่อสู้ของทั้งสองฝ่าย แต่ละตัวเป็นสภาวะ[หลับ]",
+			ko: "",
 			id: "Ubah kondisi Pokémon Bertarung kedua pemain masing-masing menjadi Tidur."
 		}
 	}, {
@@ -50,6 +54,7 @@ const card: Card = {
 			ja: "のんびりタックル",
 			'zh-tw': "悠哉衝撞",
 			th: "กระแทกเรื่อยเฉื่อย",
+			ko: "",
 			id: "Serudukan Perlahan"
 		},
 
@@ -59,6 +64,7 @@ const card: Card = {
 			ja: "この番、このポケモンに進化していたなら、このワザは失敗。",
 			'zh-tw': "在這個回合，若進化成這隻寶可夢，則這個招式失敗。",
 			th: "เทิร์นนี้ ถ้าวิวัฒนาการเป็นโปเกมอนนี้แล้ว ท่าต่อสู้นี้จะล้มเหลว",
+			ko: "",
 			id: "Jika pada giliran ini, Pokémon berevolusi menjadi Pokémon ini, serangan ini gagal."
 		}
 	}],

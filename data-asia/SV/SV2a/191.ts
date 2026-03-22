@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "ゴローニャex",
 		'zh-tw': "隆隆岩ex",
 		th: "โกโลเนียex",
+		ko: "",
 		id: "Golem ex"
 	},
 
@@ -25,6 +26,7 @@ const card: Card = {
 			ja: "ダイナミックロール",
 			'zh-tw': "極限轉動",
 			th: "ไดนามิกโรล",
+			ko: "",
 			id: "Dynamic Roll"
 		},
 
@@ -34,6 +36,7 @@ const card: Card = {
 			ja: "次の自分の番、このポケモンが使うワザの、相手のバトルポケモンへのダメージは「+120」される。",
 			'zh-tw': "在下個自己的回合，這隻寶可夢使用的招式，對對手的戰鬥寶可夢造成的傷害「+120」點。",
 			th: "เทิร์นถัดไปของฝ่ายเรา แดเมจของท่าต่อสู้ที่โปเกมอนนี้ ใช้ทำกับโปเกมอนบนตำแหน่งต่อสู้ฝ่ายตรงข้ามจะถูก [+120]",
+			ko: "",
 			id: "Pada giliran sendiri berikutnya, kerusakan akibat serangan yang digunakan oleh Pokémon ini kepada Pokémon Bertarung lawan bertambah sejumlah 120."
 		}
 	}, {
@@ -43,6 +46,7 @@ const card: Card = {
 			ja: "がんせきボンバー",
 			'zh-tw': "岩石衝撞",
 			th: "ระเบิดหิน",
+			ko: "",
 			id: "Bom Batu"
 		},
 
@@ -52,6 +56,7 @@ const card: Card = {
 			ja: "このワザのダメージは抵抗力を計算しない。",
 			'zh-tw': "這個招式的傷害不計算抵抗力。",
 			th: "แดเมจของท่าต่อสู้นี้จะไม่นำความต้านทานมาคิด",
+			ko: "",
 			id: "Kerusakan akibat serangan ini tidak terpengaruh oleh Resistansi."
 		}
 	}],

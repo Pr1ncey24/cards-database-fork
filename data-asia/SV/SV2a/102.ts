@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "タマタマ",
 		'zh-tw': "蛋蛋",
 		th: "ทามะทามะ",
+		ko: "",
 		id: "Exeggcute"
 	},
 
@@ -22,6 +23,7 @@ const card: Card = {
 		ja: "６匹で いないと 落ち着かない。 １匹でも いなくなると とたんに 逃げ腰に なるのだ。",
 		'zh-tw': "非得湊齊６隻才會有安全感。那怕只是少了１隻，都會立刻 變得很膽小，隨時想要逃跑。",
 		th: "ถ้าอยู่ไม่ครบทั้ง 6 ตัวจะรู้สึกไม่สงบใจ ถ้าหายไปแม้แต่ 1 ตัวจะเตรียมตัววิ่งหนีทันที",
+		ko: "",
 		id: "Exeggcute tidak tenang jika tidak berenam. Begitu salah satu menghilang, Pokémon ini segera ingin melarikan diri."
 	},
 
@@ -34,6 +36,7 @@ const card: Card = {
 			ja: "たまころがり",
 			'zh-tw': "滾球",
 			th: "กลิ้งบอล",
+			ko: "",
 			id: "Menggelindingkan Bola"
 		},
 
@@ -43,6 +46,7 @@ const card: Card = {
 			ja: "ウラが出るまでコインを投げ、オモテの数×30ダメージ。",
 			'zh-tw': "擲硬幣直到出現反面，造成正面出現的次數×30點傷害。",
 			th: "ทอยเหรียญจนกว่าจะออกก้อย แดเมจจะเท่ากับจำนวนครั้งที่ออกหัว x30",
+			ko: "",
 			id: "Lempar koin hingga hasilnya sisi belakang. Serangan ini memberikan kerusakan sejumlah 30 untuk tiap lemparan dengan hasil sisi depan."
 		}
 	}],

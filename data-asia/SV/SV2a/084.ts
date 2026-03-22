@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "ドードー",
 		'zh-tw': "嘟嘟",
 		th: "โดโด",
+		ko: "",
 		id: "Doduo"
 	},
 
@@ -22,6 +23,7 @@ const card: Card = {
 		ja: "２つの 頭の 脳みそは テレパシーのような 力で 気持ちを 通じ合わせているらしい。",
 		'zh-tw': "２個腦袋好像會用 類似心靈感應的力量， 來傳遞彼此的想法。",
 		th: "ดูเหมือนว่าสมองในหัวทั้งสองนั้นจะสื่อความรู้สึกถึงกันได้ด้วยพลังคล้ายโทรจิต",
+		ko: "",
 		id: "Kabarnya otak pada 2 kepala Doduo saling menyalurkan perasaan dengan kekuatan yang seperti telepati."
 	},
 
@@ -34,6 +36,7 @@ const card: Card = {
 			ja: "とつげき",
 			'zh-tw': "突擊",
 			th: "ประจัญบาน",
+			ko: "",
 			id: "Menyerang"
 		},
 
@@ -43,6 +46,7 @@ const card: Card = {
 			ja: "このポケモンにも10ダメージ。",
 			'zh-tw': "這隻寶可夢也受到10點傷害。",
 			th: "โปเกมอนนี้ก็จะได้รับแดเมจ 10 ด้วย",
+			ko: "",
 			id: "Pokémon ini juga menerima kerusakan sejumlah 10."
 		}
 	}],

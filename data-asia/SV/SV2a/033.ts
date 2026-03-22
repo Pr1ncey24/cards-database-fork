@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "ニドリーノ",
 		'zh-tw': "尼多力諾",
 		th: "นิโดริโน",
+		ko: "",
 		id: "Nidorino"
 	},
 
@@ -22,6 +23,7 @@ const card: Card = {
 		ja: "神経質で 喧嘩っ早い。 体内の アドレナリンが 増えると 毒素の 濃度も 高まるぞ。",
 		'zh-tw': "神經質且容易發脾氣打架。當體內的腎上腺素增加時， 毒素的濃度也會提升。",
 		th: "หงุดหงิดขี้กังวล แค่เรื่องนิดหน่อยก็ชวนทะเลาะ หากอะดรีนาลีนในร่างกายเพิ่มสูงขึ้น ความเข้มข้นของพิษก็จะสูงขึ้นไปด้วย",
+		ko: "",
 		id: "Nidorino mudah tersinggung dan suka berkelahi. Ketika adrenalin di dalam tubuhnya bertambah, kepekatan unsur racunnya pun meningkat."
 	},
 
@@ -34,6 +36,7 @@ const card: Card = {
 			ja: "するどいキバ",
 			'zh-tw': "銳利之牙",
 			th: "เขี้ยวคม",
+			ko: "",
 			id: "Taring Tajam"
 		},
 
@@ -45,6 +48,7 @@ const card: Card = {
 			ja: "かいりきホーン",
 			'zh-tw': "怪力角擊",
 			th: "เขามหากาฬ",
+			ko: "",
 			id: "Tanduk Tenaga Super"
 		},
 

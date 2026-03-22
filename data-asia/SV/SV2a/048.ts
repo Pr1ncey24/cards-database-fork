@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "コンパン",
 		'zh-tw': "毛球",
 		th: "คองปัง",
+		ko: "",
 		id: "Venonat"
 	},
 
@@ -22,6 +23,7 @@ const card: Card = {
 		ja: "全身から 毒が にじみでる。 暗くなると 灯りに 群がった 小さな 虫ポケモンを 捕らえる。",
 		'zh-tw': "全身上下都會滲出毒素。天黑後就會去捕捉聚在 燈光處的小型蟲寶可夢。",
 		th: "มีพิษไหลซึมออกจากทั่วร่างกาย พอตกค่ำจะไปจับโปเกมอนแมลงตัวเล็ก ๆ ที่มารวมตัวกันตามแสงไฟ",
+		ko: "",
 		id: "Racun bercucuran dari tubuh Venonat. Ketika hari menjadi gelap, Pokémon ini menangkap Pokémon serangga kecil yang berkumpul di sumber cahaya."
 	},
 
@@ -34,6 +36,7 @@ const card: Card = {
 			ja: "かじる",
 			'zh-tw': "咬",
 			th: "แทะ",
+			ko: "",
 			id: "Menggerogot"
 		},
 
@@ -45,6 +48,7 @@ const card: Card = {
 			ja: "ビーム",
 			'zh-tw': "光束",
 			th: "ลำแสง",
+			ko: "",
 			id: "Beam"
 		},
 

@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "安全ゴーグル",
 		'zh-tw': "安全護目鏡",
 		th: "แว่นนิรภัย",
+		ko: "",
 		id: "Kacamata Keselamatan"
 	},
 
@@ -19,6 +20,7 @@ const card: Card = {
 		ja: "このカードをつけているたねポケモンの弱点は、すべてなくなる。",
 		'zh-tw': "附有這張卡的【基礎】寶可夢的弱點全部消除。",
 		th: "จุดอ่อนของโปเกมอน[พื้นฐาน]ที่ติดการ์ดนี้อยู่ ทั้งหมดจะหายไป",
+		ko: "",
 		id: "Pokémon Basic yang mengenakan kartu ini menjadi tidak memiliki Kelemahan."
 	},
 

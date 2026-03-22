@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "ニョロゾ",
 		'zh-tw': "蚊香君",
 		th: "เนียวโรโซ",
+		ko: "",
 		id: "Poliwhirl"
 	},
 
@@ -22,6 +23,7 @@ const card: Card = {
 		ja: "ぬめぬめとした 粘液状の 汗を かく。 敵に 捕まっても ぬるりと すり抜け 逃げるのだ。",
 		'zh-tw': "流的汗是又黏又滑的黏液狀。即使被敵人捉住， 也能滑溜溜地輕易逃脫。",
 		th: "ขับเหงื่อที่มีลักษณะเป็นเมือกเหนียวเหนอะออกมา ถึงจะโดนศัตรูจับตัว ก็สามารถลื่นไหลหนีออกมาได้",
+		ko: "",
 		id: "Poliwhirl mengalirkan keringat berlendir yang licin. Meskipun ditangkap musuh, Pokémon ini dapat meloloskan diri dan kabur berkat kelicinannya."
 	},
 
@@ -34,6 +36,7 @@ const card: Card = {
 			ja: "スプラッシュ",
 			'zh-tw': "飛濺",
 			th: "สแปลช",
+			ko: "",
 			id: "Splash"
 		},
 
@@ -45,6 +48,7 @@ const card: Card = {
 			ja: "かえるとび",
 			'zh-tw': "蛙跳",
 			th: "กระโดดกบ",
+			ko: "",
 			id: "Lompat Katak"
 		},
 
@@ -54,6 +58,7 @@ const card: Card = {
 			ja: "コインを1回投げオモテなら、60ダメージ追加。",
 			'zh-tw': "擲1次硬幣若為正面，則增加60點傷害。",
 			th: "ทอยเหรียญ 1 ครั้งถ้าออกหัว การโจมตีนี้จะเพิ่มแดเมจอีก 60",
+			ko: "",
 			id: "Lempar koin 1 kali. Jika hasilnya sisi depan, kerusakan yang diberikan bertambah sejumlah 60."
 		}
 	}],

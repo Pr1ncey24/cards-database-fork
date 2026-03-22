@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "ガーディ",
 		'zh-tw': "卡蒂狗",
 		th: "การ์ดี",
+		ko: "",
 		id: "Growlithe"
 	},
 
@@ -22,6 +23,7 @@ const card: Card = {
 		ja: "自分より 強くて 大きな 相手にも 恐れずに 立ち向かう 勇敢で 頼もしい 性格。",
 		'zh-tw': "能毫不畏懼地去對抗比自己更強更大的對手。 性格非常勇敢可靠。",
 		th: "มีนิสัยที่พึ่งพาได้ด้วยความกล้ายืนหยัดสู้โดยไม่กลัวคู่ต่อสู้ที่แข็งแกร่งและใหญ่กว่าตัวเอง",
+		ko: "",
 		id: "Growlithe memiliki kepribadian pemberani dan dapat diandalkan, tidak takut untuk menghadapi lawan yang lebih kuat dan lebih besar dari dirinya."
 	},
 
@@ -34,6 +36,7 @@ const card: Card = {
 			ja: "じょうはつ",
 			'zh-tw': "蒸發",
 			th: "ระเหย",
+			ko: "",
 			id: "Menguapkan"
 		},
 
@@ -43,6 +46,7 @@ const card: Card = {
 			ja: "相手のバトルポケモンについているエネルギーを1個選び、トラッシュする。",
 			'zh-tw': "選擇1個對手的戰鬥寶可夢身上附加的【水】能量，將其丟棄。",
 			th: "เลือกพลังงาน[น้ำ]ที่ติดอยู่กับโปเกมอนบนตำแหน่งต่อสู้ฝ่ายตรงข้าม 1 ลูก ทิ้งที่ตำแหน่งทิ้งการ์ด",
+			ko: "",
 			id: "Pilih 1 Energi {Air} yang dikenakan pada Pokémon Bertarung lawan, lalu buang ke Trash."
 		}
 	}],

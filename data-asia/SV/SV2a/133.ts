@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "イーブイ",
 		'zh-tw': "伊布",
 		th: "อีวุย",
+		ko: "",
 		id: "Eevee"
 	},
 
@@ -22,6 +23,7 @@ const card: Card = {
 		ja: "環境の 変化に すぐさま 合わせられるよう いくつもの 進化の 可能性を 秘めている。",
 		'zh-tw': "為了能瞬即適應環境的變化，這種寶可夢蘊含著 許多種進化的可能性。",
 		th: "มีความสามารถพิเศษในการวิวัฒนาการอย่างหลากหลายเพื่อปรับตัวให้เข้ากับการเปลี่ยนแปลงของสิ่งแวดล้อมได้อย่างทันที",
+		ko: "",
 		id: "Eevee berpotensi untuk berevolusi ke berbagai macam wujud untuk segera dapat beradaptasi terhadap perubahan lingkungan."
 	},
 
@@ -34,6 +36,7 @@ const card: Card = {
 			ja: "カラフルフレンズ",
 			'zh-tw': "鮮豔友情",
 			th: "คัลเลอร์ฟูลเฟรนส์",
+			ko: "",
 			id: "Colorful Friends"
 		},
 
@@ -41,6 +44,7 @@ const card: Card = {
 			ja: "自分の山札から、それぞれちがうタイプのポケモンを3枚まで選び、相手に見せて、手札に加える。そして山札を切る。",
 			'zh-tw': "從自己的牌庫選擇最多3張各不同屬性的寶可夢卡，在給對手看過後加入手牌。並且重洗牌庫。",
 			th: "เลือกการ์ดโปเกมอนที่แต่ละใบต่างประเภทกันได้สูงสุด 3 ใบ จากสำรับการ์ดฝ่ายเรา ให้ฝ่ายตรงข้ามดู นำขึ้นมือ แล้วสับสำรับการ์ด",
+			ko: "",
 			id: "Pilih paling banyak 3 lembar Pokémon yang masing-masing berbeda tipenya dari Deck sendiri, perlihatkan ke lawan, lalu tambahkan ke Kartu Pegangan. Kemudian, kocok Deck."
 		}
 	}, {
@@ -50,6 +54,7 @@ const card: Card = {
 			ja: "スキップ",
 			'zh-tw': "小跳步",
 			th: "กระโดดข้าม",
+			ko: "",
 			id: "Skip"
 		},
 

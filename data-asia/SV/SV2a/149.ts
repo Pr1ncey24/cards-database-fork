@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "カイリュー",
 		'zh-tw': "快龍",
 		th: "ไคริว",
+		ko: "",
 		id: "Dragonite"
 	},
 
@@ -22,6 +23,7 @@ const card: Card = {
 		ja: "広い 海の どこかには カイリューだけが 集まって 暮らす 島が あるらしい。",
 		'zh-tw': "在廣大海洋的某處，似乎存在著只群居著 快龍的島。",
 		th: "เหมือนจะมีเกาะสักแห่งในทะเลแสนกว้างใหญ่ที่มีแต่เหล่าไคริวอาศัยอยู่",
+		ko: "",
 		id: "Kabarnya pada suatu tempat di laut yang luas, terdapat pulau yang hanya ditempati oleh kumpulan Dragonite."
 	},
 
@@ -34,6 +36,7 @@ const card: Card = {
 			ja: "ジェットクルーズ",
 			'zh-tw': "噴射巡航",
 			th: "เจ็ตครูส",
+			ko: "",
 			id: "Jet Cruise"
 		},
 
@@ -41,6 +44,7 @@ const card: Card = {
 			ja: "このポケモンがいるかぎり、自分のポケモン全員のにげるためのエネルギーは、すべてなくなる。",
 			'zh-tw': "只要這隻寶可夢在場上，自己的所有寶可夢【撤退】所需的能量全部消除。",
 			th: "ตราบใดที่โปเกมอนนี้ยังอยู่ พลังงานสำหรับ[หนี]ของโปเกมอนฝ่ายเราทุกตัว ทั้งหมดจะหายไป",
+			ko: "",
 			id: "Selama Pokémon ini ada di Arena, semua Pokémon sendiri menjadi tidak membutuhkan Energi untuk Mundur."
 		}
 	}],
@@ -52,6 +56,7 @@ const card: Card = {
 			ja: "りゅうのはどう",
 			'zh-tw': "龍之波動",
 			th: "คลื่นมังกร",
+			ko: "",
 			id: "Aura Naga"
 		},
 
@@ -61,6 +66,7 @@ const card: Card = {
 			ja: "自分の山札を上から2枚トラッシュする。",
 			'zh-tw': "將自己的牌庫上方2張卡丟棄。",
 			th: "ทิ้งการ์ด 2 ใบจากด้านบนของสำรับการ์ดฝ่ายเราที่ตำแหน่งทิ้งการ์ด",
+			ko: "",
 			id: "Buang 2 kartu dari atas Deck sendiri ke Trash."
 		}
 	}],

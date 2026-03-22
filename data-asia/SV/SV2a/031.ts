@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "ニドクイン",
 		'zh-tw': "尼多后",
 		th: "นิโดควีน",
+		ko: "",
 		id: "Nidoqueen"
 	},
 
@@ -22,6 +23,7 @@ const card: Card = {
 		ja: "背中の 棘の 隙間に 子どもを 乗せて あやす。 そのときに 毒が 出ることは けっして ないのだ。",
 		'zh-tw': "會把孩子放在背上的刺與刺之間來哄牠們。 這時候絕對不會釋放毒素。",
 		th: "ปลอบประโลมลูกด้วยการยกขึ้นวางระหว่างหนามบนหลัง ในระหว่างนั้นไม่มีทางที่พิษจะไหลออกมา",
+		ko: "",
 		id: "Nidoqueen menaikkan anaknya ke celah duri di punggungnya agar tenang. Pada saat itu, racun pasti tidak akan keluar dari duri tersebut."
 	},
 
@@ -34,6 +36,7 @@ const card: Card = {
 			ja: "クイーンプレス",
 			'zh-tw': "皇后壓制",
 			th: "ควีนเพรส",
+			ko: "",
 			id: "Queen Press"
 		},
 
@@ -43,6 +46,7 @@ const card: Card = {
 			ja: "次の相手の番、このポケモンはたねポケモンからワザのダメージを受けない。",
 			'zh-tw': "在下個對手的回合，這隻寶可夢不會受到【基礎】寶可夢招式的傷害。",
 			th: "เทิร์นถัดไปของฝ่ายตรงข้าม โปเกมอนนี้จะไม่ได้รับแดเมจของท่าต่อสู้จากโปเกมอน[พื้นฐาน]",
+			ko: "",
 			id: "Pada giliran lawan berikutnya, Pokémon ini tidak menerima kerusakan akibat serangan dari Pokémon Basic."
 		}
 	}, {
@@ -52,6 +56,7 @@ const card: Card = {
 			ja: "つきたおし",
 			'zh-tw': "撞倒",
 			th: "พุ่งชน",
+			ko: "",
 			id: "Mendorong Jatuh"
 		},
 

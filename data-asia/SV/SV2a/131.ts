@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "ラプラス",
 		'zh-tw': "拉普拉斯",
 		th: "ลาพลาซ",
+		ko: "",
 		id: "Lapras"
 	},
 
@@ -22,6 +23,7 @@ const card: Card = {
 		ja: "寒さに 強く 氷の 海も 平気。 皮膚は スベスベで 少しだけ ひんやり しているよ。",
 		'zh-tw': "十分耐寒，不畏冰海。皮膚滑滑的， 摸起來會有點涼。",
 		th: "ทนทานความหนาวเย็นแม้ทะเลน้ำแข็งก็ไม่เป็นไร ผิวหนังเรียบลื่นทำให้รู้สึกเย็นเล็กน้อย",
+		ko: "",
 		id: "Lapras tahan dingin dan laut es pun tidak menjadi masalah baginya. Kulitnya mulus dan agak dingin."
 	},
 
@@ -34,6 +36,7 @@ const card: Card = {
 			ja: "せなかにのせる",
 			'zh-tw': "後背乘載",
 			th: "ให้ขี่หลัง",
+			ko: "",
 			id: "Letakkan ke Punggung"
 		},
 
@@ -41,6 +44,7 @@ const card: Card = {
 			ja: "自分の山札からポケモンを2枚まで選び、相手に見せて、手札に加える。そして山札を切る。",
 			'zh-tw': "從自己的牌庫選擇最多2張寶可夢卡，在給對手看過後加入手牌。並且重洗牌庫。",
 			th: "เลือกการ์ดโปเกมอนได้สูงสุด 2 ใบจากสำรับการ์ดฝ่ายเรา ให้ฝ่ายตรงข้ามดู นำขึ้นมือ แล้วสับสำรับการ์ด",
+			ko: "",
 			id: "Pilih paling banyak 2 lembar Pokémon dari Deck sendiri, perlihatkan ke lawan, lalu tambahkan ke Kartu Pegangan. Kemudian, kocok Deck."
 		}
 	}, {
@@ -50,6 +54,7 @@ const card: Card = {
 			ja: "アクアエッジ",
 			'zh-tw': "水之刀鋒",
 			th: "อควาเอดจ์",
+			ko: "",
 			id: "Aqua Edge"
 		},
 

@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "ナゾノクサ",
 		'zh-tw': "走路草",
 		th: "นาโซโนะคุสะ",
+		ko: "",
 		id: "Oddish"
 	},
 
@@ -22,6 +23,7 @@ const card: Card = {
 		ja: "昼間は 太陽を 避けるため 冷たい 地面に もぐっている。 月の光を 浴びて 育つ。",
 		'zh-tw': "白天為了躲避太陽，會鑽進涼爽的地下。 藉由沐浴月光來成長。",
 		th: "ช่วงกลางวันจะมุดอยู่ใต้ดินเย็น ๆ เพื่อหลบดวงอาทิตย์ เติบโตด้วยการอาบแสงจันทร์",
+		ko: "",
 		id: "Pada siang hari, Oddish membenamkan diri ke dalam tanah yang dingin untuk menghindari matahari. Pokémon ini tumbuh dengan bermandikan cahaya bulan."
 	},
 
@@ -34,6 +36,7 @@ const card: Card = {
 			ja: "はっぱカッター",
 			'zh-tw': "飛葉快刀",
 			th: "คัตเตอร์ใบไม้",
+			ko: "",
 			id: "Daun Pemotong"
 		},
 

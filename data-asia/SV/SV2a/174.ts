@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "ニドキング",
 		'zh-tw': "尼多王",
 		th: "นิโดคิง",
+		ko: "",
 		id: "Nidoking"
 	},
 
@@ -21,6 +22,7 @@ const card: Card = {
 		ja: "力自慢の ポケモン。 太い 尻尾と ダイヤをも 砕く ツノを 駆使して 豪快に 戦う。",
 		'zh-tw': "以力氣為傲的寶可夢。會善用粗壯的尾巴和連鑽石也能擊碎的角，豪邁地戰鬥。",
 		th: "เป็นโปเกมอนที่ภาคภูมิใจในพละกำลัง ใช้หางอ้วน ๆ กับเขาที่ทุบบดแม้กระทั่งเพชรได้อย่างชำนาญ และต่อสู้อย่างฮึกเหิม",
+		ko: "",
 		id: "Pokémon yang bangga pada kekuatannya. Nidoking menggunakan ekornya yang tebal dan tanduknya yang mampu menghancurkan intan sekalipun secara maksimal untuk bertarung dengan penuh antusias."
 	},
 
@@ -33,6 +35,7 @@ const card: Card = {
 			ja: "はりきりキング",
 			'zh-tw': "活力王者",
 			th: "ราชาฮึกเหิม",
+			ko: "",
 			id: "Raja Antusias"
 		},
 
@@ -40,6 +43,7 @@ const card: Card = {
 			ja: "自分の場に「ニドクイン」がいるなら、このポケモンがワザを使うためのエネルギーは、すべてなくなる。",
 			'zh-tw': "若自己的場上有「尼多后」，則這隻寶可夢使用招式所需的能量全部消除。",
 			th: "ถ้าบนกระดานฝ่ายเรามี [นิโดควีน] อยู่ พลังงานสำหรับใช้ท่าต่อสู้ของโปเกมอนนี้ ทั้งหมดจะหายไป",
+			ko: "",
 			id: "Jika ada Nidoqueen di Arena sendiri, Pokémon ini menjadi tidak membutuhkan Energi untuk menggunakan serangan."
 		}
 	}],
@@ -51,6 +55,7 @@ const card: Card = {
 			ja: "ベノムインパクト",
 			'zh-tw': "毒液衝撞",
 			th: "เวนอมอิมแพกต์",
+			ko: "",
 			id: "Venom Impact"
 		},
 
@@ -60,6 +65,7 @@ const card: Card = {
 			ja: "相手のバトルポケモンをどくにする。",
 			'zh-tw': "將對手的戰鬥寶可夢【中毒】。",
 			th: "ทำให้โปเกมอนบนตำแหน่งต่อสู้ฝ่ายตรงข้ามเป็นสภาวะ[พิษ]",
+			ko: "",
 			id: "Ubah kondisi Pokémon Bertarung lawan menjadi Racun."
 		}
 	}],

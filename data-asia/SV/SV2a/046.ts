@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "パラス",
 		'zh-tw': "派拉斯",
 		th: "พารัส",
+		ko: "",
 		id: "Paras"
 	},
 
@@ -22,6 +23,7 @@ const card: Card = {
 		ja: "冬虫夏草と いう キノコが 虫を 操っているのだ。 虫の 意思は 無視される。",
 		'zh-tw': "控制蟲子的是一種 叫做冬蟲夏草的蕈類。 蟲子的意志會被忽視。",
 		th: "เห็ดที่ชื่อโทจูคะโซจะคอยบงการแมลง โดยไม่สนใจความต้องการของแมลง",
+		ko: "",
 		id: "Jamur ulat Yarsagumba mengendalikan bagian tubuh serangga dari Paras. Kemauan serangga tidak dipedulikan."
 	},
 
@@ -34,6 +36,7 @@ const card: Card = {
 			ja: "ふむ",
 			'zh-tw': "踩",
 			th: "เหยียบ",
+			ko: "",
 			id: "Menginjak"
 		},
 
@@ -45,6 +48,7 @@ const card: Card = {
 			ja: "ほうしだま",
 			'zh-tw': "孢子彈",
 			th: "ลูกสปอร์",
+			ko: "",
 			id: "Bola Spora"
 		},
 
@@ -54,6 +58,7 @@ const card: Card = {
 			ja: "相手のバトルポケモンをねむりにする。",
 			'zh-tw': "將對手的戰鬥寶可夢【睡眠】。",
 			th: "ทำให้โปเกมอนบนตำแหน่งต่อสู้ฝ่ายตรงข้ามเป็นสภาวะ[หลับ]",
+			ko: "",
 			id: "Ubah kondisi Pokémon Bertarung lawan menjadi Tidur."
 		}
 	}],

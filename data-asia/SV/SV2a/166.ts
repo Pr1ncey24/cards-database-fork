@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "フシギダネ",
 		'zh-tw': "妙蛙種子",
 		th: "ฟุชิกิดาเนะ",
+		ko: "",
 		id: "Bulbasaur"
 	},
 
@@ -21,6 +22,7 @@ const card: Card = {
 		ja: "生まれて しばらくの あいだ 背中の タネに つまった 栄養を とって 育つ。",
 		'zh-tw': "在出生後的一段時間內，牠會吸收背上種子裡儲存著的營養成長。",
 		th: "ในช่วงเวลาหนึ่งหลังจากเกิดมาแล้ว จะดูดกินสารอาหารที่สะสมไว้ในเมล็ดที่อยู่กลางหลังเพื่อเลี้ยงตัวให้เติบโต",
+		ko: "",
 		id: "Sesaat setelah dilahirkan, Bulbasaur menggunakan nutrisi yang terkandung dalam biji di punggungnya untuk tumbuh."
 	},
 
@@ -33,6 +35,7 @@ const card: Card = {
 			ja: "やどりぎのタネ",
 			'zh-tw': "寄生種子",
 			th: "เมล็ดกาฝาก",
+			ko: "",
 			id: "Bibit Parasit"
 		},
 
@@ -42,6 +45,7 @@ const card: Card = {
 			ja: "このポケモンのHPを「20」回復する。",
 			'zh-tw': "將這隻寶可夢恢復「20」HP。",
 			th: "ฟื้นฟู HP ของโปเกมอนนี้ [20]",
+			ko: "",
 			id: "Pulihkan HP Pokémon ini sejumlah 20."
 		}
 	}],

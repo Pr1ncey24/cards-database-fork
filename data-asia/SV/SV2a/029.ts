@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "ニドラン♀",
 		'zh-tw': "尼多蘭",
 		th: "นิโดรัน♀",
+		ko: "",
 		id: "Nidoran♀"
 	},
 
@@ -22,6 +23,7 @@ const card: Card = {
 		ja: "硬い 前歯で 木の実を 砕いて 食べる。 ツノの 先は オスより 少し 丸みを 帯びている。",
 		'zh-tw': "會用堅硬的門牙咬碎樹果後吃下。角的尖端 會比雄性還要圓一些。",
 		th: "ใช้ฟันหน้าที่สุดแข็งกะเทาะผลไม้และกัดกิน ปลายเขานั้นมีความมนกลมมากกว่าตัวผู้",
+		ko: "",
 		id: "Nidoran betina menggunakan gigi depannya yang keras untuk mengunyah hancur beri dan memakannya. Ujung tanduknya lebih membulat daripada yang jantan."
 	},
 
@@ -34,6 +36,7 @@ const card: Card = {
 			ja: "どくのつの",
 			'zh-tw': "毒角",
 			th: "เขาพิษ",
+			ko: "",
 			id: "Tanduk Beracun"
 		},
 
@@ -43,6 +46,7 @@ const card: Card = {
 			ja: "相手のバトルポケモンをどくにする。",
 			'zh-tw': "將對手的戰鬥寶可夢【中毒】。",
 			th: "ทำให้โปเกมอนบนตำแหน่งต่อสู้ฝ่ายตรงข้ามเป็นสภาวะ[พิษ]",
+			ko: "",
 			id: "Ubah kondisi Pokémon Bertarung lawan menjadi Racun."
 		}
 	}],

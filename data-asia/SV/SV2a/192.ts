@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "ガルーラex",
 		'zh-tw': "袋獸ex",
 		th: "การูราex",
+		ko: "",
 		id: "Kangaskhan ex"
 	},
 
@@ -25,6 +26,7 @@ const card: Card = {
 			ja: "トリプルドロー",
 			'zh-tw': "三重抽出",
 			th: "ทริปเปิ้ลดรอว์",
+			ko: "",
 			id: "Triple Draw"
 		},
 
@@ -32,6 +34,7 @@ const card: Card = {
 			ja: "自分の山札を3枚引く。",
 			'zh-tw': "從自己的牌庫抽出3張卡。",
 			th: "จั่วการ์ด 3 ใบจากสำรับการ์ดฝ่ายเรา",
+			ko: "",
 			id: "Ambil 3 kartu dari atas Deck sendiri."
 		}
 	}, {
@@ -41,6 +44,7 @@ const card: Card = {
 			ja: "マシンガンパンチ",
 			'zh-tw': "機關槍拳",
 			th: "แมชชีนกันพันช์",
+			ko: "",
 			id: "Machinegun Punch"
 		},
 
@@ -50,6 +54,7 @@ const card: Card = {
 			ja: "コインを4回投げ、オモテの数×100ダメージ。",
 			'zh-tw': "擲4次硬幣，造成正面出現的次數×100點傷害。",
 			th: "ทอยเหรียญ 4 ครั้ง แดเมจจะเท่ากับจำนวนครั้งที่ออกหัว x100",
+			ko: "",
 			id: "Lempar koin 4 kali. Serangan ini memberikan kerusakan sejumlah 100 untuk tiap lemparan dengan hasil sisi depan."
 		}
 	}],

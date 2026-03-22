@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "ヤドン",
 		'zh-tw': "呆呆獸",
 		th: "ยาดง",
+		ko: "",
 		id: "Slowpoke"
 	},
 
@@ -22,6 +23,7 @@ const card: Card = {
 		ja: "動きが のろく 間抜け。 叩かれても ５秒 たってから 痛さを 感じるほどだ。",
 		'zh-tw': "動作遲鈍且呆頭呆腦。就算挨打也得花上５秒 才會感受到疼痛。",
 		th: "อืดอาดและซื่อบื้อ ถึงขั้นว่าถูกตีไป 5 วินาทีถึงเพิ่งรู้สึกเจ็บ",
+		ko: "",
 		id: "Slowpoke lamban dan lemot. Pokémon ini baru merasakan rasa sakit akibat dipukul setelah 5 detik berlalu."
 	},
 
@@ -34,6 +36,7 @@ const card: Card = {
 			ja: "かいすいよく",
 			'zh-tw': "海水浴",
 			th: "เล่นน้ำทะเล",
+			ko: "",
 			id: "Mandi Air Laut"
 		},
 
@@ -41,6 +44,7 @@ const card: Card = {
 			ja: "このポケモンのHPを「30」回復し、特殊状態もすべて回復する。",
 			'zh-tw': "將這隻寶可夢恢復「30」HP，特殊狀態也全部恢復。",
 			th: "ฟื้นฟู HP ของโปเกมอนนี้ [30] รักษาสภาวะผิดปกติทั้งหมดด้วย",
+			ko: "",
 			id: "Pulihkan HP Pokémon ini sejumlah 30, lalu pulihkan juga semua Kondisi Khusus yang dialami Pokémon ini."
 		}
 	}, {
@@ -50,6 +54,7 @@ const card: Card = {
 			ja: "ずつき",
 			'zh-tw': "頭錘",
 			th: "พุ่งหัวชน",
+			ko: "",
 			id: "Tandukan Kepala"
 		},
 

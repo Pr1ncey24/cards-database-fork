@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "ミュウex",
 		'zh-tw': "夢幻ex",
 		th: "มิวex",
+		ko: "",
 		id: "Mew ex"
 	},
 
@@ -26,6 +27,7 @@ const card: Card = {
 			ja: "リスタート",
 			'zh-tw': "重啟",
 			th: "รีสตาร์ต",
+			ko: "",
 			id: "Restart"
 		},
 
@@ -33,6 +35,7 @@ const card: Card = {
 			ja: "自分の番に1回使える。自分の手札が3枚になるように、山札を引く。",
 			'zh-tw': "在自己的回合時可使用1次。從牌庫抽卡直到自己的手牌滿3張為止。",
 			th: "ใช้ได้ 1 ครั้งในเทิร์นฝ่ายเรา จั่วการ์ดจากสำรับการ์ด จนได้การ์ดบนมือฝ่ายเราเป็น 3 ใบ",
+			ko: "",
 			id: "Dapat digunakan 1 kali pada giliran sendiri. Ambil kartu dari atas Deck hingga jumlah Kartu Pegangan sendiri menjadi 3 lembar."
 		}
 	}],
@@ -44,6 +47,7 @@ const card: Card = {
 			ja: "ゲノムハック",
 			'zh-tw': "基因駭入",
 			th: "จีโนมแฮก",
+			ko: "",
 			id: "Genome Hack"
 		},
 
@@ -51,6 +55,7 @@ const card: Card = {
 			ja: "相手のバトルポケモンが持っているワザを1つ選び、このワザとして使う。",
 			'zh-tw': "選擇1個對手的戰鬥寶可夢持有的招式，作為這個招式使用。",
 			th: "เลือกท่าต่อสู้ที่โปเกมอนบนตำแหน่งต่อสู้ฝ่ายตรงข้ามมี 1 ท่า ใช้เป็นท่าต่อสู้นี้ได้",
+			ko: "",
 			id: "Pilih 1 serangan yang dimiliki Pokémon Bertarung lawan, lalu gunakan sebagai serangan ini."
 		}
 	}],

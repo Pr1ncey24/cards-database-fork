@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "キングラー",
 		'zh-tw': "巨鉗蟹",
 		th: "คิงเกลอร์",
+		ko: "",
 		id: "Kingler"
 	},
 
@@ -22,6 +23,7 @@ const card: Card = {
 		ja: "破壊力 抜群の 大きな ハサミだが 重すぎるので 戦わないときは じゃまになる。",
 		'zh-tw': "巨大的鉗子破壞力十足，但是因為太過沉重， 不戰鬥的時候就很礙事。",
 		th: "มีก้ามใหญ่ที่มีพลังทำลายล้างยอดเยี่ยม แต่ว่าก้ามนี้หนักเหลือเกินก็เลยเกะกะเวลาที่ไม่ได้ใช้ต่อสู้",
+		ko: "",
 		id: "Capit besar Kingler memiliki daya penghancur yang luar biasa. Tetapi, saat tidak bertarung capitnya yang berat ini hanya menjadi beban."
 	},
 
@@ -34,6 +36,7 @@ const card: Card = {
 			ja: "アームハンマー",
 			'zh-tw': "臂錘",
 			th: "อาร์มแฮมเมอร์",
+			ko: "",
 			id: "Arm Hammer"
 		},
 
@@ -43,6 +46,7 @@ const card: Card = {
 			ja: "相手の山札を上から1枚トラッシュする。",
 			'zh-tw': "將對手的牌庫上方1張卡丟棄。",
 			th: "ทิ้งการ์ด 1 ใบจากด้านบนของสำรับการ์ดฝ่ายตรงข้ามที่ตำแหน่งทิ้งการ์ด",
+			ko: "",
 			id: "Buang 1 kartu dari atas Deck lawan ke Trash."
 		}
 	}, {
@@ -52,6 +56,7 @@ const card: Card = {
 			ja: "ハサミギロチン",
 			'zh-tw': "斷頭鉗",
 			th: "กรรไกรกิโยติน",
+			ko: "",
 			id: "Memenggal"
 		},
 

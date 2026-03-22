@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "ゴルダック",
 		'zh-tw': "哥達鴨",
 		th: "โกลดัก",
+		ko: "",
 		id: "Golduck"
 	},
 
@@ -22,6 +23,7 @@ const card: Card = {
 		ja: "水かきのついた 長い 手足を 使い 全力で 泳ぎだすと なぜか 額が 光り輝く。",
 		'zh-tw': "當牠用帶有水蹼的修長手腳全力游泳時， 不知為何額頭會閃閃發光。",
 		th: "ไม่รู้ทำไม พอใช้แขนขายาวที่มีพังผืดว่ายน้ำสุดกำลัง บริเวณหน้าผากจะเรืองแสงขึ้นมา",
+		ko: "",
 		id: "Entah kenapa kening Golduck bersinar ketika ia berenang sekuat tenaga menggunakan kaki dan tangan panjang berselaputnya."
 	},
 
@@ -34,6 +36,7 @@ const card: Card = {
 			ja: "すいなんきゅうじょ",
 			'zh-tw': "水難救助",
 			th: "กู้ภัยทางน้ำ",
+			ko: "",
 			id: "Penyelamatan Bencana Air"
 		},
 
@@ -41,6 +44,7 @@ const card: Card = {
 			ja: "自分のトラッシュからポケモンを4枚まで選び、相手に見せて、手札に加える。",
 			'zh-tw': "從自己的棄牌區選擇最多4張寶可夢卡，在給對手看過後加入手牌。",
 			th: "เลือกการ์ดโปเกมอนได้สูงสุด 4 ใบจากตำแหน่งทิ้งการ์ดฝ่ายเรา ให้ฝ่ายตรงข้ามดู นำขึ้นมือ",
+			ko: "",
 			id: "Pilih paling banyak 4 lembar Pokémon dari Trash sendiri, perlihatkan ke lawan, lalu tambahkan ke Kartu Pegangan."
 		}
 	}, {
@@ -50,6 +54,7 @@ const card: Card = {
 			ja: "スーパースプラッシュ",
 			'zh-tw': "超級飛濺",
 			th: "ซูเปอร์สแปลช",
+			ko: "",
 			id: "Super Splash"
 		},
 
