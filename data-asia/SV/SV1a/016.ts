@@ -36,6 +36,7 @@ const card: Card = {
 			ja: "パッションダンス",
 			'zh-tw': "熱情舞",
 			th: "แพสชันแดนซ์",
+			ko: "패션 댄스",
 			id: "Passion Dance"
 		},
 
@@ -43,6 +44,7 @@ const card: Card = {
 			ja: "自分の番に1回使える。自分のバトル場の進化ポケモンのHPを「20」回復する。",
 			'zh-tw': "在自己的回合時可使用1次。將自己的戰鬥場的進化寶可夢恢復「20」HP。",
 			th: "ใช้ได้ 1 ครั้งในเทิร์นฝ่ายเรา ฟื้นฟู HP ของโปเกมอนวิวัฒนาการบนตำแหน่งต่อสู้ฝ่ายเรา [20]",
+			ko: "자신의 차례에 1번 사용할 수 있다. 자신의 배틀필드의 진화 포켓몬의 HP를 「20」회복한다.",
 			id: "Dapat digunakan 1 kali pada giliran sendiri. Pulihkan HP Pokémon Evolusi di Arena Bertarung sendiri sejumlah 20."
 		}
 	}],
@@ -54,7 +56,7 @@ const card: Card = {
 			ja: "はばたく",
 			'zh-tw': "羽擊",
 			th: "ตีปีก",
-			ko: "패션 댄스",
+			ko: "홰치기",
 			id: "Mengepak"
 		},
 

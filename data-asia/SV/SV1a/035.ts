@@ -36,6 +36,7 @@ const card: Card = {
 			ja: "マジカルフリック",
 			'zh-tw': "魔法輕彈",
 			th: "เมจิคัลฟลิก",
+			ko: "매지컬 플릭",
 			id: "Magical Flick"
 		},
 
@@ -43,6 +44,7 @@ const card: Card = {
 			ja: "自分の番に、このカードを手札から出して進化させたとき、1回使える。相手のバトルポケモンについているエネルギーを1個選び、相手のベンチポケモンにつけ替える。",
 			'zh-tw': "在自己的回合，從手牌使出這張卡並完成進化時，可使用1次。選擇1個對手的戰鬥寶可夢身上附加的能量，改附於對手的備戰寶可夢身上。",
 			th: "ในเทิร์นฝ่ายเรา เมื่อนำการ์ดนี้จากบนมือออกมาวิวัฒนาการแล้ว ใช้ได้ 1 ครั้ง เลือกพลังงานที่ติดอยู่กับโปเกมอนบนตำแหน่งต่อสู้ฝ่ายตรงข้าม 1 ลูก ย้ายไปติดกับโปเกมอนบนเบนช์ฝ่ายตรงข้าม",
+			ko: "자신의 차례에 이 카드를 패에서 꺼내서 진화시켰을 때 1번 사용할 수 있다. 상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 선택해서 상대의 벤치 포켓몬에게 붙인다.",
 			id: "Dapat digunakan 1 kali pada giliran sendiri saat memasukkan kartu ini dari Kartu Pegangan untuk melakukan evolusi. Pilih 1 Energi yang dikenakan pada Pokémon Bertarung lawan, lalu pindahkan ke Pokémon Cadangan lawan."
 		}
 	}],
@@ -54,7 +56,7 @@ const card: Card = {
 			ja: "ねんどうだん",
 			'zh-tw': "念動彈",
 			th: "บอลโทรจิต",
-			ko: "매지컬 플릭",
+			ko: "염동탄",
 			id: "Bola Psikis"
 		},
 

@@ -36,6 +36,7 @@ const card: Card = {
 			ja: "トライハウル",
 			'zh-tw': "三重嚎鳴",
 			th: "ไตรคำราม",
+			ko: "트라이 하울",
 			id: "Trihowl"
 		},
 
@@ -43,6 +44,7 @@ const card: Card = {
 			ja: "自分の番に1回使える。自分の山札を上から3枚見て、その中からエネルギーを好きなだけ選び、自分のポケモンに好きなようにつける。残りのカードはトラッシュする。",
 			'zh-tw': "在自己的回合時可使用1次。查看自己的牌庫上方3張卡，從其中選擇任意數量的能量卡，以任意方式附於自己的寶可夢身上。將剩餘卡丟棄。",
 			th: "ใช้ได้ 1 ครั้งในเทิร์นฝ่ายเรา ดูการ์ด 3 ใบจากด้านบนของสำรับการ์ดฝ่ายเรา เลือกการ์ดพลังงานจากในนั้นตามจำนวนที่ชอบ ติดที่โปเกมอนฝ่ายเราตามชอบ ทิ้งการ์ดที่เหลือที่ตำแหน่งทิ้งการ์ด",
+			ko: "자신의 차례에 1번 사용할 수 있다. 자신의 덱을 위에서부터 3장 보고 그 중에서 에너지를 원하는 만큼 선택해서 자신의 포켓몬에게 원하는 대로 붙인다. 남은 카드는 트래쉬한다.",
 			id: "Dapat digunakan 1 kali pada giliran sendiri. Lihat 3 kartu dari atas Deck sendiri, pilih sesukanya Energi di antaranya, lalu kenakan sesukanya pada Pokémon sendiri. Buang sisa kartu ke Trash."
 		}
 	}],
@@ -54,7 +56,7 @@ const card: Card = {
 			ja: "ダークカッター",
 			'zh-tw': "暗黑利刃",
 			th: "ดาร์กคัตเตอร์",
-			ko: "트라이 하울",
+			ko: "다크커터",
 			id: "Kegelapan Pemotong"
 		},
 

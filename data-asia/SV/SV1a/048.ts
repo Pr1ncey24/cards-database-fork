@@ -36,6 +36,7 @@ const card: Card = {
 			ja: "つっぱりげいこ",
 			'zh-tw': "猛推演練",
 			th: "ฝึกซ้อมผลักกระแทก",
+			ko: "손바닥치기 수련",
 			id: "Menggembleng Sodokan Tangan"
 		},
 
@@ -43,6 +44,7 @@ const card: Card = {
 			ja: "このポケモンがいるかぎり、自分のポケモン全員が、相手のポケモンから受けるワザのダメージは「-10」される。",
 			'zh-tw': "只要這隻寶可夢在場上，自己的所有寶可夢受到對手的寶可夢招式的傷害「-10」點。",
 			th: "ตราบใดที่โปเกมอนนี้ยังอยู่ แดเมจของท่าต่อสู้ที่โปเกมอนฝ่ายเราทุกตัว จะได้รับจากโปเกมอนฝ่ายตรงข้ามจะถูก [-10]",
+			ko: "이 포켓몬이 있는 한, 자신의 포켓몬 전원이 상대의 포켓몬으로부터 받는 기술의 데미지는 「-10」이 된다.",
 			id: "Selama Pokémon ini ada di Arena, kerusakan akibat serangan dari Pokémon lawan yang diterima semua Pokémon sendiri berkurang sejumlah 10."
 		}
 	}],
@@ -54,7 +56,7 @@ const card: Card = {
 			ja: "ロケットはりて",
 			'zh-tw': "火箭巴掌",
 			th: "ฝ่ามือตบจรวด",
-			ko: "손바닥치기 수련",
+			ko: "로켓뺨때리기",
 			id: "Tamparan Menohok Roket"
 		},
 
