@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "ハリテヤマ",
 		'zh-tw': "鐵掌力士",
 		th: "ฮาริเทยามะ",
+		ko: "하리뭉",
 		id: "Hariyama"
 	},
 
@@ -22,6 +23,7 @@ const card: Card = {
 		ja: "力くらべが 大好き。 走ってくる 列車を 張り手で 止めてしまう パワーを 持つ。",
 		'zh-tw': "最喜歡和對手比力氣。擁有的力量足以一掌擋下 迎面馳來的列車。",
 		th: "ชอบประลองกำลังมาก มีพละกำลังขนาดใช้ท่าตีหน้าหยุดรถไฟที่กำลังวิ่งอยู่ได้",
+		ko: "힘겨루기를 매우 좋아한다. 달리는 열차를 손바닥치기로 멈추게 하는 파워를 가졌다.",
 		id: "Hariyama sangat menyukai adu kekuatan. Pokémon ini memiliki kekuatan yang dapat menghentikan kereta yang sedang melaju dengan dorongan telapak tangannya."
 	},
 
@@ -52,6 +54,7 @@ const card: Card = {
 			ja: "ロケットはりて",
 			'zh-tw': "火箭巴掌",
 			th: "ฝ่ามือตบจรวด",
+			ko: "손바닥치기 수련",
 			id: "Tamparan Menohok Roket"
 		},
 

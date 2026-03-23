@@ -5,7 +5,8 @@ const card: Card = {
 	set: Set,
 
 	name: {
-		ja: "ボスの指令（ゲーチス）"
+		ja: "ボスの指令（ゲーチス）",
+		ko: "클라벨"
 	},
 
 	illustrator: "Hideki Ishikawa",

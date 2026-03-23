@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "ボスの指令（ゲーチス）",
 		'zh-tw': "老大的指令",
 		th: "คำสั่งของบอส (เกซิส)",
+		ko: "클라벨",
 		id: "Perintah Bos (Ghetsis)"
 	},
 

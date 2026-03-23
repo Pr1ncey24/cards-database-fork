@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "サザンドラ",
 		'zh-tw': "三首惡龍",
 		th: "ซาซันดรา",
+		ko: "삼삼드래",
 		id: "Hydreigon"
 	},
 
@@ -22,6 +23,7 @@ const card: Card = {
 		ja: "本体の 頭のみが 脳を 持っている。 知性は 高いが 破壊のことしか 考えていない。",
 		'zh-tw': "只有本體上的頭才有大腦。雖然智力很高， 但卻滿腦子只想著要破壞。",
 		th: "เฉพาะหัวหลักเท่านั้นที่มีสมอง ฉลาดหลักแหลมมากแต่คิดแต่เรื่องทำลายล้าง",
+		ko: "본체의 머리만이 뇌를 가지고 있다. 지능은 높지만 파괴하는 일만 생각하고 있다.",
 		id: "Hanya kepala utama Hydreigon yang memiliki otak. Walaupun kecerdasannya tinggi, Pokémon ini hanya berpikir untuk menghancurkan segalanya."
 	},
 
@@ -52,6 +54,7 @@ const card: Card = {
 			ja: "ダークカッター",
 			'zh-tw': "暗黑利刃",
 			th: "ดาร์กคัตเตอร์",
+			ko: "트라이 하울",
 			id: "Kegelapan Pemotong"
 		},
 

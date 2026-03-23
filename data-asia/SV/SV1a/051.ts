@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "タイレーツ",
 		'zh-tw': "列陣兵",
 		th: "ไทเรสึ",
+		ko: "대여르",
 		id: "Falinks"
 	},
 
@@ -22,6 +23,7 @@ const card: Card = {
 		ja: "先頭に 立って 指示を 出す ヘイチョーは ６匹の 中で いちばん 強くて 賢いのだ。",
 		'zh-tw': "站在最前面下達指示的頭頭是６隻裡面 最強最聰明的。",
 		th: "หัวหน้าทหารที่ยืนอยู่หัวแถวคอยออกคำสั่งนั้นแข็งแกร่งและเฉลียวฉลาดที่สุดในบรรดาทหารทั้ง 6 ตัว",
+		ko: "선두에 서서 지시를 내리는 리더는 6마리 중에서 가장 강하고 똑똑하다.",
 		id: "Pemimpin yang berdiri paling depan dan memberikan perintah adalah Falinks terkuat dan paling cerdas di antara 6 Falinks dalam kelompoknya."
 	},
 
@@ -34,6 +36,7 @@ const card: Card = {
 			ja: "ずつき",
 			'zh-tw': "頭錘",
 			th: "พุ่งหัวชน",
+			ko: "박치기",
 			id: "Tandukan Kepala"
 		},
 
@@ -45,6 +48,7 @@ const card: Card = {
 			ja: "いっしょにとつげき",
 			'zh-tw': "一起突擊",
 			th: "ประจัญบานไปพร้อมกัน",
+			ko: "다같이돌격",
 			id: "Menyerang Bareng"
 		},
 
@@ -54,6 +58,7 @@ const card: Card = {
 			ja: "自分のベンチに「タイレーツ」がいるなら、90ダメージ追加。",
 			'zh-tw': "若自己的備戰區有「列陣兵」，則增加90點傷害。",
 			th: "ถ้าบนเบนช์ฝ่ายเรามี [ไทเรสึ] อยู่ การโจมตีนี้จะเพิ่มแดเมจอีก 90",
+			ko: "자신의 벤치에 「대여르」가 있다면 90데미지를 추가한다.",
 			id: "Jika ada Falinks di Cadangan sendiri, kerusakan yang diberikan bertambah sejumlah 90."
 		}
 	}],

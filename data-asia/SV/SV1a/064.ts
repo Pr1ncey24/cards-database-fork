@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "スーパーエネルギー回収",
 		'zh-tw': "超級能量回收",
 		th: "กู้คืนพลังงานแบบพิเศษ",
+		ko: "수퍼 에너지 회수",
 		id: "Pemulihan Energi Super"
 	},
 

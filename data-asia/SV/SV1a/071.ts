@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "レッスンスタジオ",
 		'zh-tw': "練習工房",
 		th: "สตูดิโอฝึกซ้อม",
+		ko: "보울마을",
 		id: "Studio Berlatih"
 	},
 

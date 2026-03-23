@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "マスカーニャex",
 		'zh-tw': "魔幻假面喵ex",
 		th: "มาสเคอเนียex",
+		ko: "마스카나 ex",
 		id: "Meowscarada ex"
 	},
 
@@ -44,6 +45,7 @@ const card: Card = {
 			ja: "スクラッチネイル",
 			'zh-tw': "抓刮銳爪",
 			th: "สแครชเนล",
+			ko: "부케 매직",
 			id: "Scratch Nail"
 		},
 
@@ -53,6 +55,7 @@ const card: Card = {
 			ja: "相手のバトルポケモンにダメカンがのっているなら、120ダメージ追加。",
 			'zh-tw': "若對手的戰鬥寶可夢身上放置有傷害指示物，則增加120點傷害。",
 			th: "ถ้าโปเกมอนบนตำแหน่งต่อสู้ฝ่ายตรงข้ามมีตัวนับแดเมจวางอยู่ การโจมตีนี้จะเพิ่มแดเมจอีก 120",
+			ko: "자신의 차례에 자신의 패에서 「기본(풀)에너지」를 1장 트래쉬한다면 1번 사용할 수 있다. 상대의 벤치 포켓몬 1마리에게 데미지 카운터를 3개 올린다.",
 			id: "Jika Pokémon Bertarung lawan memiliki Token Kerusakan, kerusakan yang diberikan bertambah sejumlah 120."
 		}
 	}],

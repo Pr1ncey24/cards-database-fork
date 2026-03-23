@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "ジヘッド",
 		'zh-tw': "雙首暴龍",
 		th: "จิเฮด",
+		ko: "디헤드",
 		id: "Zweilous"
 	},
 
@@ -22,6 +23,7 @@ const card: Card = {
 		ja: "頭どうしの 仲は 悪い。 ２つの 頭を 可愛がらないと 嫉妬で 大喧嘩を 始める。",
 		'zh-tw': "２顆頭的感情很差。如果兩邊疼愛的程度不同， 就會因爭風吃醋而開始大吵。",
 		th: "สองหัวไม่ค่อยถูกกัน ถ้าไม่เอ็นดูทั้ง 2 หัวจะอิจฉากันเองแล้วทะเลาะกันใหญ่โต",
+		ko: "머리끼리는 사이가 좋지 않다. 두 머리 모두 귀여워해 주지 않으면 질투하여 큰 싸움이 난다.",
 		id: "Hubungan 2 kepala Zweilous tidak akur. Mereka akan bertengkar hebat jika tidak diperhatikan secara adil."
 	},
 
@@ -34,6 +36,7 @@ const card: Card = {
 			ja: "ともだちをさがす",
 			'zh-tw': "尋找朋友",
 			th: "หาพรรคพวก",
+			ko: "친구찾기",
 			id: "Mencari Teman"
 		},
 
@@ -41,6 +44,7 @@ const card: Card = {
 			ja: "自分の山札からポケモンを2枚まで選び、相手に見せて、手札に加える。そして山札を切る。",
 			'zh-tw': "從自己的牌庫選擇最多2張寶可夢卡，在給對手看過後加入手牌。並且重洗牌庫。",
 			th: "เลือกการ์ดโปเกมอนได้สูงสุด 2 ใบจากสำรับการ์ดฝ่ายเรา ให้ฝ่ายตรงข้ามดู นำขึ้นมือ แล้วสับสำรับการ์ด",
+			ko: "자신의 덱에서 포켓몬을 2장까지 선택해서 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다.",
 			id: "Pilih paling banyak 2 lembar Pokémon dari Deck sendiri, perlihatkan ke lawan, lalu tambahkan ke Kartu Pegangan. Kemudian, kocok Deck."
 		}
 	}, {
@@ -50,6 +54,7 @@ const card: Card = {
 			ja: "とびだしヘッド",
 			'zh-tw': "魯莽頭擊",
 			th: "กระโดดโหม่ง",
+			ko: "머리박치기",
 			id: "Sundulan Meloncat"
 		},
 

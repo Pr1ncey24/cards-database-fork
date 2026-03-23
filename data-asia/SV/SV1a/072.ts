@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "ジェットエネルギー",
 		'zh-tw': "噴射能量",
 		th: "เจ็ตเอนเนอร์จี้",
+		ko: "루미너스 에너지",
 		id: "Energi Jet"
 	},
 

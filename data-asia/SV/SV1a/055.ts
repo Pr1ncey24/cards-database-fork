@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "ヤミラミ",
 		'zh-tw': "勾魂眼",
 		th: "ยามิรามิ",
+		ko: "깜까미",
 		id: "Sableye"
 	},
 
@@ -22,6 +23,7 @@ const card: Card = {
 		ja: "暗い 洞窟に 棲み処を 作り 鋭い ツメを 使って 宝石を 掘り出しては 食べる。",
 		'zh-tw': "會在陰暗的洞窟裡建造住所，並用鋒利的爪子挖寶石吃。",
 		th: "สร้างรังอยู่ในถ้ำมืดมิด ใช้เล็บแหลมคมขุดหาอัญมณีเป็นอาหาร",
+		ko: "어두운 동굴에 거처를 만들고 예리한 손톱을 써서 보석을 파내어 먹는다.",
 		id: "Sableye membuat sarang di gua yang gelap. Pokémon ini menggunakan cakarnya yang tajam untuk menggali batu permata dan memakannya."
 	},
 
@@ -34,6 +36,7 @@ const card: Card = {
 			ja: "やみのひとみ",
 			'zh-tw': "暗之瞳",
 			th: "ดวงตามืดมิด",
+			ko: "어둠의눈동자",
 			id: "Mata Kegelapan"
 		},
 
@@ -41,6 +44,7 @@ const card: Card = {
 			ja: "相手のバトルポケモンをねむりにする。",
 			'zh-tw': "將對手的戰鬥寶可夢【睡眠】。",
 			th: "ทำให้โปเกมอนบนตำแหน่งต่อสู้ฝ่ายตรงข้ามเป็นสภาวะ[หลับ]",
+			ko: "상대의 배틀 포켓몬을잠듦으로 만든다.",
 			id: "Ubah kondisi Pokémon Bertarung lawan menjadi Tidur."
 		}
 	}, {
@@ -50,6 +54,7 @@ const card: Card = {
 			ja: "アサシンクロー",
 			'zh-tw': "刺殺爪",
 			th: "แอสแซสซินคลอว์",
+			ko: "어새신클로",
 			id: "Assassin Claw"
 		},
 
@@ -59,6 +64,7 @@ const card: Card = {
 			ja: "相手のバトルポケモンが特殊状態なら、70ダメージ追加。",
 			'zh-tw': "若對手的戰鬥寶可夢處於特殊狀態，則增加70點傷害。",
 			th: "ถ้าโปเกมอนบนตำแหน่งต่อสู้ฝ่ายตรงข้ามเป็นสภาวะผิดปกติ การโจมตีนี้จะเพิ่มแดเมจอีก 70",
+			ko: "상대의 배틀 포켓몬이 특수 상태라면 70데미지를 추가한다.",
 			id: "Jika Pokémon Bertarung lawan mengalami Kondisi Khusus, kerusakan yang diberikan bertambah sejumlah 70."
 		}
 	}],

@@ -5,7 +5,8 @@ const card: Card = {
 	set: Set,
 
 	name: {
-		ja: "パルデア ドオーex"
+		ja: "パルデア ドオーex",
+		ko: "팔데아 토오 ex"
 	},
 
 	illustrator: "PLANETA Mochizuki",
@@ -31,13 +32,15 @@ const card: Card = {
 		cost: ["Darkness", "Colorless", "Colorless"],
 
 		name: {
-			ja: "ニードルボーン"
+			ja: "ニードルボーン",
+			ko: "독 늪지대"
 		},
 
 		damage: 200,
 
 		effect: {
-			ja: "コインを1回投げウラなら、次の自分の番、このポケモンはワザが使えない。"
+			ja: "コインを1回投げウラなら、次の自分の番、このポケモンはワザが使えない。",
+			ko: "필드에 스타디움이 나와 있다면 자신의 차례에 1번 사용할 수 있다. 상대의 배틀 포켓몬을독으로 만든다."
 		}
 	}],
 

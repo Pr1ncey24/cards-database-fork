@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "オドリドリ",
 		'zh-tw': "花舞鳥",
 		th: "โอโดริโดริ",
+		ko: "춤추새",
 		id: "Oricorio"
 	},
 
@@ -22,6 +23,7 @@ const card: Card = {
 		ja: "情熱的に 踊るさまが パルデアの 人々の 気質に 合うのか 非常に 人気だ。",
 		'zh-tw': "熱情的舞姿似乎很符合帕底亞人們的性情， 因此非常地受歡迎。",
 		th: "การเต้นอันร้อนแรงน่าจะถูกใจผู้คนในพัลเดียจนได้รับความนิยมสูงมาก",
+		ko: "정열적으로 춤추는 모습이 팔데아 사람들의 취향에 맞는지 인기가 매우 좋다.",
 		id: "Sosok Oricorio yang menari penuh gairah menjadi sangat populer karena cocok dengan karakteristik penduduk Daerah Paldea."
 	},
 
@@ -52,6 +54,7 @@ const card: Card = {
 			ja: "はばたく",
 			'zh-tw': "羽擊",
 			th: "ตีปีก",
+			ko: "패션 댄스",
 			id: "Mengepak"
 		},
 

@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "モノズ",
 		'zh-tw': "單首龍",
 		th: "โมโนซึ",
+		ko: "모노두",
 		id: "Deino"
 	},
 
@@ -22,6 +23,7 @@ const card: Card = {
 		ja: "目が 見えないので なんでも とりあえず かじって 確かめる。 懐くまでは 傷だらけに なるぞ。",
 		'zh-tw': "因為眼睛看不見，所以不管要確認什麼都是先咬再說。 和牠變親密前會滿身是傷。",
 		th: "เพราะมองไม่เห็นก็เลยตรวจสอบด้วยการลองกัดมันไปเสียหมด กว่าจะเชื่องคงได้แผลเต็มตัวก่อน",
+		ko: "눈이 보이지 않기 때문에 무엇이든 일단 깨물어서 확인한다. 길들여지기 전까지는 상처투성이가 된다.",
 		id: "Deino menggigit segalanya untuk memastikan sekitarnya karena matanya tidak dapat melihat. Kamu akan penuh luka hingga ia menjadi jinak."
 	},
 
@@ -34,6 +36,7 @@ const card: Card = {
 			ja: "おそいかかる",
 			'zh-tw': "伏擊",
 			th: "ซุ่มโจมตี",
+			ko: "덮치기",
 			id: "Menyergap"
 		},
 
@@ -43,6 +46,7 @@ const card: Card = {
 			ja: "コインを1回投げオモテなら、20ダメージ追加。",
 			'zh-tw': "擲1次硬幣若為正面，則增加20點傷害。",
 			th: "ทอยเหรียญ 1 ครั้งถ้าออกหัว การโจมตีนี้จะเพิ่มแดเมจอีก 20",
+			ko: "동전을 1번 던져서 앞면이 나오면 20데미지를 추가한다.",
 			id: "Lempar koin 1 kali. Jika hasilnya sisi depan, kerusakan yang diberikan bertambah sejumlah 20."
 		}
 	}],

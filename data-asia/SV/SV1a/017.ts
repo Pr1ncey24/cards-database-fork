@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "ホゲータ",
 		'zh-tw': "呆火鱷",
 		th: "โฮเกเตอร์",
+		ko: "뜨아거",
 		id: "Fuecoco"
 	},
 
@@ -22,6 +23,7 @@ const card: Card = {
 		ja: "温かい 岩の上で 寝転び 四角い うろこから 取り込んだ 熱で 炎エネルギーを 作る。",
 		'zh-tw': "會躺在溫熱的岩石上，用四角形的鱗片所吸收的 熱能來製造火之能量。",
 		th: "นอนเกลือกกลิ้งอยู่บนหินอุ่น สร้างพลังงานไฟด้วยความร้อนที่ดูดซับเข้ามาด้วยเกล็ดสี่เหลี่ยม",
+		ko: "따뜻한 바위 위에 드러누워서 네모난 비늘을 통해 흡수한 열로 불꽃 에너지를 만든다.",
 		id: "Fuecoco berbaring di atas batu hangat dan menciptakan energi api dengan menyerap energi panas tersebut menggunakan sisik perseginya."
 	},
 
@@ -34,6 +36,7 @@ const card: Card = {
 			ja: "たいあたり",
 			'zh-tw': "撞擊",
 			th: "พุ่งเข้าชน",
+			ko: "몸통박치기",
 			id: "Serudukan"
 		},
 

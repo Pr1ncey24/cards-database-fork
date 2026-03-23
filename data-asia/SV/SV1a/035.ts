@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "ムウマージ",
 		'zh-tw': "夢妖魔",
 		th: "มูมาจิ",
+		ko: "무우마직",
 		id: "Mismagius"
 	},
 
@@ -22,6 +23,7 @@ const card: Card = {
 		ja: "呪文のような 鳴き声だが まれに 相手を 幸せにする 効果も 秘めているという。",
 		'zh-tw': "如同咒語般的叫聲據說也蘊藏著偶而會讓 對手變得幸福的效果。",
 		th: "เสียงร้องราวร่ายมนตร์ ว่ากันว่าในบางครั้งจะมีฤทธิ์ที่ทำให้อีกฝ่ายมีความสุขแฝงอยู่",
+		ko: "주문 같은 울음소리지만 가끔 상대를 행복하게 만드는 효과도 감춰져 있다고 한다.",
 		id: "Dikabarkan suara Mismagius yang terdengar seperti mantra tersimpan efek yang terkadang dapat membuat lawannya menjadi bahagia."
 	},
 
@@ -52,6 +54,7 @@ const card: Card = {
 			ja: "ねんどうだん",
 			'zh-tw': "念動彈",
 			th: "บอลโทรจิต",
+			ko: "매지컬 플릭",
 			id: "Bola Psikis"
 		},
 

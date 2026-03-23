@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "マクノシタ",
 		'zh-tw': "幕下力士",
 		th: "มาคุโนชิตะ",
+		ko: "마크탕",
 		id: "Makuhita"
 	},
 
@@ -22,6 +23,7 @@ const card: Card = {
 		ja: "厳しい 稽古を 繰り返して 強くなる。 どんな 攻撃にも 耐える 根性の ポケモン。",
 		'zh-tw': "會在不斷的嚴格訓練中逐漸變強。能夠承受任何攻擊， 是很有毅力的寶可夢。",
 		th: "ฝึกหนักซ้ำไปมาจนแกร่งขึ้น เป็นโปเกมอนที่เด็ดเดี่ยวทนทานต่อการโจมตีทุกประเภท",
+		ko: "힘든 수행을 반복하며 강해진다. 어떤 공격도 참아 내는 근성의 포켓몬이다.",
 		id: "Makuhita menjadi kuat dengan melakukan latihan keras secara berulang kali. Pokémon bernyali kuat yang tahan terhadap serangan apa pun."
 	},
 
@@ -34,6 +36,7 @@ const card: Card = {
 			ja: "はりて",
 			'zh-tw': "巴掌撲擊",
 			th: "ฝ่ามือตบหน้า",
+			ko: "뺨때리기",
 			id: "Tamparan Menohok"
 		},
 

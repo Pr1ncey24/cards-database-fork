@@ -5,7 +5,8 @@ const card: Card = {
 	set: Set,
 
 	name: {
-		ja: "ムウマージ"
+		ja: "ムウマージ",
+		ko: "무우마직"
 	},
 
 	illustrator: "aoki",
@@ -15,7 +16,8 @@ const card: Card = {
 	types: ["Psychic"],
 
 	description: {
-		ja: "呪文のような 鳴き声だが まれに 相手を 幸せにする 効果も 秘めているという。"
+		ja: "呪文のような 鳴き声だが まれに 相手を 幸せにする 効果も 秘めているという。",
+		ko: "주문 같은 울음소리지만 가끔 상대를 행복하게 만드는 효과도 감춰져 있다고 한다."
 	},
 
 	stage: "Stage1",
@@ -36,7 +38,8 @@ const card: Card = {
 		cost: ["Psychic", "Colorless"],
 
 		name: {
-			ja: "ねんどうだん"
+			ja: "ねんどうだん",
+			ko: "매지컬 플릭"
 		},
 
 		damage: 60

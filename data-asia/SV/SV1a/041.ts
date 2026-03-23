@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "カヌチャン",
 		'zh-tw': "小鍛匠",
 		th: "คานุจัง",
+		ko: "어리짱",
 		id: "Tinkatink"
 	},
 
@@ -22,6 +23,7 @@ const card: Card = {
 		ja: "手作りの ハンマーを 振りまわして 身を 守るが 金属を 食べる ポケモンには よく 奪われる。",
 		'zh-tw': "雖然會揮舞著手工打造的錘子來保護自己，但卻常被 以金屬為食的寶可夢搶走。",
 		th: "เหวี่ยงค้อนทำมือเพื่อป้องกันตัว แต่มักถูกโปเกมอนที่กินโลหะแย่งไป",
+		ko: "손수 만든 해머를 휘둘러 몸을 지키려 하나 금속을 먹는 포켓몬에게 자주 빼앗기고 만다.",
 		id: "Tinkatink mengayunkan palu buatannya untuk melindungi dirinya, namun palu tersebut sering direbut oleh Pokémon pemakan logam."
 	},
 
@@ -34,6 +36,7 @@ const card: Card = {
 			ja: "ぶんまわす",
 			'zh-tw': "狂舞揮打",
 			th: "เหวี่ยงกระเด็น",
+			ko: "세차게휘두르기",
 			id: "Ayunan Brutal"
 		},
 
@@ -43,6 +46,7 @@ const card: Card = {
 			ja: "コインを1回投げオモテなら、20ダメージ追加。",
 			'zh-tw': "擲1次硬幣若為正面，則增加20點傷害。",
 			th: "ทอยเหรียญ 1 ครั้งถ้าออกหัว การโจมตีนี้จะเพิ่มแดเมจอีก 20",
+			ko: "동전을 1번 던져서 앞면이 나오면 20데미지를 추가한다.",
 			id: "Lempar koin 1 kali. Jika hasilnya sisi depan, kerusakan yang diberikan bertambah sejumlah 20."
 		}
 	}],

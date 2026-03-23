@@ -5,7 +5,8 @@ const card: Card = {
 	set: Set,
 
 	name: {
-		ja: "ハヤト"
+		ja: "ハヤト",
+		ko: "운향"
 	},
 
 	illustrator: "Ryuta Fuse",

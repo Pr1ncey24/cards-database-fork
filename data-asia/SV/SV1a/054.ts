@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "パルデア ドオーex",
 		'zh-tw': "帕底亞 土王ex",
 		th: "พัลเดีย โดะโอex",
+		ko: "팔데아 토오 ex",
 		id: "Paldean Clodsire ex"
 	},
 
@@ -44,6 +45,7 @@ const card: Card = {
 			ja: "ニードルボーン",
 			'zh-tw': "尖刺骨",
 			th: "นีดเดิ้ลโบน",
+			ko: "독 늪지대",
 			id: "Needle Bone"
 		},
 
@@ -53,6 +55,7 @@ const card: Card = {
 			ja: "コインを1回投げウラなら、次の自分の番、このポケモンはワザが使えない。",
 			'zh-tw': "擲1次硬幣若為反面，則在下個自己的回合，這隻寶可夢無法使用招式。",
 			th: "ทอยเหรียญ 1 ครั้งถ้าออกก้อย เทิร์นถัดไปของฝ่ายเรา โปเกมอนนี้จะใช้ท่าต่อสู้ไม่ได้",
+			ko: "필드에 스타디움이 나와 있다면 자신의 차례에 1번 사용할 수 있다. 상대의 배틀 포켓몬을독으로 만든다.",
 			id: "Lempar koin 1 kali. Jika hasilnya sisi belakang, pada giliran sendiri berikutnya, Pokémon ini tidak dapat menggunakan serangan."
 		}
 	}],

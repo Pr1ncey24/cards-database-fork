@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "マメバッタ",
 		'zh-tw': "豆蟋蟀",
 		th: "มาเมะบัตตะ",
+		ko: "콩알뚜기",
 		id: "Nymble"
 	},
 
@@ -22,6 +23,7 @@ const card: Card = {
 		ja: "第３の脚が 畳まれている。 ピンチになると １０メートル以上 ジャンプする 脚力を 持つ。",
 		'zh-tw': "總是將第３對腳折起來。擁有在遇到危機時能夠 跳超過１０公尺的跳躍力。",
 		th: "พับขาที่ 3 เอาไว้ มีพลังขาที่สามารถกระโดดได้สูงกว่า 10 เมตรเมื่อตกอยู่ในสถานการณ์คับขัน",
+		ko: "제3의 다리가 접혀 있다. 위기에 처하면 10m 이상을 점프하는 다릿심을 가지고 있다.",
 		id: "Sepasang kaki ketiga Nymble terlipat. Pokémon ini memiliki kekuatan kaki untuk dapat melompat setinggi 10 meter ketika terdesak."
 	},
 
@@ -34,6 +36,7 @@ const card: Card = {
 			ja: "けりつける",
 			'zh-tw': "踹",
 			th: "ลูกเตะหนักหน่วง",
+			ko: "발로차기",
 			id: "Menyepak"
 		},
 
@@ -43,6 +46,7 @@ const card: Card = {
 			ja: "コインを1回投げウラなら、このワザは失敗。",
 			'zh-tw': "擲1次硬幣若為反面，則這個招式失敗。",
 			th: "ทอยเหรียญ 1 ครั้งถ้าออกก้อย ท่าต่อสู้นี้จะล้มเหลว",
+			ko: "동전을 1번 던져서 뒷면이 나오면 이 기술은 실패한다.",
 			id: "Lempar koin 1 kali. Jika hasilnya sisi belakang, serangan ini gagal."
 		}
 	}],

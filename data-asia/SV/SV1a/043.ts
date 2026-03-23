@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "デカヌチャン",
 		'zh-tw': "巨鍛匠",
 		th: "เดคานุจัง",
+		ko: "두드리짱",
 		id: "Tinkaton"
 	},
 
@@ -22,6 +23,7 @@ const card: Card = {
 		ja: "知能が 高く とても 豪快。 ハンマーで 岩を 殴り飛ばして 空飛ぶ アーマーガアを 狙う。",
 		'zh-tw': "智商高超，性格豪邁。會用錘子打飛岩石來攻擊 飛在空中的鋼鎧鴉。",
 		th: "มีสติปัญญาเป็นเลิศและห้าวหาญมาก เล็งและใช้ค้อนทุบหินให้กระเด็นไปโดนอาร์เมอร์การ์ที่บินอยู่",
+		ko: "지능이 높고 매우 호쾌하다. 해머로 바위를 날려서 하늘을 나는 아머까오를 노린다.",
 		id: "Tinkaton memiliki kecerdasan tinggi dan sangat kuat. Ia memukul batu ke langit menggunakan palunya dan mengincar Corviknight yang terbang."
 	},
 
@@ -52,6 +54,7 @@ const card: Card = {
 			ja: "スペシャルハンマー",
 			'zh-tw': "特殊鐵錘",
 			th: "สเปเชียลแฮมเมอร์",
+			ko: "소재 모으기",
 			id: "Special Hammer"
 		},
 
@@ -61,6 +64,7 @@ const card: Card = {
 			ja: "このポケモンに特殊エネルギーがついているなら、90ダメージ追加。",
 			'zh-tw': "若這隻寶可夢身上附有特殊能量卡，則增加90點傷害。",
 			th: "ถ้าโปเกมอนนี้มีพลังงานพิเศษติดอยู่ การโจมตีนี้จะเพิ่มแดเมจอีก 90",
+			ko: "자신의 차례에 자신의 패를 1장 트래쉬한다면 1번 사용할 수 있다. 자신의 덱을 3장 뽑는다.",
 			id: "Jika Pokémon ini mengenakan Energi Spesial, kerusakan yang diberikan bertambah sejumlah 90."
 		}
 	}],

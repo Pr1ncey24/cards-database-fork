@@ -5,7 +5,8 @@ const card: Card = {
 	set: Set,
 
 	name: {
-		ja: "ルガルガンex"
+		ja: "ルガルガンex",
+		ko: "루가루암 ex"
 	},
 
 	illustrator: "Ayaka Yoshida",
@@ -19,7 +20,8 @@ const card: Card = {
 		cost: ["Fighting"],
 
 		name: {
-			ja: "いわおとし"
+			ja: "いわおとし",
+			ko: "돌떨구기"
 		},
 
 		damage: 40
@@ -27,13 +29,15 @@ const card: Card = {
 		cost: ["Fighting", "Colorless", "Colorless"],
 
 		name: {
-			ja: "スケアリーファング"
+			ja: "スケアリーファング",
+			ko: "스케어리팽"
 		},
 
 		damage: 140,
 
 		effect: {
-			ja: "次の相手の番、このポケモンがワザのダメージを受けたとき、ワザを使ったポケモンにダメカンを10個のせる。"
+			ja: "次の相手の番、このポケモンがワザのダメージを受けたとき、ワザを使ったポケモンにダメカンを10個のせる。",
+			ko: "상대의 다음 차례에 이 포켓몬이 기술의 데미지를 받았을 때 기술을 사용한 포켓몬에게 데미지 카운터를 10개 올린다."
 		}
 	}],
 

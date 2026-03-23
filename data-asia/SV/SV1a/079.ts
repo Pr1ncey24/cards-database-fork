@@ -5,7 +5,8 @@ const card: Card = {
 	set: Set,
 
 	name: {
-		ja: "アチゲータ"
+		ja: "アチゲータ",
+		ko: "악뜨거"
 	},
 
 	illustrator: "kantaro",
@@ -15,7 +16,8 @@ const card: Card = {
 	types: ["Fire"],
 
 	description: {
-		ja: "炎エネルギーと 有り余る 生命力が 交じり 頭上に タマゴ型の 火玉が 現れた。"
+		ja: "炎エネルギーと 有り余る 生命力が 交じり 頭上に タマゴ型の 火玉が 現れた。",
+		ko: "불꽃 에너지와 남아도는 생명력이 섞여서 머리 위에 알 모양의 불덩이가 생겨났다."
 	},
 
 	stage: "Stage1",
@@ -24,7 +26,8 @@ const card: Card = {
 		cost: ["Fire"],
 
 		name: {
-			ja: "ひをはく"
+			ja: "ひをはく",
+			ko: "불토하기"
 		},
 
 		damage: 30
@@ -32,7 +35,8 @@ const card: Card = {
 		cost: ["Fire", "Fire"],
 
 		name: {
-			ja: "ハイパーボイス"
+			ja: "ハイパーボイス",
+			ko: "하이퍼보이스"
 		},
 
 		damage: 70

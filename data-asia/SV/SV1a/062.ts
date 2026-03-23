@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "ヤングース",
 		'zh-tw': "貓鼬少",
 		th: "ยังกูส",
+		ko: "영구스",
 		id: "Yungoos"
 	},
 
@@ -22,6 +23,7 @@ const card: Card = {
 		ja: "胴体の ほとんどが 胃袋。 毎日 同じ ルートを うろつき 新鮮な エサを 探してまわる。",
 		'zh-tw': "整個身體幾乎都是胃。每天都徘徊在固定的路線上， 四處尋找新鮮的食物。",
 		th: "ลำตัวเป็นกระเพาะอาหารแทบทั้งหมด วนไปวนมาตามเส้นทางเดิมทุกวันเพื่อสอดส่องหาอาหาร",
+		ko: "몸의 대부분이 위장이다. 매일 같은 경로를 배회하며 신선한 먹이를 찾는다.",
 		id: "Sebagian besar tubuhnya merupakan kantong lambung. Setiap hari, Yungoos berjalan-jalan pada jalur yang sama untuk mencari makanan segar."
 	},
 
@@ -34,6 +36,7 @@ const card: Card = {
 			ja: "はねとばす",
 			'zh-tw': "擊飛",
 			th: "ตบกระเด็น",
+			ko: "띄워날리기",
 			id: "Menghempaskan"
 		},
 
@@ -43,6 +46,7 @@ const card: Card = {
 			ja: "コインを1回投げオモテなら、10ダメージ追加。",
 			'zh-tw': "擲1次硬幣若為正面，則增加10點傷害。",
 			th: "ทอยเหรียญ 1 ครั้งถ้าออกหัว การโจมตีนี้จะเพิ่มแดเมจอีก 10",
+			ko: "동전을 1번 던져서 앞면이 나오면 10데미지를 추가한다.",
 			id: "Lempar koin 1 kali. Jika hasilnya sisi depan, kerusakan yang diberikan bertambah sejumlah 10."
 		}
 	}],

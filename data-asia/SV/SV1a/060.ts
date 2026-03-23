@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "ヤトウモリ",
 		'zh-tw': "夜盜火蜥",
 		th: "ยาโทโมริ",
+		ko: "야도뇽",
 		id: "Salandit"
 	},
 
@@ -22,6 +23,7 @@ const card: Card = {
 		ja: "獲物を 挑発して 狭い 岩場に 誘い込み フラフラになる 毒ガスを 吹きかけ 仕留めるのだ。",
 		'zh-tw': "會挑釁獵物並引進狹窄的岩堆裡，接著噴出能造成 頭暈的毒瓦斯後奪其性命。",
 		th: "ยั่วยุและหลอกล่อเหยื่อให้เข้าไปในซอกหินแคบ ๆ แล้วพ่นแก๊สพิษที่จะทำให้โซเซใส่ก่อนจัดการอีกฝ่าย",
+		ko: "먹잇감을 도발해서 좁은 암석 지대로 유인한 뒤 어지러워지는 독가스를 뿜어서 마무리한다.",
 		id: "Salandit menantang lawan dan memancingnya ke celah bebatuan yang sempit. Lalu, Pokémon ini mengeluarkan gas beracun yang membuat sempoyongan dan menghabisi lawannya."
 	},
 
@@ -34,6 +36,7 @@ const card: Card = {
 			ja: "ガスでつつむ",
 			'zh-tw': "瓦斯包圍",
 			th: "ห่อหุ้มด้วยแก๊ส",
+			ko: "가스로감싸기",
 			id: "Gas yang Menyelimuti"
 		},
 
@@ -45,6 +48,7 @@ const card: Card = {
 			ja: "ひっかく",
 			'zh-tw': "抓",
 			th: "ข่วน",
+			ko: "할퀴기",
 			id: "Menggaruk"
 		},
 
