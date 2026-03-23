@@ -8,7 +8,7 @@ const card: Card = {
 		ja: "ライチュウ",
 		'zh-tw': "雷丘",
 		th: "ไรชู",
-		ko: "",
+		ko: "라이츄",
 		id: "Raichu"
 	},
 
@@ -23,7 +23,7 @@ const card: Card = {
 		ja: "尻尾が アースの 役目をはたして 電気を 地面に 逃がすので 自分自身は しびれたりしない。",
 		'zh-tw': "尾巴會發揮接地線的作用把電氣導入地面， 所以自己不會被電得發麻。",
 		th: "หางทำหน้าที่เป็นสายดินปล่อยไฟฟ้าไหลลงสู่พื้นดิน ทำให้ร่างกายของตัวเองไม่ชา",
-		ko: "",
+		ko: "꼬리가 어스 역할을 하여 전기를 지면으로 흘려보내므로 자신은 감전되거나 하지 않는다.",
 		id: "Karena ekornya berperan sebagai grounding yang melepaskan listrik ke tanah, Raichu tidak tersengat oleh listrik tersebut."
 	},
 
@@ -36,7 +36,7 @@ const card: Card = {
 			ja: "ライアース",
 			'zh-tw': "雷之大地",
 			th: "ไรเอิร์ท",
-			ko: "",
+			ko: "라이어스",
 			id: "Rai Grounding"
 		},
 
@@ -44,7 +44,7 @@ const card: Card = {
 			ja: "自分のポケモンが、相手のポケモンからワザのダメージを受けてきぜつするたび、1回使える。きぜつしたポケモンについているエネルギーを1枚選び、このポケモンにつけ替える。",
 			'zh-tw': "每次當自己的寶可夢受到對手的寶可夢招式的傷害而【昏厥】時，可使用1次。選擇1張【昏厥】的寶可夢身上附加的【雷】能量卡，改附於這隻寶可夢身上。",
 			th: "ทุกครั้งที่โปเกมอนฝ่ายเรา ได้รับแดเมจของท่าต่อสู้จากโปเกมอนฝ่ายตรงข้ามและ[หมดสภาพ] ใช้ได้ 1 ครั้ง เลือกการ์ดพลังงาน[สายฟ้า]ที่ติดอยู่กับโปเกมอนที่[หมดสภาพ] 1 ใบ ย้ายมาติดกับโปเกมอนนี้",
-			ko: "",
+			ko: "자신의 포켓몬이 상대의 포켓몬으로부터 기술의 데미지를 받아 기절할 때마다 1번 사용할 수 있다. 기절한 포켓몬에게 붙어 있는 번개 에너지를 1장 선택해서 이 포켓몬에게 붙인다.",
 			id: "Dapat digunakan 1 kali tiap kali Pokémon sendiri KO karena menerima kerusakan akibat serangan dari Pokémon lawan. Pilih 1 lembar Energi {Listrik} yang dikenakan pada Pokémon yang KO tersebut, lalu pindahkan ke Pokémon ini."
 		}
 	}],
@@ -56,7 +56,7 @@ const card: Card = {
 			ja: "かみなり",
 			'zh-tw': "打雷",
 			th: "ฟ้าผ่า",
-			ko: "",
+			ko: "번개",
 			id: "Guntur"
 		},
 
@@ -66,7 +66,7 @@ const card: Card = {
 			ja: "このポケモンにも50ダメージ。",
 			'zh-tw': "這隻寶可夢也受到50點傷害。",
 			th: "โปเกมอนนี้ก็จะได้รับแดเมจ 50 ด้วย",
-			ko: "",
+			ko: "이 포켓몬에게도 50데미지를 준다.",
 			id: "Pokémon ini juga menerima kerusakan sejumlah 50."
 		}
 	}],

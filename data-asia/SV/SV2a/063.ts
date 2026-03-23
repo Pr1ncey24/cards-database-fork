@@ -8,7 +8,7 @@ const card: Card = {
 		ja: "ケーシィ",
 		'zh-tw': "凱西",
 		th: "เคซี",
-		ko: "",
+		ko: "캐이시",
 		id: "Abra"
 	},
 
@@ -23,7 +23,7 @@ const card: Card = {
 		ja: "眠ったまま テレポート できる。 眠りが 深いほど 離れた 場所に 移動する という。",
 		'zh-tw': "就算在睡夢中也能使用瞬間移動。據說當牠睡得越熟， 瞬間移動的距離就會越遠。",
 		th: "สามารถเทเลพอร์ทได้ระหว่างที่หลับอยู่ ว่ากันว่ายิ่งหลับลึกก็จะยิ่งเคลื่อนตัวไปยังสถานที่ห่างไกลมากขึ้น",
-		ko: "",
+		ko: "잠이 든 상태에서 순간이동이 가능하다. 깊이 잠들수록 먼 곳으로 이동한다고 한다.",
 		id: "Abra dapat melakukan teleportasi sambil tidur. Dikatakan bahwa makin nyenyak tidurnya, makin jauh pula jarak teleportasinya."
 	},
 
@@ -36,7 +36,7 @@ const card: Card = {
 			ja: "サイコショット",
 			'zh-tw': "精神射擊",
 			th: "ไซโคช็อต",
-			ko: "",
+			ko: "사이코숏",
 			id: "Psyshot"
 		},
 

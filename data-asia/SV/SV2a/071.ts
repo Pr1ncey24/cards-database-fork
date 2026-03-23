@@ -8,7 +8,7 @@ const card: Card = {
 		ja: "ウツボット",
 		'zh-tw': "大食花",
 		th: "อุซึบ็อท",
-		ko: "",
+		ko: "우츠보트",
 		id: "Victreebel"
 	},
 
@@ -23,7 +23,7 @@ const card: Card = {
 		ja: "体内に 取りこまれた ものは どんなに 硬くても 溶解液で 跡形なく 溶かされてしまう。",
 		'zh-tw': "被牠吞進體內的東西不管有多硬， 都會被溶解液不留痕跡地融化掉。",
 		th: "สิ่งที่เอาใส่เข้าไปในร่างกายไม่ว่าจะแข็งแค่ไหนก็จะถูกละลายด้วยของเหลวทำละลายจนไม่เหลือซาก",
-		ko: "",
+		ko: "체내로 거둬들인 것은 아무리 단단할지라도 용해액으로 흔적도 없이 녹여버린다.",
 		id: "Semua yang ditelan masuk ke dalam tubuh Victreebel akan leleh tak bersisa oleh cairan peleburnya walau sekeras apa pun itu."
 	},
 
@@ -36,7 +36,7 @@ const card: Card = {
 			ja: "はきだす",
 			'zh-tw': "噴出",
 			th: "บ้วนออกมา",
-			ko: "",
+			ko: "토해내기",
 			id: "Memuntahkan"
 		},
 
@@ -48,7 +48,7 @@ const card: Card = {
 			ja: "ディレイドアシッド",
 			'zh-tw': "遲延酸液",
 			th: "ดีเลย์แอซิด",
-			ko: "",
+			ko: "딜레이드 애시드",
 			id: "Delayed Acid"
 		},
 
@@ -58,7 +58,7 @@ const card: Card = {
 			ja: "次の相手の番の終わりに、このワザを受けたポケモンにダメカンを12個のせる。",
 			'zh-tw': "在下個對手的回合結束時，在受到這個招式的寶可夢身上放置12個傷害指示物。",
 			th: "เมื่อจบเทิร์นถัดไปของฝ่ายตรงข้าม วางตัวนับแดเมจ 12 ตัวบนโปเกมอนที่ได้รับท่าต่อสู้นี้",
-			ko: "",
+			ko: "상대의 다음 차례 마지막에 이 기술을 받은 포켓몬에게 데미지 카운터를 12개 올린다.",
 			id: "Pada akhir giliran lawan berikutnya, letakkan 12 Token Kerusakan pada Pokémon yang menerima serangan ini."
 		}
 	}],

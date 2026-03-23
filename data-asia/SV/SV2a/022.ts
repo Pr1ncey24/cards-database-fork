@@ -8,7 +8,7 @@ const card: Card = {
 		ja: "オニドリル",
 		'zh-tw': "大嘴雀",
 		th: "โอนิดริล",
-		ko: "",
+		ko: "깨비드릴조",
 		id: "Fearow"
 	},
 
@@ -23,7 +23,7 @@ const card: Card = {
 		ja: "オニドリルの 縄張りで 食べ物を 持って 歩くのは 危険だ。 あっという 間に かっさらわれるぞ。",
 		'zh-tw': "在大嘴雀的地盤上帶著食物走動是件危險的事， 食物轉眼間就會被奪走。",
 		th: "การถือของกินเดินเข้าไปในอาณาเขตของโอนิดริลเป็นเรื่องที่อันตรายอย่างยิ่ง เพราะจะถูกฉกแย่งหายไปโดยที่ไม่ทันได้ตั้งตัว",
-		ko: "",
+		ko: "깨비드릴조 영역에서 음식을 갖고 다니는 것은 위험하다. 순식간에 빼앗긴다.",
 		id: "Berbahaya jika berjalan sambil membawa makanan di daerah kekuasaan Fearow. Pokémon ini akan menyambarnya dalam sekejap."
 	},
 
@@ -36,7 +36,7 @@ const card: Card = {
 			ja: "くちばしキャッチ",
 			'zh-tw': "鳥嘴捕捉",
 			th: "จะงอยจับ",
-			ko: "",
+			ko: "부리캐치",
 			id: "Paruh Penangkap"
 		},
 
@@ -44,7 +44,7 @@ const card: Card = {
 			ja: "自分の山札から好きなカードを3枚まで選び、手札に加える。そして山札を切る。",
 			'zh-tw': "從自己的牌庫任意選擇最多3張卡加入手牌。並且重洗牌庫。",
 			th: "เลือกการ์ดที่ชอบได้สูงสุด 3 ใบจากสำรับการ์ดฝ่ายเรา นำขึ้นมือ แล้วสับสำรับการ์ด",
-			ko: "",
+			ko: "자신의 덱에서 원하는 카드를 3장까지 선택해서 패로 가져온다. 그리고 덱을 섞는다.",
 			id: "Pilih paling banyak 3 kartu sesukanya dari Deck sendiri, lalu tambahkan ke Kartu Pegangan. Kemudian, kocok Deck."
 		}
 	}, {
@@ -54,7 +54,7 @@ const card: Card = {
 			ja: "スピードひこう",
 			'zh-tw': "高速飛行",
 			th: "บินเร็วจี๋",
-			ko: "",
+			ko: "스피드비행",
 			id: "Terbang Cepat"
 		},
 

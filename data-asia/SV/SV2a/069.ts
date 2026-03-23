@@ -8,7 +8,7 @@ const card: Card = {
 		ja: "マダツボミ",
 		'zh-tw': "喇叭芽",
 		th: "มาดาซึโบมิ",
-		ko: "",
+		ko: "모다피",
 		id: "Bellsprout"
 	},
 
@@ -23,7 +23,7 @@ const card: Card = {
 		ja: "人の 顔のような つぼみから 伝説の マンドラゴラの 一種ではないかと ささやかれている。",
 		'zh-tw': "因為花苞長得像人臉， 所以私底下有些人說牠是 傳說生物曼德拉草的一種。",
 		th: "มีเสียงซุบซิบกันว่า จากดอกตูมที่ดูราวกับใบหน้าคนนั้น อาจจะเป็นพันธุ์หนึ่งของแมนเดรกในตำนานหรือไม่",
-		ko: "",
+		ko: "사람 얼굴 같은 봉오리 때문에 전설의 꽃 만드라고라의 일종이 아닐까 하는 소문이 돌고 있다.",
 		id: "Karena kuncupnya menyerupai wajah manusia, Bellsprout digosipkan sebagai sejenis Mandragora yang legendaris."
 	},
 
@@ -36,7 +36,7 @@ const card: Card = {
 			ja: "いあいぎり",
 			'zh-tw': "居合斬",
 			th: "ตัด",
-			ko: "",
+			ko: "풀베기",
 			id: "Potongan Iai"
 		},
 
@@ -48,7 +48,7 @@ const card: Card = {
 			ja: "しばりつける",
 			'zh-tw': "束縛",
 			th: "มัดยึด",
-			ko: "",
+			ko: "붙들어매기",
 			id: "Menjerat"
 		},
 
@@ -58,7 +58,7 @@ const card: Card = {
 			ja: "次の相手の番、このワザを受けたポケモンは、にげられない。",
 			'zh-tw': "在下個對手的回合，受到這個招式的寶可夢無法撤退。",
 			th: "เทิร์นถัดไปของฝ่ายตรงข้าม โปเกมอนที่ได้รับท่าต่อสู้นี้ จะหนีไม่ได้",
-			ko: "",
+			ko: "상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다.",
 			id: "Pada giliran lawan berikutnya, Pokémon yang menerima serangan ini tidak dapat Mundur."
 		}
 	}],

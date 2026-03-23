@@ -8,7 +8,7 @@ const card: Card = {
 		ja: "オニスズメ",
 		'zh-tw': "烈雀",
 		th: "โอนิสึซึเมะ",
-		ko: "",
+		ko: "깨비참",
 		id: "Spearow"
 	},
 
@@ -23,7 +23,7 @@ const card: Card = {
 		ja: "羽が 短く 長い 距離を 飛べない。 せわしなく 動き まわって むしポケモンを ついばむ。",
 		'zh-tw': "翅膀很短，無法長距離飛行。 總是不停地四處跳來跳去， 忙著啄食蟲寶可夢。",
 		th: "ด้วยปีกที่สั้นทำให้บินได้ไม่ไกล มักขยับไปมาอย่างลุกลี้ลุกลนจิกกินโปเกมอนแมลง",
-		ko: "",
+		ko: "날개가 짧아서 먼 거리를 날지 못한다. 쉴 새 없이 움직이며 벌레포켓몬을 쪼아 댄다.",
 		id: "Spearow tidak dapat terbang jauh karena sayapnya pendek. Pokémon ini bergerak ke sekeliling dengan tergesa-gesa untuk mencari dan mematuk Pokémon serangga."
 	},
 
@@ -36,7 +36,7 @@ const card: Card = {
 			ja: "ぬけがけしんか",
 			'zh-tw': "搶先進化",
 			th: "ชิงวิวัฒนาการ",
-			ko: "",
+			ko: "앞지른 진화",
 			id: "Evolusi Mencuri Start"
 		},
 
@@ -44,7 +44,7 @@ const card: Card = {
 			ja: "このポケモンは、後攻プレイヤーの最初の番なら、出したばかりでも進化できる。",
 			'zh-tw': "若在後攻玩家的最初回合，則這隻寶可夢就算剛使出也可進化。",
 			th: "โปเกมอนนี้ ถ้าเป็นเทิร์นแรกสุดของผู้เล่นฝ่ายเล่นทีหลัง แม้จะเพิ่งออกมาก็สามารถวิวัฒนาการได้",
-			ko: "",
+			ko: "이 포켓몬은 후공 플레이어의 첫 차례라면 내보냈을 때라도 진화할 수 있다.",
 			id: "Jika ini adalah giliran pertama Pemain Kedua, Pokémon ini dapat dievolusikan meskipun baru dimasukkan."
 		}
 	}],
@@ -56,7 +56,7 @@ const card: Card = {
 			ja: "スピードひこう",
 			'zh-tw': "高速飛行",
 			th: "บินเร็วจี๋",
-			ko: "",
+			ko: "스피드비행",
 			id: "Terbang Cepat"
 		},
 

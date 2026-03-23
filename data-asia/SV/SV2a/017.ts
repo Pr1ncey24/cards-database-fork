@@ -8,7 +8,7 @@ const card: Card = {
 		ja: "ピジョン",
 		'zh-tw': "比比鳥",
 		th: "พีเจียน",
-		ko: "",
+		ko: "피죤",
 		id: "Pidgeotto"
 	},
 
@@ -23,7 +23,7 @@ const card: Card = {
 		ja: "広い 縄張りを 持っており 侵入する 邪魔者は 徹底的に つつかれてしまう。",
 		'zh-tw': "擁有著廣闊的地盤。 要是有哪個討厭鬼膽敢入侵， 就會遭到牠的瘋狂啄擊。",
 		th: "มีอาณาเขตกว้างขวาง ผู้ที่บุกรุกเข้ามาในอาณาเขตจะถูกไล่จิกจนพรุน",
-		ko: "",
+		ko: "넓은 영역을 가지고 있어 침입한 방해자는 철저하게 쪼아버린다.",
 		id: "Pidgeotto memiliki wilayah teritorial yang luas. Pokémon ini mematuk secara menyeluruh penyusup yang memasuki wilayah teritorialnya."
 	},
 
@@ -36,7 +36,7 @@ const card: Card = {
 			ja: "はばたく",
 			'zh-tw': "羽擊",
 			th: "ตีปีก",
-			ko: "",
+			ko: "홰치기",
 			id: "Mengepak"
 		},
 

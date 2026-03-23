@@ -8,7 +8,7 @@ const card: Card = {
 		ja: "ピカチュウ",
 		'zh-tw': "皮卡丘",
 		th: "พิคาชู",
-		ko: "",
+		ko: "피카츄",
 		id: "Pikachu"
 	},
 
@@ -23,7 +23,7 @@ const card: Card = {
 		ja: "両頬には 電気を 溜めこむ 袋がある。 怒ると 溜めこんだ 電気を 一気に 放ってくる。",
 		'zh-tw': "雙頰上有儲存電力的囊袋。一旦生氣就會把儲存的電力 一口氣釋放出來。",
 		th: "ที่แก้มทั้งสองข้างมีถุงสำหรับเก็บไฟฟ้า พอโกรธจะปล่อยไฟฟ้าที่เก็บเอาไว้ออกมาในรวดเดียว",
-		ko: "",
+		ko: "양 볼에는 전기를 저장하는 주머니가 있다. 화가 나면 저장한 전기를 단숨에 방출한다.",
 		id: "Pikachu memiliki kantong penampung listrik di kedua pipinya. Ketika marah, Pokémon ini mengeluarkan seluruh listrik yang telah terkumpul."
 	},
 
@@ -36,7 +36,7 @@ const card: Card = {
 			ja: "じゅうでん",
 			'zh-tw': "充電",
 			th: "ชาร์จ",
-			ko: "",
+			ko: "충전",
 			id: "Charge"
 		},
 
@@ -44,7 +44,7 @@ const card: Card = {
 			ja: "自分の山札から「基本エネルギー」を1枚選び、このポケモンにつける。そして山札を切る。",
 			'zh-tw': "從自己的牌庫選擇1張「基本【雷】能量」卡，附於這隻寶可夢身上。並且重洗牌庫。",
 			th: "เลือกการ์ด [พลังงานพื้นฐาน[สายฟ้า]] 1 ใบจากสำรับการ์ดฝ่ายเรา ติดที่โปเกมอนนี้ แล้วสับสำรับการ์ด",
-			ko: "",
+			ko: "자신의 덱에서 「기본 번개 에너지」를 1장 선택해서 이 포켓몬에게 붙인다. 그리고 덱을 섞는다.",
 			id: "Pilih 1 lembar Energi Dasar {Listrik} dari Deck sendiri, lalu kenakan pada Pokémon ini. Kemudian, kocok Deck."
 		}
 	}, {
@@ -54,7 +54,7 @@ const card: Card = {
 			ja: "ピカパンチ",
 			'zh-tw': "皮卡拳",
 			th: "พิคาพันช์",
-			ko: "",
+			ko: "피카펀치",
 			id: "Pika Punch"
 		},
 

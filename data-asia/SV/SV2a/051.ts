@@ -8,7 +8,7 @@ const card: Card = {
 		ja: "ダグトリオ",
 		'zh-tw': "三地鼠",
 		th: "ดักทริโอ",
-		ko: "",
+		ko: "닥트리오",
 		id: "Dugtrio"
 	},
 
@@ -23,7 +23,7 @@ const card: Card = {
 		ja: "３つの 頭が 互い違いに 動くのは まわりの 土を 柔らかくして 掘りやすくするため。",
 		'zh-tw': "三顆頭會輪流活動，是為了讓周圍的土 變得更鬆更好挖。",
 		th: "ทั้ง 3 หัวจะสลับกันเคลื่อนไหวเพื่อให้ดินรอบ ๆ นิ่มลงและขุดง่ายขึ้น",
-		ko: "",
+		ko: "3개의 머리가 교차하며 움직이는 것은 주변의 흙을 부드럽게 해 파기 쉽게 하기 위해서다.",
 		id: "Tiga kepala Dugtrio saling bergerak ke arah yang berbeda-beda untuk melunakkan tanah di sekitarnya agar menjadi lebih mudah untuk digali."
 	},
 
@@ -36,7 +36,7 @@ const card: Card = {
 			ja: "とびだしヘッド",
 			'zh-tw': "魯莽頭擊",
 			th: "กระโดดโหม่ง",
-			ko: "",
+			ko: "머리박치기",
 			id: "Sundulan Meloncat"
 		},
 
@@ -48,7 +48,7 @@ const card: Card = {
 			ja: "どろばくだん",
 			'zh-tw': "泥巴炸彈",
 			th: "ระเบิดโคลน",
-			ko: "",
+			ko: "진흙폭탄",
 			id: "Bom Lumpur"
 		},
 

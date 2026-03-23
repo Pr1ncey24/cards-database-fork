@@ -8,7 +8,7 @@ const card: Card = {
 		ja: "ピクシー",
 		'zh-tw': "皮可西",
 		th: "ปิคซี",
-		ko: "",
+		ko: "픽시",
 		id: "Clefable"
 	},
 
@@ -23,7 +23,7 @@ const card: Card = {
 		ja: "１キロ先に 落ちた 針の 音も 聞こえるほど 耳が いいので ふだんは 静かな ところに いる。",
 		'zh-tw': "聽覺靈敏，連１公里以外針落地的聲音都聽得見， 因此平時會待在安靜的地方。",
 		th: "หูดีถึงขนาดได้ยินเสียงเข็มที่ตกอยู่ระยะ 1 กิโลเมตรข้างหน้า โดยปกติจึงอยู่ในสถานที่เงียบ ๆ",
-		ko: "",
+		ko: "1km 앞에 떨어진 바늘 소리가 들릴 정도로 귀가 좋아 평소에는 조용한 곳에서 지낸다.",
 		id: "Telinga Clefable sangat tajam dan dapat mendengar suara jarum jatuh di tempat berjarak 1 km darinya, sehingga Pokémon ini biasanya berada di tempat yang tenang."
 	},
 
@@ -36,7 +36,7 @@ const card: Card = {
 			ja: "このゆびとまれ",
 			'zh-tw': "看我嘛",
 			th: "ตามฉันมา",
-			ko: "",
+			ko: "날따름",
 			id: "Ikuti Aku"
 		},
 
@@ -44,7 +44,7 @@ const card: Card = {
 			ja: "相手のベンチポケモンを1匹選び、バトルポケモンと入れ替える。",
 			'zh-tw': "選擇1隻對手的備戰寶可夢，與戰鬥寶可夢互換。",
 			th: "เลือกโปเกมอนบนเบนช์ฝ่ายตรงข้าม 1 ตัว สลับกับโปเกมอนบนตำแหน่งต่อสู้",
-			ko: "",
+			ko: "상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다.",
 			id: "Pilih 1 Pokémon Cadangan lawan, lalu tukar dengan Pokémon Bertarung."
 		}
 	}, {
@@ -54,7 +54,7 @@ const card: Card = {
 			ja: "アディショナルムーン",
 			'zh-tw': "追加月亮",
 			th: "แอดดิชันนัลมูน",
-			ko: "",
+			ko: "에디셔널문",
 			id: "Additional Moon"
 		},
 
@@ -64,7 +64,7 @@ const card: Card = {
 			ja: "このワザのダメージで、相手のポケモンがきぜつしたなら、サイドを1枚多くとる。",
 			'zh-tw': "若對手的寶可夢因這個招式的傷害而【昏厥】了，則多獲得1張獎賞卡。",
 			th: "ถ้าโปเกมอนฝ่ายตรงข้าม[หมดสภาพ] ด้วยแดเมจของท่าต่อสู้นี้แล้ว หยิบการ์ดรางวัลเพิ่ม 1 ใบ",
-			ko: "",
+			ko: "이 기술의 데미지로 상대의 포켓몬이 기절했다면 프라이즈를 1장 더 가져온다.",
 			id: "Jika Pokémon lawan KO karena kerusakan akibat serangan ini, ambil Kartu Point 1 lembar lebih banyak."
 		}
 	}],

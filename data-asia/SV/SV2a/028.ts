@@ -8,7 +8,7 @@ const card: Card = {
 		ja: "サンドパン",
 		'zh-tw': "穿山王",
 		th: "แซนด์แพน",
-		ko: "",
+		ko: "고지",
 		id: "Sandslash"
 	},
 
@@ -23,7 +23,7 @@ const card: Card = {
 		ja: "鋭い ツメを ひっかけて 木を 登る。 下で 待つ サンドたちに 木の実を 落とし 分け与えるのだ。",
 		'zh-tw': "會用銳利的爪子當作鉤子來爬樹。這是為了將樹果擊落， 分給在樹下等待的穿山鼠們。",
 		th: "ใช้กรงเล็บแหลมคมจิกและปีนขึ้นต้นไม้ เพื่อโยนผลไม้ลงมาแบ่งให้กับเหล่าแซนด์ที่รออยู่ด้านล่าง",
-		ko: "",
+		ko: "날카로운 발톱으로 찍으며 나무에 오른다. 아래에서 기다리는 모래두지들에게 나무열매를 떨어뜨려 나눠준다.",
 		id: "Sandslash mendaki pohon dengan mengaitkan cakarnya yang tajam. Pokémon ini menjatuhkan beri dan membagikannya pada Sandshrew yang menanti di bawah pohon."
 	},
 
@@ -36,7 +36,7 @@ const card: Card = {
 			ja: "じひびき",
 			'zh-tw': "地鳴",
 			th: "พสุธากัมปนาท",
-			ko: "",
+			ko: "땅울림",
 			id: "Gelegar Tanah"
 		},
 
@@ -46,7 +46,7 @@ const card: Card = {
 			ja: "次の相手の番、このワザを受けたポケモンは、にげられない。",
 			'zh-tw': "在下個對手的回合，受到這個招式的寶可夢無法撤退。",
 			th: "เทิร์นถัดไปของฝ่ายตรงข้าม โปเกมอนที่ได้รับท่าต่อสู้นี้ จะหนีไม่ได้",
-			ko: "",
+			ko: "상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다.",
 			id: "Pada giliran lawan berikutnya, Pokémon yang menerima serangan ini tidak dapat Mundur."
 		}
 	}, {
@@ -56,7 +56,7 @@ const card: Card = {
 			ja: "トゲでえぐる",
 			'zh-tw': "針裂",
 			th: "คว้านด้วยหนาม",
-			ko: "",
+			ko: "가시로 도려내기",
 			id: "Duri Pengoyak"
 		},
 
@@ -66,7 +66,7 @@ const card: Card = {
 			ja: "相手のバトルポケモンにダメカンがのっているなら、100ダメージ追加。",
 			'zh-tw': "若對手的戰鬥寶可夢身上放置有傷害指示物，則增加100點傷害。",
 			th: "ถ้าโปเกมอนบนตำแหน่งต่อสู้ฝ่ายตรงข้ามมีตัวนับแดเมจวางอยู่ การโจมตีนี้จะเพิ่มแดเมจอีก 100",
-			ko: "",
+			ko: "상대의 배틀 포켓몬에게 데미지 카운터가 올려져 있다면 100데미지를 추가한다.",
 			id: "Jika Pokémon Bertarung lawan memiliki Token Kerusakan, kerusakan yang diberikan bertambah sejumlah 100."
 		}
 	}],

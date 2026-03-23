@@ -8,7 +8,7 @@ const card: Card = {
 		ja: "ピジョット",
 		'zh-tw': "大比鳥",
 		th: "พีเจียต",
-		ko: "",
+		ko: "피죤투",
 		id: "Pidgeot"
 	},
 
@@ -23,7 +23,7 @@ const card: Card = {
 		ja: "美しい 羽を 広げて 相手を 威嚇する。 マッハ２で 空を 飛び回る。",
 		'zh-tw': "會展開美麗的翅膀威嚇對手。 能以２馬赫的速度在空中四處飛行。",
 		th: "กางปีกอันสวยงามออกเพื่อข่มขวัญศัตรู บินไปมาบนท้องฟ้าด้วยความเร็วเสียง 2 มัค",
-		ko: "",
+		ko: "아름다운 날개를 펼쳐 상대를 위협한다. 마하2로 하늘을 날아다닌다.",
 		id: "Pidgeot mengintimidasi lawannya dengan melebarkan sayapnya yang indah. Pokémon ini terbang mengelilingi langit dengan kecepatan 2 Mach."
 	},
 
@@ -36,7 +36,7 @@ const card: Card = {
 			ja: "はばたく",
 			'zh-tw': "羽擊",
 			th: "ตีปีก",
-			ko: "",
+			ko: "홰치기",
 			id: "Mengepak"
 		},
 
@@ -48,7 +48,7 @@ const card: Card = {
 			ja: "そらをとぶ",
 			'zh-tw': "飛翔",
 			th: "บินขึ้น",
-			ko: "",
+			ko: "공중날기",
 			id: "Terbang"
 		},
 
@@ -58,7 +58,7 @@ const card: Card = {
 			ja: "コインを1回投げウラなら、このワザは失敗。オモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。",
 			'zh-tw': "擲1次硬幣若為反面，則這個招式失敗。若為正面，則在下個對手的回合，這隻寶可夢不會受到招式的傷害與效果的影響。",
 			th: "ทอยเหรียญ 1 ครั้งถ้าออกก้อย ท่าต่อสู้นี้จะล้มเหลว ถ้าออกหัว เทิร์นถัดไปของฝ่ายตรงข้าม โปเกมอนนี้จะไม่ได้รับแดเมจและเอฟเฟกต์ของท่าต่อสู้",
-			ko: "",
+			ko: "동전을 1번 던져서 뒷면이 나오면 이 기술은 실패한다. 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지나 효과를 받지 않는다.",
 			id: "Lempar koin 1 kali. Jika hasilnya sisi belakang, serangan ini gagal. Jika hasilnya sisi depan, pada giliran lawan berikutnya, Pokémon ini tidak menerima kerusakan dan efek akibat serangan."
 		}
 	}],

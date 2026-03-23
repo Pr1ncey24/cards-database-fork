@@ -8,7 +8,7 @@ const card: Card = {
 		ja: "ポッポ",
 		'zh-tw': "波波",
 		th: "ป็อปโปะ",
-		ko: "",
+		ko: "구구",
 		id: "Pidgey"
 	},
 
@@ -23,7 +23,7 @@ const card: Card = {
 		ja: "戦いを 好まない おとなしい 性格だが 下手に 手を 出すと 強烈に 反撃されるぞ。",
 		'zh-tw': "雖然性情溫和不愛戰鬥， 但要是隨意對牠出手的話， 就會受到牠強烈的反擊。",
 		th: "มีนิสัยสงบเสงี่ยม ไม่ชอบต่อสู้ แต่ถ้าเผลอไปหาเรื่องมันเข้าล่ะก็ จะถูกโต้กลับอย่างรุนแรงเอานะ",
-		ko: "",
+		ko: "싸움을 좋아하지 않는 얌전한 성격이지만 어설프게 건드리면 강력한 반격을 당하게 된다.",
 		id: "Meski Pidgey berkepribadian tenang dan tidak menyukai pertikaian, ia akan melawan balik dengan ganas jika diganggu."
 	},
 
@@ -36,7 +36,7 @@ const card: Card = {
 			ja: "なかまをよぶ",
 			'zh-tw': "呼朋引伴",
 			th: "เรียกเพื่อน",
-			ko: "",
+			ko: "동료부르기",
 			id: "Memanggil Teman"
 		},
 
@@ -44,7 +44,7 @@ const card: Card = {
 			ja: "自分の山札からたねポケモンを2枚まで選び、ベンチに出す。そして山札を切る。",
 			'zh-tw': "從自己的牌庫選擇最多2張【基礎】寶可夢卡，放置於備戰區。並且重洗牌庫。",
 			th: "เลือกการ์ดโปเกมอน[พื้นฐาน]ได้สูงสุด 2 ใบจากสำรับการ์ดฝ่ายเรา วางบนเบนช์ แล้วสับสำรับการ์ด",
-			ko: "",
+			ko: "자신의 덱에서 기본 포켓몬을 2장까지 선택해서 벤치로 내보낸다. 그리고 덱을 섞는다.",
 			id: "Pilih paling banyak 2 lembar Pokémon Basic dari Deck sendiri, lalu masukkan ke Cadangan. Kemudian, kocok Deck."
 		}
 	}, {
@@ -54,7 +54,7 @@ const card: Card = {
 			ja: "たいあたり",
 			'zh-tw': "撞擊",
 			th: "พุ่งเข้าชน",
-			ko: "",
+			ko: "몸통박치기",
 			id: "Serudukan"
 		},
 

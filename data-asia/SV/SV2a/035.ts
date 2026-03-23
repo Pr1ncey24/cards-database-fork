@@ -8,7 +8,7 @@ const card: Card = {
 		ja: "ピッピ",
 		'zh-tw': "皮皮",
 		th: "ปิปปี",
-		ko: "",
+		ko: "삐삐",
 		id: "Clefairy"
 	},
 
@@ -23,7 +23,7 @@ const card: Card = {
 		ja: "愛くるしい しぐさと 鳴き声で かわいいと 大人気の ポケモン。 だが めったに 見つからない。",
 		'zh-tw': "因可愛的舉止和叫聲而廣受歡迎的寶可夢。 不過很少被人發現。",
 		th: "เป็นโปเกมอนน่ารักที่ได้รับความนิยมเป็นอย่างมากเพราะมีลักษณะท่าทางและเสียงร้องที่น่าเอ็นดู แต่แทบจะไม่ค่อยได้พบเห็น",
-		ko: "",
+		ko: "애교 있는 몸동작과 울음소리로 귀엽다고 많은 인기를 누리는 포켓몬. 그러나 좀처럼 눈에 띄지 않는다.",
 		id: "Pokémon dengan tingkah dan suaranya yang imut-imut ini populer karena kemanisannya. Akan tetapi, Clefairy sulit untuk ditemukan."
 	},
 
@@ -36,7 +36,7 @@ const card: Card = {
 			ja: "つきみにさそう",
 			'zh-tw': "邀請月見",
 			th: "ชวนชมจันทร์",
-			ko: "",
+			ko: "달맞이유인",
 			id: "Mengundang Memandang Bulan"
 		},
 
@@ -44,7 +44,7 @@ const card: Card = {
 			ja: "自分の山札から「ピッピ」を3枚まで選び、ベンチに出す。そして山札を切る。",
 			'zh-tw': "從自己的牌庫選擇最多3張「皮皮」，放置於備戰區。並且重洗牌庫。",
 			th: "เลือกการ์ด [ปิปปี] ได้สูงสุด 3 ใบจากสำรับการ์ดฝ่ายเรา วางบนเบนช์ แล้วสับสำรับการ์ด",
-			ko: "",
+			ko: "자신의 덱에서 「삐삐」를 3장까지 선택해서 벤치로 내보낸다. 그리고 덱을 섞는다.",
 			id: "Pilih paling banyak 3 lembar Clefairy dari Deck sendiri, lalu masukkan ke Cadangan. Kemudian, kocok Deck."
 		}
 	}, {
@@ -54,7 +54,7 @@ const card: Card = {
 			ja: "ひらてうち",
 			'zh-tw': "掌擊",
 			th: "ฝ่ามือตบ",
-			ko: "",
+			ko: "수벽치기",
 			id: "Tampar"
 		},
 
