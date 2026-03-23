@@ -5,7 +5,8 @@ const card: Card = {
 	set: Set,
 
 	name: {
-		ja: "ガケガニ"
+		ja: "ガケガニ",
+		ko: "절벼게"
 	},
 
 	illustrator: "Mina Nakai",
@@ -15,7 +16,8 @@ const card: Card = {
 	types: ["Fighting"],
 
 	description: {
-		ja: "逆さまになって 崖の 上から 獲物を 狙うが 頭に 血が上るので 長くは 待てない。"
+		ja: "逆さまになって 崖の 上から 獲物を 狙うが 頭に 血が上るので 長くは 待てない。",
+		ko: "거꾸로 매달린 채 절벽 위에서 먹이를 노리지만, 머리에 피가 몰리기 때문에 오랫동안은 버틸 수 없다고 한다."
 	},
 
 	stage: "Basic",
@@ -24,7 +26,8 @@ const card: Card = {
 		cost: ["Fighting", "Fighting"],
 
 		name: {
-			ja: "はさむ"
+			ja: "はさむ",
+			ko: "찝기"
 		},
 
 		damage: 50
@@ -32,13 +35,15 @@ const card: Card = {
 		cost: ["Fighting", "Fighting", "Fighting"],
 
 		name: {
-			ja: "アドレナハンマー"
+			ja: "アドレナハンマー",
+			ko: "아드레나해머"
 		},
 
 		damage: 130,
 
 		effect: {
-			ja: "このポケモンをこんらんにする。"
+			ja: "このポケモンをこんらんにする。",
+			ko: "이 포켓몬을혼란으로 만든다."
 		}
 	}],
 

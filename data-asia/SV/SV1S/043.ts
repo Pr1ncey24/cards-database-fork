@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "ワルビル",
 		'zh-tw': "混混鱷",
 		th: "วารุวิล",
+		ko: "악비르",
 		id: "Krokorok"
 	},
 
@@ -22,6 +23,7 @@ const card: Card = {
 		ja: "薄い 膜で 被われている 両目は 真夜中でも 見える。 数匹の 群れで 暮らしている。",
 		'zh-tw': "由於雙眼覆蓋著薄膜，在半夜中也能看見四周。 會和多隻同類組成群體生活。",
 		th: "ตาที่ถูกคลุมด้วยเยื่อบาง ๆ สามารถมองเห็นได้แม้ในความมืด อาศัยอยู่ด้วยกันเป็นฝูงเล็ก ๆ",
+		ko: "얇은 막으로 덮여 있는 두 눈은 한밤중에도 잘 보인다. 몇 마리가 무리 지어 생활한다.",
 		id: "Kedua mata Krokorok yang dilindungi membran tipis tetap dapat melihat pada tengah malam. Pokémon ini hidup berkelompok dengan beberapa sesamanya."
 	},
 
@@ -34,6 +36,7 @@ const card: Card = {
 			ja: "しっぺがえし",
 			'zh-tw': "以牙還牙",
 			th: "เอาคืน",
+			ko: "보복",
 			id: "Menyerang Balik"
 		},
 
@@ -43,6 +46,7 @@ const card: Card = {
 			ja: "相手のサイドの残り枚数が1枚なら、90ダメージ追加。",
 			'zh-tw': "若對手剩餘獎賞卡的張數為1張，則增加90點傷害。",
 			th: "ถ้าจำนวนการ์ดรางวัลที่เหลือของฝ่ายตรงข้ามเป็น 1 ใบ การโจมตีนี้จะเพิ่มแดเมจอีก 90",
+			ko: "상대의 남은 프라이즈 장수가 1장이라면 90데미지를 추가한다.",
 			id: "Jika sisa Kartu Point lawan adalah 1 lembar, kerusakan yang diberikan bertambah sejumlah 90."
 		}
 	}, {
@@ -52,6 +56,7 @@ const card: Card = {
 			ja: "どつく",
 			'zh-tw': "推擊",
 			th: "ต่อยตี",
+			ko: "쥐어박기",
 			id: "Menohok"
 		},
 

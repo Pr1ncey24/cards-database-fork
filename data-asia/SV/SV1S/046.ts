@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "スナヘビ",
 		'zh-tw': "沙包蛇",
 		th: "ซึนะเฮบิ",
+		ko: "모래뱀",
 		id: "Silicobra"
 	},
 
@@ -22,6 +23,7 @@ const card: Card = {
 		ja: "風船のように 伸び縮む 首の 袋は 脱皮を 重ねるたびに 伸縮性が 増していく。",
 		'zh-tw': "頸部的囊袋就像氣球一樣能伸縮自如，而隨著不斷 蛻皮，伸縮性會隨之增加。",
 		th: "ถุงที่คอยืดหดได้เหมือนลูกโป่ง ยิ่งลอกคราบมากเท่าไหร่ ถุงที่คอก็จะยืดหยุ่นมากขึ้นเท่านั้น",
+		ko: "풍선처럼 늘었다 줄었다 하는 목의 주머니는 탈피를 거듭할수록 신축성이 좋아진다.",
 		id: "Kantong di leher Silicobra yang dapat memanjang dan memendek seperti balon akan menjadi makin elastis setiap kali ia berganti kulit."
 	},
 
@@ -34,6 +36,7 @@ const card: Card = {
 			ja: "どろかけ",
 			'zh-tw': "擲泥",
 			th: "สาดโคลน",
+			ko: "진흙뿌리기",
 			id: "Semprotan Lumpur"
 		},
 

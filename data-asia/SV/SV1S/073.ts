@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "まけんきハチマキ",
 		'zh-tw': "不服輸頭帶",
 		th: "ผ้าคาดหัวสู้ตาย",
+		ko: "학습장치",
 		id: "Ikat Kepala Tidak Mau Kalah"
 	},
 

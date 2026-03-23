@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "ラルトス",
 		'zh-tw': "拉魯拉絲",
 		th: "ราลท์ซ",
+		ko: "랄토스",
 		id: "Ralts"
 	},
 
@@ -22,6 +23,7 @@ const card: Card = {
 		ja: "人の 感情を 頭の 赤い ツノで 敏感に キャッチする 力を 持つ。",
 		'zh-tw': "擁有使用頭上的紅角就可以敏銳察覺 人類感情的能力。",
 		th: "เขาสีแดงบนหัวมีพลังในการรับรู้ความรู้สึกของคนได้อย่างละเอียดอ่อน",
+		ko: "사람의 감정을 머리의 빨간 뿔로 민감하게 감지하는 힘을 가졌다.",
 		id: "Ralts memiliki kekuatan untuk menangkap emosi manusia secara sensitif dengan menggunakan tanduk merah di kepalanya."
 	},
 
@@ -34,6 +36,7 @@ const card: Card = {
 			ja: "サイコショット",
 			'zh-tw': "精神射擊",
 			th: "ไซโคช็อต",
+			ko: "사이코숏",
 			id: "Psyshot"
 		},
 

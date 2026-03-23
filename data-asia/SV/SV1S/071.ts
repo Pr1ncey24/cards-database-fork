@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "岩のむねあて",
 		'zh-tw': "岩石胸甲",
 		th: "เกราะหุ้มหน้าอกหิน",
+		ko: "바위 가슴보호대",
 		id: "Pelindung Dada Bebatuan"
 	},
 

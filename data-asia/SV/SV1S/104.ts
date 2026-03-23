@@ -5,7 +5,8 @@ const card: Card = {
 	set: Set,
 
 	name: {
-		ja: "ジニア"
+		ja: "ジニア",
+		ko: "모란"
 	},
 
 	illustrator: "Oswaldo KATO",

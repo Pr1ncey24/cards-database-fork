@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "パピモッチ",
 		'zh-tw': "狗仔包",
 		th: "พาปิม็อตจิ",
+		ko: "쫀도기",
 		id: "Fidough"
 	},
 
@@ -22,6 +23,7 @@ const card: Card = {
 		ja: "しっとり すべすべの 触り心地。 吐息に 含まれている 酵母で まわりのものを 発酵させる。",
 		'zh-tw': "摸起來既濕潤又絲滑。吐出的氣息裡含有酵母， 可以使周圍的東西發酵。",
 		th: "มีร่างกายที่ชุ่มชื้นและเรียบเนียนน่าสัมผัส หมักสิ่งที่อยู่รอบตัวด้วยยีสต์ซึ่งมาพร้อมกับลมหายใจ",
+		ko: "만지면 촉촉하고 매끈매끈하다. 숨결에 포함되어 있는 효모로 주위의 것들을 발효시킨다.",
 		id: "Tubuh Fidough empuk, halus, dan nyaman dipegang. Napasnya yang mengandung ragi dapat memfermentasikan benda-benda yang ada di sekitarnya."
 	},
 
@@ -34,6 +36,7 @@ const card: Card = {
 			ja: "うしろげり",
 			'zh-tw': "後踢",
 			th: "เตะกลับหลัง",
+			ko: "뒤로 차기",
 			id: "Tendangan Belakang"
 		},
 

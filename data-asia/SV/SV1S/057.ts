@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "キリキザン",
 		'zh-tw': "劈斬司令",
 		th: "คิริคิซัน",
+		ko: "절각참",
 		id: "Bisharp"
 	},
 
@@ -22,6 +23,7 @@ const card: Card = {
 		ja: "コマタナを 率いて 群れを 成す。 縄張りを 賭けて 争い 負けた 群れは 吸収されていくのだ。",
 		'zh-tw': "率領駒刀小兵成群結隊。輸掉賭上地盤之爭的群體， 會一個接一個地遭到吸收。",
 		th: "เป็นผู้นำและรวมฝูงโคมาทานา ฝูงที่พ่ายแพ้ในการต่อสู้แย่งชิงอาณาเขตจะถูกกลืนรวมกับฝ่ายชนะ",
+		ko: "자망칼을 거느리며 무리를 만든다. 영역을 건 싸움에서 진 무리는 이긴 쪽에 흡수된다.",
 		id: "Bisharp membentuk pasukan dan memimpin para Pawniard. Pasukan yang kalah dalam pertarungan perebutan wilayah akan diserap oleh pasukan pemenang."
 	},
 
@@ -34,6 +36,7 @@ const card: Card = {
 			ja: "ダークカッター",
 			'zh-tw': "暗黑利刃",
 			th: "ดาร์กคัตเตอร์",
+			ko: "다크커터",
 			id: "Kegelapan Pemotong"
 		},
 
@@ -45,6 +48,7 @@ const card: Card = {
 			ja: "もろはぎり",
 			'zh-tw': "雙刃斬",
 			th: "ฟันดาบสองคม",
+			ko: "양날베기",
 			id: "Sabetan Luka Bersama"
 		},
 
@@ -54,6 +58,7 @@ const card: Card = {
 			ja: "このポケモンにも30ダメージ。",
 			'zh-tw': "這隻寶可夢也受到30點傷害。",
 			th: "โปเกมอนนี้ก็จะได้รับแดเมจ 30 ด้วย",
+			ko: "이 포켓몬에게도 30데미지를 준다.",
 			id: "Pokémon ini juga menerima kerusakan sejumlah 30."
 		}
 	}],

@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "博士の研究（オーリム博士）",
 		'zh-tw': "博士的研究（奧琳博士）",
 		th: "งานวิจัยของศาสตราจารย์ (ศาสตราจารย์โอลิม)",
+		ko: "스타단의 조무래기",
 		id: "Penelitian Profesor (Profesor Olim)"
 	},
 

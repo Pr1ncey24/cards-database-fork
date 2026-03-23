@@ -5,7 +5,8 @@ const card: Card = {
 	set: Set,
 
 	name: {
-		ja: "ネストボール"
+		ja: "ネストボール",
+		ko: "네스트볼"
 	},
 
 	illustrator: "Toyste Beach",

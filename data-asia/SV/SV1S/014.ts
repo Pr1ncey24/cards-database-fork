@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "ギャラドスex",
 		'zh-tw': "暴鯉龍ex",
 		th: "เกียราดอสex",
+		ko: "갸라도스 ex",
 		id: "Gyarados ex"
 	},
 
@@ -26,6 +27,7 @@ const card: Card = {
 			ja: "たきのぼり",
 			'zh-tw': "攀瀑",
 			th: "ปีนน้ำตก",
+			ko: "테라스탈",
 			id: "Melawan Arus"
 		},
 
@@ -37,6 +39,7 @@ const card: Card = {
 			ja: "タイラントテール",
 			'zh-tw': "暴君尾",
 			th: "ไทแรนต์เทล",
+			ko: "폭포오르기",
 			id: "Tyrant Tail"
 		},
 
@@ -46,6 +49,7 @@ const card: Card = {
 			ja: "相手のバトルポケモンにダメカンがのっているなら、180ダメージ追加。",
 			'zh-tw': "若對手的戰鬥寶可夢身上放置有傷害指示物，則增加180點傷害。",
 			th: "ถ้าโปเกมอนบนตำแหน่งต่อสู้ฝ่ายตรงข้ามมีตัวนับแดเมจวางอยู่ การโจมตีนี้จะเพิ่มแดเมจอีก 180",
+			ko: "이 포켓몬은 벤치에 있는 한, 기술의 데미지를 받지 않는다.",
 			id: "Jika Pokémon Bertarung lawan memiliki Token Kerusakan, kerusakan yang diberikan bertambah sejumlah 180."
 		}
 	}],

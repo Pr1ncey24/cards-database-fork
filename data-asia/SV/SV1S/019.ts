@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "ウミディグダ",
 		'zh-tw': "海地鼠",
 		th: "อุมิดิกดา",
+		ko: "바다그다",
 		id: "Wiglett"
 	},
 
@@ -22,6 +23,7 @@ const card: Card = {
 		ja: "２０メートル先の ミガルーサが 放つ 匂いも 嗅ぎとって 砂の中に 身を 隠すのだ。",
 		'zh-tw': "就算身處於２０公尺外，牠都能嗅出輕身鱈散發出 的氣味，躲進沙子裡面藏身。",
 		th: "จะหลบซ่อนตัวในทรายเมื่อได้กลิ่นที่มิกาลูซาปล่อยออกมาแม้จะห่างออกไปกว่า 20 เมตร",
+		ko: "20m 떨어진 가비루사에게서 나는 냄새도 맡을 수 있어서 모래 속에 몸을 숨긴다.",
 		id: "Wiglett dapat mencium bau yang dikeluarkan Veluza yang berada dalam jarak 20 meter, lalu bersembunyi di dalam pasir."
 	},
 
@@ -34,6 +36,7 @@ const card: Card = {
 			ja: "ちょっとほる",
 			'zh-tw': "挖一下",
 			th: "ขอขุดหน่อย",
+			ko: "조금파기",
 			id: "Gali Sedikit"
 		},
 
@@ -41,6 +44,7 @@ const card: Card = {
 			ja: "コインを1回投げオモテなら、相手の山札を上から1枚トラッシュする。",
 			'zh-tw': "擲1次硬幣若為正面，則將對手的牌庫上方1張卡丟棄。",
 			th: "ทอยเหรียญ 1 ครั้งถ้าออกหัว ทิ้งการ์ด 1 ใบจากด้านบนของสำรับการ์ดฝ่ายตรงข้ามที่ตำแหน่งทิ้งการ์ด",
+			ko: "동전을 1번 던져서 앞면이 나오면 상대의 덱을 위에서부터 1장 트래쉬한다.",
 			id: "Lempar koin 1 kali. Jika hasilnya sisi depan, buang 1 kartu dari atas Deck lawan ke Trash."
 		}
 	}, {
@@ -50,6 +54,7 @@ const card: Card = {
 			ja: "ぶつかる",
 			'zh-tw': "衝撞",
 			th: "กระแทก",
+			ko: "부딪치기",
 			id: "Menyeruduk"
 		},
 

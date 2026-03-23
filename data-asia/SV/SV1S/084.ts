@@ -5,7 +5,8 @@ const card: Card = {
 	set: Set,
 
 	name: {
-		ja: "キルリア"
+		ja: "キルリア",
+		ko: "킬리아"
 	},
 
 	illustrator: "Jiro Sasumo",
@@ -15,7 +16,8 @@ const card: Card = {
 	types: ["Psychic"],
 
 	description: {
-		ja: "サイコパワーを 操り まわりの 空間を ねじ曲げることで 未来を 見通すことができる。"
+		ja: "サイコパワーを 操り まわりの 空間を ねじ曲げることで 未来を 見通すことができる。",
+		ko: "사이코 파워를 조작해 주변의 공간을 일그러뜨려 미래를 내다볼 수 있다."
 	},
 
 	stage: "Stage1",
@@ -24,7 +26,8 @@ const card: Card = {
 		cost: ["Psychic", "Colorless"],
 
 		name: {
-			ja: "マジカルショット"
+			ja: "マジカルショット",
+			ko: "매지컬숏"
 		},
 
 		damage: 30
@@ -32,13 +35,15 @@ const card: Card = {
 		cost: ["Psychic", "Psychic", "Colorless"],
 
 		name: {
-			ja: "サイコキネシス"
+			ja: "サイコキネシス",
+			ko: "사이코키네시스"
 		},
 
 		damage: "60＋",
 
 		effect: {
-			ja: "相手のバトルポケモンについているエネルギーの数×20ダメージ追加。"
+			ja: "相手のバトルポケモンについているエネルギーの数×20ダメージ追加。",
+			ko: "상대의 배틀 포켓몬에게 붙어 있는 에너지의 개수 × 20데미지를 추가한다."
 		}
 	}],
 

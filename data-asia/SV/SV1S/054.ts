@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "グレッグル",
 		'zh-tw': "不良蛙",
 		th: "กูเรกกรู",
+		ko: "삐딱구리",
 		id: "Croagunk"
 	},
 
@@ -22,6 +23,7 @@ const card: Card = {
 		ja: "毒袋を ふくらませて 鳴らし 辺りに 不気味な 音を 響かせ 相手が ひるむと どくづきをする。",
 		'zh-tw': "會鼓起毒囊鳴叫。讓四周響起詭異的聲音， 等對手畏縮，便施以毒擊。",
 		th: "จะทำให้ถุงพิษพองตัวแล้วส่งเสียงก้องที่น่าสะพรึงกลัวไปรอบ ๆ บริเวณ พอฝ่ายตรงข้ามรู้สึกหวาดกลัวก็จะโจมตีด้วยพิษ",
+		ko: "독주머니를 부풀려서 울어 주변에 으스스한 소리를 퍼트려 상대가 풀죽으면 독찌르기를 한다.",
 		id: "Croagunk menggelembungkan dan membunyikan kantong racunnya untuk mengeluarkan suara mengerikan ke sekelilingnya dan ketika lawan ketakutan, Pokémon ini menyerang dengan tusukan beracun."
 	},
 
@@ -34,6 +36,7 @@ const card: Card = {
 			ja: "たたく",
 			'zh-tw': "敲擊",
 			th: "ตี",
+			ko: "때리기",
 			id: "Menghantam"
 		},
 
@@ -45,6 +48,7 @@ const card: Card = {
 			ja: "はりたおす",
 			'zh-tw': "擊倒",
 			th: "ผลักล้ม",
+			ko: "때려눕히기",
 			id: "Tumbangkan"
 		},
 

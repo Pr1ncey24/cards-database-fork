@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "ネストボール",
 		'zh-tw': "巢穴球",
 		th: "เนสต์บอล",
+		ko: "친구수첩",
 		id: "Bola Nest"
 	},
 

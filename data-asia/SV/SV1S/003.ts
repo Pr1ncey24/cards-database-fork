@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "メェークル",
 		'zh-tw': "坐騎小羊",
 		th: "เมเคิล",
+		ko: "메이클",
 		id: "Skiddo"
 	},
 
@@ -22,6 +23,7 @@ const card: Card = {
 		ja: "最近まで 山岳で 暮らす 人たちは メェークルの 背中に 乗って 山道を 移動していた。",
 		'zh-tw': "一直到最近為止，都還有山岳的住民乘在坐騎小羊 的背上，在山路上移動。",
 		th: "ผู้คนที่อาศัยบนภูเขาจะขี่หลังเมเคิลเพื่อเดินทางตามทางบนเขาจนถึงเมื่อไม่นานมานี้",
+		ko: "최근까지도 산악 지대에 사는 사람들은 메이클의 등에 올라타서 산길을 이동했다.",
 		id: "Hingga dewasa ini, orang-orang yang hidup di pegunungan menunggangi punggung Skiddo dan menelusuri jalan gunung."
 	},
 
@@ -34,6 +36,7 @@ const card: Card = {
 			ja: "つるのムチ",
 			'zh-tw': "藤鞭",
 			th: "แส้เถาวัลย์",
+			ko: "덩굴채찍",
 			id: "Cambuk Jalar"
 		},
 
@@ -45,6 +48,7 @@ const card: Card = {
 			ja: "けとばす",
 			'zh-tw': "踢飛",
 			th: "ดีด",
+			ko: "걷어차기",
 			id: "Tendangan Penghempas"
 		},
 

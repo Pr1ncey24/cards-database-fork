@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "コライドンex",
 		'zh-tw': "故勒頓ex",
 		th: "โคไรดอนex",
+		ko: "코라이돈 ex",
 		id: "Koraidon ex"
 	},
 
@@ -26,6 +27,7 @@ const card: Card = {
 			ja: "ディノクライ",
 			'zh-tw': "恐龍嘶吼",
 			th: "ไดโนคราย",
+			ko: "디노크라이",
 			id: "Dino Cry"
 		},
 
@@ -33,6 +35,7 @@ const card: Card = {
 			ja: "自分の番に1回使えて、使ったなら、番は終わる。自分のトラッシュから「基本エネルギー」を2枚まで選び、自分のタイプのたねポケモンに好きなようにつける。",
 			'zh-tw': "在自己的回合時可使用1次，若使用，則回合結束。從自己的棄牌區選擇最多2張「基本【鬥】能量」卡，以任意方式附於自己的【鬥】屬性的【基礎】寶可夢身上。",
 			th: "ใช้ได้ 1 ครั้งในเทิร์นฝ่ายเรา เมื่อใช้แล้ว จะจบเทิร์นฝ่ายเรา เลือกการ์ด [พลังงานพื้นฐาน[ต่อสู้]] ได้สูงสุด 2 ใบจากตำแหน่งทิ้งการ์ดฝ่ายเรา ติดที่โปเกมอน[พื้นฐาน]ประเภท[ต่อสู้]ฝ่ายเราตามชอบ",
+			ko: "자신의 차례에 1번 사용할 수 있으며, 사용하면 차례는 끝난다. 자신의 트래쉬에서 「기본(격투)에너지」를 2장까지 선택해서 자신의(격투)타입의기본포켓몬에게 원하는 대로 붙인다.",
 			id: "Dapat digunakan 1 kali pada giliran sendiri. Giliran akan selesai jika menggunakan Ability ini. Pilih paling banyak 2 lembar Energi Dasar {Petarung} dari Trash sendiri, lalu kenakan sesukanya pada Pokémon Basic tipe {Petarung} sendiri."
 		}
 	}],
@@ -44,6 +47,7 @@ const card: Card = {
 			ja: "ワイルドインパクト",
 			'zh-tw': "瘋狂衝擊",
 			th: "ไวลด์อิมแพกต์",
+			ko: "와일드임팩트",
 			id: "Wild Impact"
 		},
 
@@ -53,6 +57,7 @@ const card: Card = {
 			ja: "次の自分の番、このポケモンはワザが使えない。",
 			'zh-tw': "在下個自己的回合，這隻寶可夢無法使用招式。",
 			th: "เทิร์นถัดไปของฝ่ายเรา โปเกมอนนี้จะใช้ท่าต่อสู้ไม่ได้",
+			ko: "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다.",
 			id: "Pada giliran sendiri berikutnya, Pokémon ini tidak dapat menggunakan serangan."
 		}
 	}],

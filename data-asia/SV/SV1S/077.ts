@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "ボタン",
 		'zh-tw': "牡丹",
 		th: "โบตั๋น",
+		ko: "지니어",
 		id: "Pania"
 	},
 

@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "学習装置",
 		'zh-tw': "學習裝置",
 		th: "อุปกรณ์ช่วยเรียนรู้",
+		ko: "오기머리띠",
 		id: "Pembagi Pengalaman"
 	},
 

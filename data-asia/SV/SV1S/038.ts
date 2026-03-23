@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "アサナン",
 		'zh-tw': "瑪沙那",
 		th: "อาซานัน",
+		ko: "요가랑",
 		id: "Meditite"
 	},
 
@@ -22,6 +23,7 @@ const card: Card = {
 		ja: "毎日 ヨガの 修行を 欠かさない。 瞑想を することで 精神力を 高めている。",
 		'zh-tw': "每天都少不了瑜珈的修行。會藉著冥想提高 自身的精神力。",
 		th: "ฝึกโยคะทุกวันไม่ขาด ขัดเกลาพลังจิตให้กล้าแข็งด้วยการนั่งสมาธิ",
+		ko: "매일 요가 수행을 거르지 않는다. 명상을 통해서 정신력을 높인다.",
 		id: "Meditite tidak pernah melewatkan latihan yoganya. Pokémon ini meningkatkan kekuatan mentalnya dengan bermeditasi."
 	},
 
@@ -34,6 +36,7 @@ const card: Card = {
 			ja: "フェイント",
 			'zh-tw': "佯攻",
 			th: "หลอก",
+			ko: "페인트",
 			id: "Feint"
 		},
 
@@ -43,6 +46,7 @@ const card: Card = {
 			ja: "このワザのダメージは抵抗力を計算しない。",
 			'zh-tw': "這個招式的傷害不計算抵抗力。",
 			th: "แดเมจของท่าต่อสู้นี้จะไม่นำความต้านทานมาคิด",
+			ko: "이 기술의 데미지는 저항력 계산을 하지 않는다.",
 			id: "Kerusakan akibat serangan ini tidak terpengaruh oleh Resistansi."
 		}
 	}],

@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "パフュートンex",
 		'zh-tw': "飄香豚ex",
 		th: "เพอร์ฟูตงex",
+		ko: "퍼퓨돈 ex",
 		id: "Oinkologne ex"
 	},
 
@@ -26,6 +27,7 @@ const card: Card = {
 			ja: "きょうらんのかおり",
 			'zh-tw': "狂亂香氣",
 			th: "กลิ่นหอมชวนคลั่ง",
+			ko: "광란의향기",
 			id: "Aroma Kekalutan"
 		},
 
@@ -35,6 +37,7 @@ const card: Card = {
 			ja: "相手のベンチポケモンの数×30ダメージ追加。",
 			'zh-tw': "增加對手的備戰寶可夢的數量×30點傷害。",
 			th: "แดเมจจะเพิ่มตามจำนวนโปเกมอนบนเบนช์ฝ่ายตรงข้าม x30",
+			ko: "상대의 벤치 포켓몬의 수 × 30데미지를 추가한다.",
 			id: "Kerusakan yang diberikan bertambah sejumlah 30 untuk tiap Pokémon Cadangan lawan."
 		}
 	}, {
@@ -44,6 +47,7 @@ const card: Card = {
 			ja: "ヘビースタンプ",
 			'zh-tw': "重磅踩踏",
 			th: "เฮฟวีสแตมป์",
+			ko: "헤비스탬프",
 			id: "Heavy Stomp"
 		},
 
@@ -53,6 +57,7 @@ const card: Card = {
 			ja: "コインを1回投げウラなら、次の自分の番、このポケモンはワザが使えない。",
 			'zh-tw': "擲1次硬幣若為反面，則在下個自己的回合，這隻寶可夢無法使用招式。",
 			th: "ทอยเหรียญ 1 ครั้งถ้าออกก้อย เทิร์นถัดไปของฝ่ายเรา โปเกมอนนี้จะใช้ท่าต่อสู้ไม่ได้",
+			ko: "동전을 1번 던져서 뒷면이 나오면 자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다.",
 			id: "Lempar koin 1 kali. Jika hasilnya sisi belakang, pada giliran sendiri berikutnya, Pokémon ini tidak dapat menggunakan serangan."
 		}
 	}],

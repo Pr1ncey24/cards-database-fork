@@ -5,7 +5,8 @@ const card: Card = {
 	set: Set,
 
 	name: {
-		ja: "基本闘エネルギー"
+		ja: "基本闘エネルギー",
+		ko: "기본 격투 에너지"
 	},
 
 	category: "Energy",

@@ -5,7 +5,8 @@ const card: Card = {
 	set: Set,
 
 	name: {
-		ja: "リオル"
+		ja: "リオル",
+		ko: "리오르"
 	},
 
 	illustrator: "Nelnal",
@@ -15,7 +16,8 @@ const card: Card = {
 	types: ["Fighting"],
 
 	description: {
-		ja: "仲間同士で 波動を 出して コミュニケーションを とっている。 一晩中 走り続けられる。"
+		ja: "仲間同士で 波動を 出して コミュニケーションを とっている。 一晩中 走り続けられる。",
+		ko: "파동을 내서 동료끼리 의사소통을 한다. 밤새도록 계속 달릴 수 있다."
 	},
 
 	stage: "Basic",
@@ -24,7 +26,8 @@ const card: Card = {
 		cost: ["Fighting"],
 
 		name: {
-			ja: "パンチ"
+			ja: "パンチ",
+			ko: "펀치"
 		},
 
 		damage: 10
@@ -32,13 +35,15 @@ const card: Card = {
 		cost: ["Fighting", "Colorless"],
 
 		name: {
-			ja: "とつげき"
+			ja: "とつげき",
+			ko: "돌격"
 		},
 
 		damage: 50,
 
 		effect: {
-			ja: "このポケモンにも20ダメージ。"
+			ja: "このポケモンにも20ダメージ。",
+			ko: "이 포켓몬에게도 20데미지를 준다."
 		}
 	}],
 

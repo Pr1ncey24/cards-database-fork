@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "ジニア",
 		'zh-tw': "吉尼亞",
 		th: "ซินเนีย",
+		ko: "모란",
 		id: "Jim"
 	},
 

@@ -5,7 +5,8 @@ const card: Card = {
 	set: Set,
 
 	name: {
-		ja: "ギャラドスex"
+		ja: "ギャラドスex",
+		ko: "갸라도스 ex"
 	},
 
 	illustrator: "5ban Graphics",
@@ -19,7 +20,8 @@ const card: Card = {
 		cost: ["Water", "Water", "Water"],
 
 		name: {
-			ja: "たきのぼり"
+			ja: "たきのぼり",
+			ko: "테라스탈"
 		},
 
 		damage: 100
@@ -27,13 +29,15 @@ const card: Card = {
 		cost: ["Water", "Water", "Water", "Colorless", "Colorless"],
 
 		name: {
-			ja: "タイラントテール"
+			ja: "タイラントテール",
+			ko: "폭포오르기"
 		},
 
 		damage: "180＋",
 
 		effect: {
-			ja: "相手のバトルポケモンにダメカンがのっているなら、180ダメージ追加。"
+			ja: "相手のバトルポケモンにダメカンがのっているなら、180ダメージ追加。",
+			ko: "이 포켓몬은 벤치에 있는 한, 기술의 데미지를 받지 않는다."
 		}
 	}],
 

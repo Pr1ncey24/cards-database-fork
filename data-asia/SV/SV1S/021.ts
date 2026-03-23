@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "ヘイラッシャ",
 		'zh-tw': "吃吼霸",
 		th: "เฮรัชเชอร์",
+		ko: "어써러셔",
 		id: "Dondozo"
 	},
 
@@ -22,6 +23,7 @@ const card: Card = {
 		ja: "大食らいだが エサを 取るのは 苦手。 シャリタツと コンビを 組んで 獲物を 捕らえるのだ。",
 		'zh-tw': "雖然是個大胃王，但不擅長捕食。 會和米立龍聯手捕捉獵物。",
 		th: "เป็นโปเกมอนที่ตะกละแต่กลับหาอาหารไม่เก่ง มักจับคู่กับชาริทัตสึเพื่อจับเหยื่อ",
+		ko: "대식가지만 먹이를 잡는 것이 서툴다. 싸리용과 콤비를 이뤄 먹이를 사냥한다.",
 		id: "Meskipun rakus, Dondozo tidak pandai menangkap makanannya. Pokémon ini membentuk tim dengan Tatsugiri untuk berburu dan menangkap mangsa."
 	},
 
@@ -34,6 +36,7 @@ const card: Card = {
 			ja: "いかりちらす",
 			'zh-tw': "洩怒",
 			th: "กระจายความโกรธ",
+			ko: "분노흩뜨리기",
 			id: "Kemarahan Menghambur"
 		},
 
@@ -43,6 +46,7 @@ const card: Card = {
 			ja: "自分のトラッシュにある「シャリタツ」の枚数×50ダメージ。",
 			'zh-tw': "造成自己的棄牌區的「米立龍」的張數×50點傷害。",
 			th: "แดเมจจะเท่ากับจำนวนการ์ด [ชาริทัตสึ] ที่อยู่บนตำแหน่งทิ้งการ์ดฝ่ายเรา x50",
+			ko: "자신의 트래쉬에 있는 「싸리용」의 장수 × 50데미지를 준다.",
 			id: "Serangan ini memberikan kerusakan sejumlah 50 untuk tiap lembar Tatsugiri yang ada di Trash sendiri."
 		}
 	}, {
@@ -52,6 +56,7 @@ const card: Card = {
 			ja: "ヘビースプラッシュ",
 			'zh-tw': "重磅飛濺",
 			th: "เฮฟวีสแปลช",
+			ko: "헤비스플래시",
 			id: "Heavy Splash"
 		},
 

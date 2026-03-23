@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "ブロロローム",
 		'zh-tw': "普隆隆姆",
 		th: "โบรโรโรม",
+		ko: "부르르룸",
 		id: "Revavroom"
 	},
 
@@ -22,6 +23,7 @@ const card: Card = {
 		ja: "毒素と 岩の 成分を 混ぜた ガスを ８つに 増えた シリンダーで 爆発させ エネルギーを 作る。",
 		'zh-tw': "在增加到了８個的汽缸裡引爆混有毒素和岩石成分的 氣體來製造能量。",
 		th: "ทำให้แก๊สที่เกิดจากการผสมสารพิษกับส่วนประกอบของหินระเบิดด้วยกระบอกสูบที่เพิ่มเป็น 8 อันเพื่อสร้างพลังงาน",
+		ko: "독소와 바위 성분이 섞인 가스를 8개로 늘어난 실린더에서 폭발시켜 에너지를 만들어 낸다.",
 		id: "Revavroom menciptakan energi dengan cara meledakkan gas yang tercampur dari zat beracun dan komponen batu pada silinder motornya yang bertambah menjadi 8."
 	},
 
@@ -34,6 +36,7 @@ const card: Card = {
 			ja: "ランブルエンジン",
 			'zh-tw': "轟鳴引擎",
 			th: "เครื่องยนต์กระหึ่ม",
+			ko: "럼블엔진",
 			id: "Rumble Engine"
 		},
 
@@ -41,6 +44,7 @@ const card: Card = {
 			ja: "自分の番に、自分の手札からエネルギーを1枚トラッシュするなら、1回使える。自分の手札が6枚になるように、山札を引く。",
 			'zh-tw': "在自己的回合，若從自己的手牌將1張能量卡丟棄，則可使用1次。從牌庫抽卡直到自己的手牌滿6張為止。",
 			th: "ในเทิร์นฝ่ายเรา ถ้าทิ้งการ์ดพลังงาน 1 ใบจากบนมือฝ่ายเราที่ตำแหน่งทิ้งการ์ด ใช้ได้ 1 ครั้ง จั่วการ์ดจากสำรับการ์ด จนได้การ์ดบนมือฝ่ายเราเป็น 6 ใบ",
+			ko: "자신의 차례에 자신의 패에서 에너지를 1장 트래쉬한다면 1번 사용할 수 있다. 자신의 패가 6장이 되도록 덱을 뽑는다.",
 			id: "Dapat digunakan 1 kali pada giliran sendiri jika membuang 1 lembar Energi dari Kartu Pegangan sendiri ke Trash. Ambil kartu dari atas Deck hingga jumlah Kartu Pegangan sendiri menjadi 6 lembar."
 		}
 	}],
@@ -52,6 +56,7 @@ const card: Card = {
 			ja: "はねとばす",
 			'zh-tw': "擊飛",
 			th: "ตบกระเด็น",
+			ko: "띄워날리기",
 			id: "Menghempaskan"
 		},
 
@@ -61,6 +66,7 @@ const card: Card = {
 			ja: "コインを1回投げオモテなら、90ダメージ追加。",
 			'zh-tw': "擲1次硬幣若為正面，則增加90點傷害。",
 			th: "ทอยเหรียญ 1 ครั้งถ้าออกหัว การโจมตีนี้จะเพิ่มแดเมจอีก 90",
+			ko: "동전을 1번 던져서 앞면이 나오면 90데미지를 추가한다.",
 			id: "Lempar koin 1 kali. Jika hasilnya sisi depan, kerusakan yang diberikan bertambah sejumlah 90."
 		}
 	}],

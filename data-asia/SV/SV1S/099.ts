@@ -5,7 +5,8 @@ const card: Card = {
 	set: Set,
 
 	name: {
-		ja: "博士の研究（オーリム博士）"
+		ja: "博士の研究（オーリム博士）",
+		ko: "스타단의 조무래기"
 	},
 
 	illustrator: "kirisAki",

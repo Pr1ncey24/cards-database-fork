@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "スター団のしたっぱ",
 		'zh-tw': "天星隊手下",
 		th: "ลูกสมุนแก๊งสตาร์",
+		ko: "박사의 연구(올림박사)",
 		id: "Anak Buah Tim Bintang"
 	},
 

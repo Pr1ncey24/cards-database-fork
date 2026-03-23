@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "コイキング",
 		'zh-tw': "鯉魚王",
 		th: "คอยคิง",
+		ko: "잉어킹",
 		id: "Magikarp"
 	},
 
@@ -22,6 +23,7 @@ const card: Card = {
 		ja: "力のない 情けない ポケモン。 たまに 高く 飛び跳ねても ２メートルを 超すのが やっとだ。",
 		'zh-tw': "沒力量的可憐寶可夢。偶爾跳得比較高時， 也只是勉強高過2公尺而已。",
 		th: "เป็นโปเกมอนที่อ่อนแอและน่าสมเพช นาน ๆ ทีกระโดดสูงเกิน 2 เมตรก็นับว่าดีแล้ว",
+		ko: "힘없는 한심한 포켓몬이다. 가끔 높이 뛰어오르지만 2m를 겨우 넘기는 게 고작이다.",
 		id: "Pokémon menyedihkan yang tidak memiliki kekuatan. Walau kadang Magikarp melompat tinggi, ketinggiannya hampir tidak dapat melampaui 2 meter."
 	},
 
@@ -34,13 +36,15 @@ const card: Card = {
 			ja: "はねとぶ",
 			'zh-tw': "飛跳",
 			th: "เด้งกระโดด",
+			ko: "튀어날기",
 			id: "Melonjak"
 		},
 
 		effect: {
 			ja: "コインを1回投げオモテなら、相手のポケモン1匹に、10ダメージ。［ベンチは弱点・抵抗力を計算しない。］",
 			'zh-tw': "擲1次硬幣若為正面，則對手的1隻寶可夢受到10點傷害。[在備戰區不計算弱點・抵抗力。]",
-			th: "ทอยเหรียญ 1 ครั้งถ้าออกหัว ทำแดเมจ 10 กับโปเกมอนฝ่ายตรงข้าม 1 ตัว {โปเกมอนบนเบนช์จะไม่นำจุดอ่อนและความต้านทานมาคิด}",
+			th: "ทอยเหรียญ 1 ครั้งถ้าออกหัว ทำแดเมจ 10 กับโปเกมอนฝ่ายตรงข้าม 1 ตัว {โปเกมอนบนเบนช์จะไม่นำจุดอ่อนและความต้านทานมาคิด},
+			ko: "동전을 1번 던져서 앞면이 나오면 상대의 포켓몬 1마리에게 10데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"",
 			id: "Lempar koin 1 kali. Jika hasilnya sisi depan, serangan ini memberikan kerusakan sejumlah 10 kepada 1 Pokémon lawan. [Kelemahan dan Resistansi Pokémon Cadangan tidak mempengaruhi jumlah kerusakan.]"
 		}
 	}],

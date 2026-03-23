@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "カルボウ",
 		'zh-tw': "炭小侍",
 		th: "คาร์โบ",
+		ko: "카르본",
 		id: "Charcadet"
 	},
 
@@ -22,6 +23,7 @@ const card: Card = {
 		ja: "焼けた 木炭に 命が 宿り ポケモンになった。 燃える 闘志で 強敵にも 戦いを 挑む。",
 		'zh-tw': "生命寄宿在燃燒的木炭上變成了寶可夢。即使敵人再強， 也會以燃燒的鬥志迎面而戰。",
 		th: "เป็นโปเกมอนที่เกิดจากถ่านไม้ที่ลุกไหม้ มีจิตวิญญาณการต่อสู้ที่เร่าร้อน กล้าเผชิญหน้าแม้กับศัตรูที่แข็งแกร่ง",
+		ko: "불탄 숯에 영혼이 깃들어서 포켓몬이 되었다. 타오르는 투지로 강한 상대에게도 싸움을 건다.",
 		id: "Jiwa bersemayam ke dalam arang terbakar, lalu berubah menjadi Pokémon. Dengan semangat bertarung yang membara, Charcadet menantang pertarungan meskipun dengan lawan yang kuat."
 	},
 
@@ -34,6 +36,7 @@ const card: Card = {
 			ja: "ヒートブラスト",
 			'zh-tw': "高溫爆破",
 			th: "ฮีทบลาสท์",
+			ko: "히트블라스트",
 			id: "Heat Blast"
 		},
 

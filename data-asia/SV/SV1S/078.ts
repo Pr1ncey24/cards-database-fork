@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "ビーチコート",
 		'zh-tw': "海灘場地",
 		th: "บีชคอร์ท",
+		ko: "비치코트",
 		id: "Lapangan Pinggir Pantai"
 	},
 

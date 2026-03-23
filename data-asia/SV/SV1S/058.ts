@@ -8,6 +8,7 @@ const card: Card = {
 		ja: "ドドゲザン",
 		'zh-tw': "仆斬將軍",
 		th: "โดโดเกซัน",
+		ko: "대도각참",
 		id: "Kingambit"
 	},
 
@@ -22,6 +23,7 @@ const card: Card = {
 		ja: "ドドゲザンに 進化できるのは 大軍勢の 頂点に 立った １匹の キリキザンだけなのだ。",
 		'zh-tw': "在勢力浩大的軍團中，唯有站上頂點的那１隻劈斬司令， 才能進化成仆斬將軍。",
 		th: "คิริคิซันที่อยู่บนจุดสูงสุดของกองกำลังขนาดใหญ่เพียงตัวเดียวเท่านั้นที่จะสามารถวิวัฒนาการเป็นโดโดเกซันได้",
+		ko: "큰 군세의 정점에 올라선 단 한 마리의 절각참만이 대도각참으로 진화할 수 있다.",
 		id: "Hanya Bisharp yang berada pada posisi teratas di dalam pasukannya yang dapat berevolusi menjadi Kingambit."
 	},
 
@@ -34,6 +36,7 @@ const card: Card = {
 			ja: "とうそつりょく",
 			'zh-tw': "統率力",
 			th: "ความเป็นผู้นำ",
+			ko: "통솔력",
 			id: "Kepemimpinan"
 		},
 
@@ -41,6 +44,7 @@ const card: Card = {
 			ja: "このポケモンがいるかぎり、自分のたねポケモンが使うワザの、相手のバトルポケモンへのダメージは「+30」される。",
 			'zh-tw': "只要這隻寶可夢在場上，自己的【基礎】寶可夢使用的招式，對對手的戰鬥寶可夢造成的傷害「+30」點。",
 			th: "ตราบใดที่โปเกมอนนี้ยังอยู่ แดเมจของท่าต่อสู้ที่โปเกมอน[พื้นฐาน]ฝ่ายเรา ใช้ทำกับโปเกมอนบนตำแหน่งต่อสู้ฝ่ายตรงข้ามจะถูก [+30]",
+			ko: "이 포켓몬이 있는 한, 자신의기본포켓몬이 사용하는 기술이 상대의 배틀 포켓몬에게 주는 데미지는 「+30」이 된다.",
 			id: "Selama Pokémon ini ada di Arena, kerusakan akibat serangan yang digunakan oleh Pokémon Basic sendiri kepada Pokémon Bertarung lawan bertambah sejumlah 30."
 		}
 	}],
@@ -52,6 +56,7 @@ const card: Card = {
 			ja: "ぶったぎり",
 			'zh-tw': "猛斬",
 			th: "ฟันหนักหน่วง",
+			ko: "반토막내기",
 			id: "Sabetan Membelah"
 		},
 
