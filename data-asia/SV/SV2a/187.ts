@@ -14,6 +14,7 @@ const card: Card = {
 
 	illustrator: "Eske Yoshinob",
 	category: "Pokemon",
+	rarity: "Secret Rare",
 	hp: 270,
 	types: ["Darkness"],
 	stage: "Stage1",

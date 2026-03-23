@@ -14,6 +14,7 @@ const card: Card = {
 
 	illustrator: "Gemi",
 	category: "Pokemon",
+	rarity: "Illustration rare",
 	dexId: [61],
 	hp: 90,
 	types: ["Water"],

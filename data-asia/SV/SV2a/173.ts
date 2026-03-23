@@ -14,6 +14,7 @@ const card: Card = {
 
 	illustrator: "Hiroyuki Yamamoto",
 	category: "Pokemon",
+	rarity: "Illustration rare",
 	dexId: [25],
 	hp: 60,
 	types: ["Lightning"],

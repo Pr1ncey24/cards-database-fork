@@ -14,6 +14,7 @@ const card: Card = {
 
 	illustrator: "GIDORA",
 	category: "Trainer",
+	rarity: "Secret Rare",
 
 	effect: {
 		ja: "自分の山札を上から8枚見て、その中からポケモンを好きなだけ選び、相手に見せて、手札に加える。残りのカードは山札にもどして切る。",

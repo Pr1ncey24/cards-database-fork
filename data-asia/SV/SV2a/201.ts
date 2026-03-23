@@ -14,6 +14,7 @@ const card: Card = {
 
 	illustrator: "miki kudo",
 	category: "Pokemon",
+	rarity: "Special illustration rare",
 	hp: 330,
 	types: ["Fire"],
 	stage: "Stage2",

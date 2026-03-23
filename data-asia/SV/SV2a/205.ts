@@ -14,6 +14,7 @@ const card: Card = {
 
 	illustrator: "Natsumi Yoshida",
 	category: "Pokemon",
+	rarity: "Special illustration rare",
 	hp: 180,
 	types: ["Psychic"],
 	stage: "Basic",

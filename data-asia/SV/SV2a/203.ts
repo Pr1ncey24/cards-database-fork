@@ -14,6 +14,7 @@ const card: Card = {
 
 	illustrator: "Shinya Komatsu",
 	category: "Pokemon",
+	rarity: "Special illustration rare",
 	hp: 310,
 	types: ["Psychic"],
 	stage: "Stage2",

@@ -14,6 +14,7 @@ const card: Card = {
 
 	illustrator: "Ayaka Yoshida",
 	category: "Pokemon",
+	rarity: "Secret Rare",
 	hp: 200,
 	types: ["Water"],
 	stage: "Basic",

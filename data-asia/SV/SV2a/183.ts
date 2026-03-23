@@ -14,6 +14,7 @@ const card: Card = {
 
 	illustrator: "Bun Toujo",
 	category: "Pokemon",
+	rarity: "Illustration rare",
 	dexId: [150],
 	hp: 130,
 	types: ["Psychic"],

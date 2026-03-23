@@ -14,6 +14,7 @@ const card: Card = {
 
 	illustrator: "Yano Keiji",
 	category: "Pokemon",
+	rarity: "Illustration rare",
 	dexId: [138],
 	hp: 100,
 	types: ["Water"],

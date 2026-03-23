@@ -14,6 +14,7 @@ const card: Card = {
 
 	illustrator: "hncl",
 	category: "Trainer",
+	rarity: "Secret Rare",
 
 	effect: {
 		ja: "相手のバトルポケモンについているエネルギーを1個選び、相手の手札にもどす。その後、自分の手札からエネルギーを1枚選び、バトルポケモンにつける。",

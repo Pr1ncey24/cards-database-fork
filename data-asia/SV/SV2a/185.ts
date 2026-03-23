@@ -14,6 +14,7 @@ const card: Card = {
 
 	illustrator: "PLANETA Mochizuki",
 	category: "Pokemon",
+	rarity: "Secret Rare",
 	hp: 330,
 	types: ["Fire"],
 	stage: "Stage2",

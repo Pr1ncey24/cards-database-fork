@@ -14,6 +14,7 @@ const card: Card = {
 
 	illustrator: "Cona Nitanda",
 	category: "Trainer",
+	rarity: "Special illustration rare",
 
 	effect: {
 		ja: "相手の手札を見て、その中からたねポケモンを1枚選び、相手のベンチに出す。その後、そのポケモンをバトルポケモンと入れ替える。",

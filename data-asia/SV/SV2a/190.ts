@@ -14,6 +14,7 @@ const card: Card = {
 
 	illustrator: "PLANETA Tsuji",
 	category: "Pokemon",
+	rarity: "Secret Rare",
 	hp: 310,
 	types: ["Psychic"],
 	stage: "Stage2",

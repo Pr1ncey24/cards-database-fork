@@ -14,6 +14,7 @@ const card: Card = {
 
 	illustrator: "Saki Hayashiro",
 	category: "Pokemon",
+	rarity: "Secret Rare",
 	hp: 250,
 	types: ["Colorless"],
 	stage: "Stage1",

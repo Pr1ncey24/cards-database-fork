@@ -14,6 +14,7 @@ const card: Card = {
 
 	illustrator: "Fumie Kittaka",
 	category: "Trainer",
+	rarity: "Secret Rare",
 
 	effect: {
 		ja: "自分の山札を2枚引く。ウラになっている自分のサイドのオモテをすべて見てから、もとにもどす。",

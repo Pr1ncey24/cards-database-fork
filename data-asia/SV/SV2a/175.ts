@@ -14,6 +14,7 @@ const card: Card = {
 
 	illustrator: "Whisker",
 	category: "Pokemon",
+	rarity: "Illustration rare",
 	dexId: [54],
 	hp: 70,
 	types: ["Water"],

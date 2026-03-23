@@ -14,6 +14,7 @@ const card: Card = {
 
 	illustrator: "PLANETA Igarashi",
 	category: "Pokemon",
+	rarity: "Secret Rare",
 	hp: 330,
 	types: ["Fighting"],
 	stage: "Stage2",

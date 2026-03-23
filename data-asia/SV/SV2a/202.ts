@@ -14,6 +14,7 @@ const card: Card = {
 
 	illustrator: "Mitsuhiro Arita",
 	category: "Pokemon",
+	rarity: "Special illustration rare",
 	hp: 330,
 	types: ["Water"],
 	stage: "Stage2",

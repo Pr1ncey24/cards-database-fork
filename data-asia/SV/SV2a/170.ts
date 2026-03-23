@@ -14,6 +14,7 @@ const card: Card = {
 
 	illustrator: "Mitsuhiro Arita",
 	category: "Pokemon",
+	rarity: "Illustration rare",
 	dexId: [7],
 	hp: 60,
 	types: ["Water"],

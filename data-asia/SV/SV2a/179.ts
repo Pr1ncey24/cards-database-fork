@@ -14,6 +14,7 @@ const card: Card = {
 
 	illustrator: "OKACHEKE",
 	category: "Pokemon",
+	rarity: "Illustration rare",
 	dexId: [122],
 	hp: 90,
 	types: ["Psychic"],

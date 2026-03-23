@@ -14,6 +14,7 @@ const card: Card = {
 
 	illustrator: "Misaki Hashimoto",
 	category: "Pokemon",
+	rarity: "Illustration rare",
 	dexId: [34],
 	hp: 170,
 	types: ["Darkness"],

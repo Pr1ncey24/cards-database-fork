@@ -14,6 +14,7 @@ const card: Card = {
 
 	illustrator: "Teeziro",
 	category: "Pokemon",
+	rarity: "Illustration rare",
 	dexId: [10],
 	hp: 50,
 	types: ["Grass"],

@@ -14,6 +14,7 @@ const card: Card = {
 
 	illustrator: "takuyoa",
 	category: "Pokemon",
+	rarity: "Secret Rare",
 	hp: 200,
 	types: ["Lightning"],
 	stage: "Basic",

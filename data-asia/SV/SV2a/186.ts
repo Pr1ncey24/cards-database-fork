@@ -14,6 +14,7 @@ const card: Card = {
 
 	illustrator: "PLANETA Yamashita",
 	category: "Pokemon",
+	rarity: "Secret Rare",
 	hp: 330,
 	types: ["Water"],
 	stage: "Stage2",

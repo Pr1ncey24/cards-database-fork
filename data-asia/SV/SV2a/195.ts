@@ -14,6 +14,7 @@ const card: Card = {
 
 	illustrator: "aky CG Works",
 	category: "Pokemon",
+	rarity: "Secret Rare",
 	hp: 180,
 	types: ["Psychic"],
 	stage: "Basic",

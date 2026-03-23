@@ -14,6 +14,7 @@ const card: Card = {
 
 	illustrator: "N-DESIGN Inc.",
 	category: "Pokemon",
+	rarity: "Secret Rare",
 	hp: 230,
 	types: ["Colorless"],
 	stage: "Basic",
