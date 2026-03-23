@@ -8,7 +8,7 @@ const card: Card = {
 		ja: "コイル",
 		'zh-tw': "小磁怪",
 		th: "คอยล์",
-		ko: "",
+		ko: "코일",
 		id: "Magnemite"
 	},
 
@@ -23,7 +23,7 @@ const card: Card = {
 		ja: "左右にある ユニットから だす 電磁波で 重力を さえぎって 空に 浮かぶのだ。",
 		'zh-tw': "從左右兩邊的組件發出的電磁波能阻礙重力， 使牠浮在空中。",
 		th: "ลอยบนท้องฟ้าโดยไม่สนใจแรงโน้มถ่วงได้ด้วยคลื่นแม่เหล็กไฟฟ้าที่ปล่อยออกมาจากชิ้นส่วนซ้ายขวาของตน",
-		ko: "",
+		ko: "좌우에 있는 유닛에서 나오는 전자파를 이용해 중력을 거슬러 하늘에 떠 있다.",
 		id: "Dengan gelombang elektromagnetik yang dikeluarkan dari unit yang ada di sisi kiri dan kanannya, Magnemite melawan arus gravitasi dan melayang di udara."
 	},
 
@@ -36,7 +36,7 @@ const card: Card = {
 			ja: "プチでんき",
 			'zh-tw': "小電氣",
 			th: "กระแสไฟน้อยนิด",
-			ko: "",
+			ko: "프티전기",
 			id: "Listrik Mini"
 		},
 
@@ -48,7 +48,7 @@ const card: Card = {
 			ja: "ばくはつ",
 			'zh-tw': "爆炸",
 			th: "ระเบิด",
-			ko: "",
+			ko: "폭발",
 			id: "Ledakan"
 		},
 
@@ -58,7 +58,7 @@ const card: Card = {
 			ja: "このポケモンにも60ダメージ。",
 			'zh-tw': "這隻寶可夢也受到60點傷害。",
 			th: "โปเกมอนนี้ก็จะได้รับแดเมจ 60 ด้วย",
-			ko: "",
+			ko: "이 포켓몬에게도 60데미지를 준다.",
 			id: "Pokémon ini juga menerima kerusakan sejumlah 60."
 		}
 	}],

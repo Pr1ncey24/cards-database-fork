@@ -8,7 +8,7 @@ const card: Card = {
 		ja: "ドククラゲ",
 		'zh-tw': "毒刺水母",
 		th: "โดคุคุราเกะ",
-		ko: "",
+		ko: "독파리",
 		id: "Tentacruel"
 	},
 
@@ -23,7 +23,7 @@ const card: Card = {
 		ja: "８０本の 触手は 伸び縮み 自由。 網のように 広げて 獲物を 捕らえ 毒バリを 刺す。",
 		'zh-tw': "能夠自由伸縮身上的８０根觸手。會像撒網般張開觸手捕捉獵物， 並用毒針注入劇毒。",
 		th: "หนวด 80 เส้นนั้นยืดและหดได้อย่างอิสระ จะกางออกเหมือนกับตาข่ายเพื่อจับเหยื่อแล้วแทงเข็มพิษ",
-		ko: "",
+		ko: "80개의 촉수는 자유롭게 늘어났다가 줄어든다. 그물처럼 펼쳐서 먹이를 잡고 독바늘로 찌른다.",
 		id: "Tentacruel dapat memanjangkan dan memendekkan 80 tentakelnya dengan bebas. Pokémon ini melebarkan tentakelnya bagai jaring untuk menangkap mangsa dan menusukkan jarum beracun."
 	},
 
@@ -36,7 +36,7 @@ const card: Card = {
 			ja: "どくのムチ",
 			'zh-tw': "毒之鞭",
 			th: "แส้พิษ",
-			ko: "",
+			ko: "독채찍",
 			id: "Cambuk Beracun"
 		},
 
@@ -46,7 +46,7 @@ const card: Card = {
 			ja: "相手のバトルポケモンをどくにする。",
 			'zh-tw': "將對手的戰鬥寶可夢【中毒】。",
 			th: "ทำให้โปเกมอนบนตำแหน่งต่อสู้ฝ่ายตรงข้ามเป็นสภาวะ[พิษ]",
-			ko: "",
+			ko: "상대의 배틀 포켓몬을 독으로 만든다.",
 			id: "Ubah kondisi Pokémon Bertarung lawan menjadi Racun."
 		}
 	}, {
@@ -56,7 +56,7 @@ const card: Card = {
 			ja: "パニックテンタクル",
 			'zh-tw': "恐慌觸手",
 			th: "แพนิกเทนทาเคิล",
-			ko: "",
+			ko: "패닉텐타클",
 			id: "Panic Tentacle"
 		},
 
@@ -66,7 +66,7 @@ const card: Card = {
 			ja: "ウラが出るまでコインを投げ、オモテの数×90ダメージ。最初のコインがウラなら、相手のバトルポケモンをこんらんにする。",
 			'zh-tw': "擲硬幣直到出現反面，造成正面出現的次數×90點傷害。若最初的硬幣為反面，則將對手的戰鬥寶可夢【混亂】。",
 			th: "ทอยเหรียญจนกว่าจะออกก้อย แดเมจจะเท่ากับจำนวนครั้งที่ออกหัว x90 ถ้าเหรียญออกก้อยในครั้งแรก จะทำให้โปเกมอนบนตำแหน่งต่อสู้ฝ่ายตรงข้ามเป็นสภาวะ[สับสน]",
-			ko: "",
+			ko: "뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수 × 90데미지를 준다. 첫 번째 동전이 뒷면이 나오면 상대의 배틀 포켓몬을 혼란으로 만든다.",
 			id: "Lempar koin hingga hasilnya sisi belakang. Serangan ini memberikan kerusakan sejumlah 90 untuk tiap lemparan dengan hasil sisi depan. Jika lemparan koin pertama hasilnya sisi belakang, ubah kondisi Pokémon Bertarung lawan menjadi Pusing."
 		}
 	}],

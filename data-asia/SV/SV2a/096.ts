@@ -8,7 +8,7 @@ const card: Card = {
 		ja: "スリープ",
 		'zh-tw': "催眠貘",
 		th: "สลีป",
-		ko: "",
+		ko: "슬리프",
 		id: "Drowzee"
 	},
 
@@ -23,7 +23,7 @@ const card: Card = {
 		ja: "食べた夢は 全部 覚えている。 子どもの 夢のほうが 美味しいので めったに 大人の 夢は食べない。",
 		'zh-tw': "能記住所有自己吃下的夢。由於小孩的夢更加美味， 因此幾乎不吃大人的夢。",
 		th: "จำฝันที่กินเข้าไปได้หมด ไม่ค่อยกินฝันของผู้ใหญ่เพราะฝันของเด็กอร่อยกว่า",
-		ko: "",
+		ko: "먹어 치운 꿈은 모두 기억하고 있다. 아이들의 꿈이 맛있기 때문에 어른들의 꿈은 거의 먹지 않는다.",
 		id: "Drowzee mengingat semua mimpi yang dimakannya. Pokémon ini jarang memakan mimpi orang dewasa karena mimpi anak-anak rasanya lebih lezat."
 	},
 
@@ -36,7 +36,7 @@ const card: Card = {
 			ja: "しねんのずつき",
 			'zh-tw': "意念頭錘",
 			th: "ท่าโขกหัวพลังจิต",
-			ko: "",
+			ko: "사념의박치기",
 			id: "Sundulan Spiritual"
 		},
 

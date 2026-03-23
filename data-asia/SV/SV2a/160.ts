@@ -8,7 +8,7 @@ const card: Card = {
 		ja: "たべのこし",
 		'zh-tw': "吃剩的東西",
 		th: "อาหารเหลือ",
-		ko: "",
+		ko: "먹다남은음식",
 		id: "Sisa Makanan"
 	},
 
@@ -20,7 +20,7 @@ const card: Card = {
 		ja: "自分の番の終わりに、このカードをつけているポケモンがバトル場にいるなら、そのポケモンのHPを「20」回復する。",
 		'zh-tw': "在自己的回合結束時，將附有這張卡的戰鬥寶可夢恢復「20」HP。",
 		th: "เมื่อจบเทิร์นฝ่ายเรา ถ้าโปเกมอนที่ติดการ์ดนี้อยู่อยู่บนตำแหน่งต่อสู้ จะฟื้นฟู HP ของโปเกมอนนั้น [20]",
-		ko: "",
+		ko: "자신의 차례의 마지막에 이 카드를 붙이고 있는 포켓몬이 배틀필드에 있다면 그 포켓몬의 HP를 「20」회복한다.",
 		id: "Pada akhir giliran sendiri, jika Pokémon yang mengenakan kartu ini ada di Arena Bertarung, pulihkan HP Pokémon tersebut sejumlah 20."
 	},
 

@@ -8,7 +8,7 @@ const card: Card = {
 		ja: "ゴローン",
 		'zh-tw': "隆隆石",
 		th: "โกโลน",
-		ko: "",
+		ko: "데구리",
 		id: "Graveler"
 	},
 
@@ -23,7 +23,7 @@ const card: Card = {
 		ja: "崖を 転がり 移動する。 間違えて 川に 落ちると 最期の あがきで 大爆発。",
 		'zh-tw': "藉著從山崖上滾落來移動。 如果不小心掉進河裡， 就會在最後掙扎時來個大爆炸。",
 		th: "เคลื่อนที่โดยกลิ้งไปตามผา พอพลาดตกลงแม่น้ำแล้ว ก็จะดิ้นรนจนหยดสุดท้ายแล้วระเบิดตัว",
-		ko: "",
+		ko: "절벽을 굴러서 이동한다. 실수로 강에 떨어지면 최후의 발악으로 대폭발한다.",
 		id: "Graveler bergerak dengan cara menggelindingkan diri di tebing. Jika salah gerak dan jatuh ke sungai, Pokémon ini meledak sebagai usaha terakhirnya."
 	},
 
@@ -36,7 +36,7 @@ const card: Card = {
 			ja: "れんぞくいわなげ",
 			'zh-tw': "連續投石",
 			th: "ปาหินต่อเนื่อง",
-			ko: "",
+			ko: "연속 바위던지기",
 			id: "Lempar Batu Beruntun"
 		},
 
@@ -46,7 +46,7 @@ const card: Card = {
 			ja: "ウラが出るまでコインを投げ、オモテの数×40ダメージ。",
 			'zh-tw': "擲硬幣直到出現反面，造成正面出現的次數×40點傷害。",
 			th: "ทอยเหรียญจนกว่าจะออกก้อย แดเมจจะเท่ากับจำนวนครั้งที่ออกหัว x40",
-			ko: "",
+			ko: "뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수 × 40데미지를 준다.",
 			id: "Lempar koin hingga hasilnya sisi belakang. Serangan ini memberikan kerusakan sejumlah 40 untuk tiap lemparan dengan hasil sisi depan."
 		}
 	}, {
@@ -56,7 +56,7 @@ const card: Card = {
 			ja: "ヘビーインパクト",
 			'zh-tw': "重磅衝擊",
 			th: "เฮวี่อิมแพ็คท์",
-			ko: "",
+			ko: "헤비임팩트",
 			id: "Heavy Impact"
 		},
 

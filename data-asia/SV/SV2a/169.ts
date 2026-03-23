@@ -8,7 +8,7 @@ const card: Card = {
 		ja: "リザード",
 		'zh-tw': "火恐龍",
 		th: "ลิซาร์โดะ",
-		ko: "",
+		ko: "리자드",
 		id: "Charmeleon"
 	},
 
@@ -22,7 +22,7 @@ const card: Card = {
 		ja: "戦いで 気持ちが たかぶると 灼熱の 炎を 吹きながら あたりを 燃やしてまわる。",
 		'zh-tw': "如果牠在戰鬥中亢奮起來，就會噴出灼熱的火焰，把周圍的東西燒得一乾二淨。",
 		th: "เมื่อตื่นเต้นจากการต่อสู้จะพ่นเปลวเพลิงร้อนแรงแผดเผารอบข้าง",
-		ko: "",
+		ko: "싸움으로 기분이 고조되면 작열하는 불꽃을 뿜으며 주변을 태워버린다.",
 		id: "Ketika pertarungan membuat semangat Charmeleon bergejolak, Pokémon ini meniupkan api berpijar dan membakar daerah sekelilingnya."
 	},
 
@@ -35,7 +35,7 @@ const card: Card = {
 			ja: "かえん",
 			'zh-tw': "烈焰",
 			th: "เผาไหม้",
-			ko: "",
+			ko: "화염",
 			id: "Lidah Api"
 		},
 
@@ -47,7 +47,7 @@ const card: Card = {
 			ja: "だいもんじ",
 			'zh-tw': "大字爆炎",
 			th: "เพลิงอัคคี",
-			ko: "",
+			ko: "불대문자",
 			id: "Ledakan Api Besar"
 		},
 
@@ -57,7 +57,7 @@ const card: Card = {
 			ja: "このポケモンについているエネルギーを1個選び、トラッシュする。",
 			'zh-tw': "選擇1個這隻寶可夢身上附加的能量，將其丟棄。",
 			th: "เลือกพลังงานที่ติดอยู่กับโปเกมอนนี้ 1 ลูก ทิ้งที่ตำแหน่งทิ้งการ์ด",
-			ko: "",
+			ko: "이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다.",
 			id: "Pilih 1 Energi yang dikenakan pada Pokémon ini, lalu buang ke Trash."
 		}
 	}],

@@ -8,7 +8,7 @@ const card: Card = {
 		ja: "メノクラゲ",
 		'zh-tw': "瑪瑙水母",
 		th: "เมโนคุราเกะ",
-		ko: "",
+		ko: "왕눈해",
 		id: "Tentacool"
 	},
 
@@ -23,7 +23,7 @@ const card: Card = {
 		ja: "ほとんどが 水分で できている。 体は 海の中では 水と 同化して とても 見えづらいのだ。",
 		'zh-tw': "絕大部分都是由水組成的身體在海中會與海水同化， 令其他生物很難看見牠。",
 		th: "ร่างกายส่วนใหญ่เกิดมาจากน้ำ เมื่ออยู่ในทะเลร่างกายจะดูกลมกลืนกับน้ำจนมองแยกไม่ออก",
-		ko: "",
+		ko: "몸의 대부분이 수분이어서 바닷속에서는 물과 동화되어 매우 구분하기 힘들다.",
 		id: "Tubuh Tentacool hampir seluruhnya terbentuk atas air. Di dalam laut, tubuhnya terlihat menyatu dengan air sehingga sulit dilihat."
 	},
 
@@ -36,7 +36,7 @@ const card: Card = {
 			ja: "ぴりっ",
 			'zh-tw': "麻",
 			th: "เผ็ด",
-			ko: "",
+			ko: "짜릿",
 			id: "Pedas Menyengat"
 		},
 
@@ -48,7 +48,7 @@ const card: Card = {
 			ja: "みずまき",
 			'zh-tw': "灑水",
 			th: "โปรยน้ำ",
-			ko: "",
+			ko: "물끼얹기",
 			id: "Menyiramkan Air"
 		},
 

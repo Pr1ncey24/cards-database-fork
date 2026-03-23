@@ -8,7 +8,7 @@ const card: Card = {
 		ja: "スリーパー",
 		'zh-tw': "引夢貘人",
 		th: "สลีปเปอร์",
-		ko: "",
+		ko: "슬리퍼",
 		id: "Hypno"
 	},
 
@@ -23,7 +23,7 @@ const card: Card = {
 		ja: "相手と 目が 合ったときに 催眠術など 数々の 超能力を 使うという。",
 		'zh-tw': "據說牠和對手對到眼時，就會使出催眠術等 各式各樣的超能力。",
 		th: "จะใช้พลังเหนือธรรมชาติต่าง ๆ อย่างสะกดจิตให้หลับเมื่อสบตากับอีกฝ่าย",
-		ko: "",
+		ko: "상대와 눈이 마주쳤을 때 최면술 등의 다양한 초능력을 사용한다고 전해진다.",
 		id: "Dikabarkan Hypno menggunakan hipnotis dan berbagai macam kekuatan psikokinesis lainnya saat bertatapan dengan musuhnya."
 	},
 
@@ -36,7 +36,7 @@ const card: Card = {
 			ja: "でたとこさいみん",
 			'zh-tw': "臨場催眠",
 			th: "สะกดจิตฉับพลัน",
-			ko: "",
+			ko: "서든 최면",
 			id: "Hipnosis Masuk Spontan"
 		},
 
@@ -44,7 +44,7 @@ const card: Card = {
 			ja: "自分の番に、このカードを手札から出して進化させたとき、1回使える。相手のバトルポケモンをねむりにする。",
 			'zh-tw': "在自己的回合，從手牌使出這張卡並完成進化時，可使用1次。將對手的戰鬥寶可夢【睡眠】。",
 			th: "ในเทิร์นฝ่ายเรา เมื่อนำการ์ดนี้จากบนมือออกมาวิวัฒนาการแล้ว ใช้ได้ 1 ครั้ง ทำให้โปเกมอนบนตำแหน่งต่อสู้ฝ่ายตรงข้ามเป็นสภาวะ[หลับ]",
-			ko: "",
+			ko: "자신의 차례에 이 카드를 패에서 꺼내서 진화시켰을 때 1번 사용할 수 있다. 상대의 배틀 포켓몬을잠듦으로 만든다.",
 			id: "Dapat digunakan 1 kali pada giliran sendiri saat memasukkan kartu ini dari Kartu Pegangan untuk melakukan evolusi. Ubah kondisi Pokémon Bertarung lawan menjadi Tidur."
 		}
 	}],
@@ -56,7 +56,7 @@ const card: Card = {
 			ja: "ちょうねんりき",
 			'zh-tw': "超念力",
 			th: "ซูเปอร์โทรจิต",
-			ko: "",
+			ko: "초염동력",
 			id: "Psikokinesis Super"
 		},
 

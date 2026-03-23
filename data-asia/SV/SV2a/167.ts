@@ -8,7 +8,7 @@ const card: Card = {
 		ja: "フシギソウ",
 		'zh-tw': "妙蛙草",
 		th: "ฟุชิกิโซ",
-		ko: "",
+		ko: "이상해풀",
 		id: "Ivysaur"
 	},
 
@@ -22,7 +22,7 @@ const card: Card = {
 		ja: "太陽の 光を 浴びるほど 体に 力が わいて 背中の つぼみが 育っていく。",
 		'zh-tw': "沐浴在陽光下越久，身體內會湧出越多力量，背上的花苞也會漸漸成長。",
 		th: "ยิ่งอาบแดดมากก็จะยิ่งเกิดพลังมากขึ้นทำให้ดอกตูมบนหลังเติบโต",
-		ko: "",
+		ko: "햇빛을 받을수록 몸에 힘이 솟아나 등의 꽃봉오리가 자라난다.",
 		id: "Mandi cahaya matahari membuat Ivysaur makin kuat dan menumbuhkan kuncup di punggungnya."
 	},
 
@@ -35,7 +35,7 @@ const card: Card = {
 			ja: "やどりぎのタネ",
 			'zh-tw': "寄生種子",
 			th: "เมล็ดกาฝาก",
-			ko: "",
+			ko: "씨뿌리기",
 			id: "Bibit Parasit"
 		},
 
@@ -45,7 +45,7 @@ const card: Card = {
 			ja: "このポケモンのHPを「20」回復する。",
 			'zh-tw': "將這隻寶可夢恢復「20」HP。",
 			th: "ฟื้นฟู HP ของโปเกมอนนี้ [20]",
-			ko: "",
+			ko: "이 포켓몬의 HP를 「20」회복한다.",
 			id: "Pulihkan HP Pokémon ini sejumlah 20."
 		}
 	}, {
@@ -55,7 +55,7 @@ const card: Card = {
 			ja: "つるのムチ",
 			'zh-tw': "藤鞭",
 			th: "แส้เถาวัลย์",
-			ko: "",
+			ko: "덩굴채찍",
 			id: "Cambuk Jalar"
 		},
 

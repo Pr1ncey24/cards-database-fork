@@ -8,7 +8,7 @@ const card: Card = {
 		ja: "ポニータ",
 		'zh-tw': "小火馬",
 		th: "โพนีตะ",
-		ko: "",
+		ko: "포니타",
 		id: "Ponyta"
 	},
 
@@ -23,7 +23,7 @@ const card: Card = {
 		ja: "ポニータに 認められると 燃える たてがみに 触っても 不思議と 熱くなくなるのだ。",
 		'zh-tw': "得到了小火馬認可的人，在觸摸牠燃燒著的鬃毛時 不會覺得燙手，真是不可思議。",
 		th: "หากได้รับการยอมรับจากโพนีตะแล้ว แม้จะจับแผงขนที่เผาไหม้ก็จะไม่รู้สึกร้อนอย่างน่าประหลาดใจ",
-		ko: "",
+		ko: "포니타에게 인정받으면 타오르는 갈기를 만져도 뜨거움을 느끼지 않게 된다.",
 		id: "Jika diakui oleh Ponyta, maka meskipun menyentuh surai membara Pokémon ini, entah kenapa surainya tidak terasa panas."
 	},
 
@@ -36,7 +36,7 @@ const card: Card = {
 			ja: "もってくる",
 			'zh-tw': "呼喚",
 			th: "รวบรวม",
-			ko: "",
+			ko: "가져오기",
 			id: "Mengumpulkan"
 		},
 
@@ -44,7 +44,7 @@ const card: Card = {
 			ja: "自分の山札を1枚引く。",
 			'zh-tw': "從自己的牌庫抽出1張卡。",
 			th: "จั่วการ์ด 1 ใบจากสำรับการ์ดฝ่ายเรา",
-			ko: "",
+			ko: "자신의 덱을 1장 뽑는다.",
 			id: "Ambil 1 kartu dari atas Deck sendiri."
 		}
 	}, {
@@ -54,7 +54,7 @@ const card: Card = {
 			ja: "はねまわる",
 			'zh-tw': "活蹦亂跳",
 			th: "สะบัดตัว",
-			ko: "",
+			ko: "돌아다니며 뛰기",
 			id: "Melompat Berkeliling"
 		},
 

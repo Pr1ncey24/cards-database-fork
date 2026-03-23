@@ -8,7 +8,7 @@ const card: Card = {
 		ja: "ヒトカゲ",
 		'zh-tw': "小火龍",
 		th: "ฮิโตคาเงะ",
-		ko: "",
+		ko: "파이리",
 		id: "Charmander"
 	},
 
@@ -22,7 +22,7 @@ const card: Card = {
 		ja: "生まれたときから しっぽに 炎が ともっている。 炎が 消えたとき その 命は 終わって しまう。",
 		'zh-tw': "從出生時開始尾巴上就有火焰在燃燒。火焰熄滅時，生命也會結束。",
 		th: "มีหางที่ติดไฟตั้งแต่เกิด หากไฟดับนั่นหมายถึงการจบชีวิต",
-		ko: "",
+		ko: "태어날 때부터 꼬리에 불꽃이 타오르고 있다. 불꽃이 꺼지면 생명도 다하고 만다.",
 		id: "Sejak lahir, api menyala di ekor Charmander. Hidupnya berakhir saat api tersebut padam."
 	},
 
@@ -35,7 +35,7 @@ const card: Card = {
 			ja: "まるやけ",
 			'zh-tw': "全部燒光",
 			th: "เผาเตียน",
-			ko: "",
+			ko: "통째로태우기",
 			id: "Bakar Bulat-bulat"
 		},
 
@@ -43,7 +43,7 @@ const card: Card = {
 			ja: "場に出ているスタジアムをトラッシュする。",
 			'zh-tw': "將場上的競技場卡丟棄。",
 			th: "ทิ้งการ์ดสเตเดียมที่วางอยู่บนกระดานที่ตำแหน่งทิ้งการ์ด",
-			ko: "",
+			ko: "필드에 나와 있는 스타디움을 트래쉬한다.",
 			id: "Buang Stadium yang ada di Arena ke Trash."
 		}
 	}, {
@@ -53,7 +53,7 @@ const card: Card = {
 			ja: "ひをはく",
 			'zh-tw': "吐火",
 			th: "พ่นอัคคี",
-			ko: "",
+			ko: "불토하기",
 			id: "Memuntahkan Api"
 		},
 

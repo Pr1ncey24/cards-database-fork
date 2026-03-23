@@ -56,7 +56,7 @@ const card: Card = {
 			ja: "ひっかく",
 			'zh-tw': "抓",
 			th: "ข่วน",
-			ko: "",
+			ko: "할퀴기",
 			id: "Menggaruk"
 		},
 

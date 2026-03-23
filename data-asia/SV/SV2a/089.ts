@@ -8,7 +8,7 @@ const card: Card = {
 		ja: "ベトベトン",
 		'zh-tw': "臭臭泥",
 		th: "เบโตเบตัน",
-		ko: "",
+		ko: "질뻐기",
 		id: "Muk"
 	},
 
@@ -23,7 +23,7 @@ const card: Card = {
 		ja: "汚い ヘドロが 全身に まとわりつく。 足跡に 触っただけで 毒に 侵される。",
 		'zh-tw': "全身上下沾滿污泥。光是碰到牠的足跡， 都會受到毒素的侵襲。",
 		th: "โคลนสกปรกติดทั่วตัว แค่ไปโดนร่องรอยที่มันขยับตัวผ่านก็ติดพิษแล้ว",
-		ko: "",
+		ko: "더러운 오물이 온몸에 달라붙었다. 지나간 자리를 건드리기만 해도 독이 퍼져 버린다.",
 		id: "Limbah kotor menyelimuti tubuh Muk. Siapa pun akan keracunan walau hanya menyentuh jejak kakinya."
 	},
 
@@ -36,7 +36,7 @@ const card: Card = {
 			ja: "ベトベトジェイル",
 			'zh-tw': "臭臭獄",
 			th: "จองจำเหนียวเหนอะ",
-			ko: "",
+			ko: "끈적끈적제일",
 			id: "Kerangkeng Lengket Melekat"
 		},
 
@@ -46,7 +46,7 @@ const card: Card = {
 			ja: "次の相手の番、このワザを受けたポケモンは、ワザを使うためのエネルギーとにげるためのエネルギーが、それぞれエネルギー1個ぶん多くなる。",
 			'zh-tw': "在下個對手的回合，受到這個招式的寶可夢使用招式所需的能量與【撤退】所需的能量，各增加1個【無】能量。",
 			th: "เทิร์นถัดไปของฝ่ายตรงข้าม โปเกมอนที่ได้รับท่าต่อสู้นี้ พลังงานสำหรับใช้ท่าต่อสู้กับพลังงานสำหรับ[หนี] แต่ละอย่างจะใช้พลังงาน[ไร้สี]เพิ่มขึ้น 1 ลูก",
-			ko: "",
+			ko: "상대의 다음 차례에 이 기술을 받은 포켓몬은 기술을 사용하기 위한 에너지와후퇴에 필요한 에너지가 각각(무색)에너지 1개만큼 많아진다.",
 			id: "Pada giliran lawan berikutnya, Energi yang dibutuhkan oleh Pokémon yang menerima serangan ini untuk menggunakan serangan dan Mundur masing-masing bertambah 1 Energi {Bening}."
 		}
 	}, {
@@ -56,7 +56,7 @@ const card: Card = {
 			ja: "ヘドロばくだん",
 			'zh-tw': "污泥炸彈",
 			th: "สลัดจ์บอมบ์",
-			ko: "",
+			ko: "오물폭탄",
 			id: "Bom Limbah"
 		},
 

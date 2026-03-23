@@ -56,7 +56,7 @@ const card: Card = {
 			ja: "よだれ",
 			'zh-tw': "口水",
 			th: "น้ำลายยืด",
-			ko: "",
+			ko: "침",
 			id: "Liur"
 		},
 

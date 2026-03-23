@@ -8,7 +8,7 @@ const card: Card = {
 		ja: "ブーバー",
 		'zh-tw': "鴨嘴火獸",
 		th: "บูเบอร์",
-		ko: "",
+		ko: "마그마",
 		id: "Magmar"
 	},
 
@@ -23,7 +23,7 @@ const card: Card = {
 		ja: "全身が つねに 燃えている。 火事を 起こす 原因の ひとつとして 恐れられる。",
 		'zh-tw': "全身時時刻刻都在燃燒。人們認為牠是引起火災的 原因之一，非常畏懼牠。",
 		th: "ทั่วตัวนั้นเผาไหม้อยู่ตลอดเวลา เป็นที่หวาดกลัวเพราะเป็นหนึ่งในสาเหตุของไฟไหม้",
-		ko: "",
+		ko: "온몸이 늘 불타고 있다. 화재를 일으키는 원인 중 하나로 두려움의 대상이 되고 있다.",
 		id: "Seluruh tubuh Magmar selalu terbakar. Pokémon ini ditakuti sebagai salah satu penyebab terjadinya kebakaran."
 	},
 
@@ -36,7 +36,7 @@ const card: Card = {
 			ja: "ひだね",
 			'zh-tw': "火種",
 			th: "เชื้อไฟ",
-			ko: "",
+			ko: "불씨",
 			id: "Nyala Api"
 		},
 
@@ -48,7 +48,7 @@ const card: Card = {
 			ja: "フレアコンボ",
 			'zh-tw': "閃焰合擊",
 			th: "แฟลร์คอมโบ",
-			ko: "",
+			ko: "플레어콤보",
 			id: "Flare Combo"
 		},
 
@@ -58,7 +58,7 @@ const card: Card = {
 			ja: "自分のベンチに「エレブー」がいるなら、80ダメージ追加。",
 			'zh-tw': "若自己的備戰區有「電擊獸」，則增加80點傷害。",
 			th: "ถ้าบนเบนช์ฝ่ายเรามี [เอเลบู] อยู่ การโจมตีนี้จะเพิ่มแดเมจอีก 80",
-			ko: "",
+			ko: "자신의 벤치에 「에레브」가 있다면 80데미지를 추가한다.",
 			id: "Jika ada Electabuzz di Cadangan sendiri, kerusakan yang diberikan bertambah sejumlah 80."
 		}
 	}],

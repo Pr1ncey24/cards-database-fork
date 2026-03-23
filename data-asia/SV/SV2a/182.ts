@@ -8,7 +8,7 @@ const card: Card = {
 		ja: "ハクリュー",
 		'zh-tw': "哈克龍",
 		th: "ฮาคุริว",
-		ko: "",
+		ko: "신뇽",
 		id: "Dragonair"
 	},
 
@@ -22,7 +22,7 @@ const card: Card = {
 		ja: "全身から オーラが 出されると あたりの 天候が みるみるうちに 変わっていく という。",
 		'zh-tw': "據說牠全身上下散發出氣場時，周圍的天氣就會在轉眼間為之一變。",
 		th: "ว่ากันว่าอากาศโดยรอบจะเปลี่ยนไปทันทีที่มันปล่อยออร่าออกมาจากทั่วทั้งตัว",
-		ko: "",
+		ko: "전신에서 오라를 발산하면 주변 날씨가 순식간에 변한다고 한다.",
 		id: "Dikabarkan jika Dragonair mengeluarkan aura dari seluruh tubuhnya, cuaca di sekitarnya langsung berubah."
 	},
 
@@ -35,7 +35,7 @@ const card: Card = {
 			ja: "たたく",
 			'zh-tw': "敲擊",
 			th: "ตี",
-			ko: "",
+			ko: "때리기",
 			id: "Menghantam"
 		},
 
@@ -47,7 +47,7 @@ const card: Card = {
 			ja: "アクアスラッシュ",
 			'zh-tw': "水流斬",
 			th: "อควาสแลช",
-			ko: "",
+			ko: "아쿠아슬래시",
 			id: "Aqua Slash"
 		},
 
@@ -57,7 +57,7 @@ const card: Card = {
 			ja: "次の自分の番、このポケモンはワザが使えない。",
 			'zh-tw': "在下個自己的回合，這隻寶可夢無法使用招式。",
 			th: "เทิร์นถัดไปของฝ่ายเรา โปเกมอนนี้จะใช้ท่าต่อสู้ไม่ได้",
-			ko: "",
+			ko: "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다.",
 			id: "Pada giliran sendiri berikutnya, Pokémon ini tidak dapat menggunakan serangan."
 		}
 	}],

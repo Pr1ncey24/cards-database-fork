@@ -8,7 +8,7 @@ const card: Card = {
 		ja: "クラブ",
 		'zh-tw': "大鉗蟹",
 		th: "แครบ",
-		ko: "",
+		ko: "크랩",
 		id: "Krabby"
 	},
 
@@ -23,7 +23,7 @@ const card: Card = {
 		ja: "危険がせまると 口から 吐きだす 泡で 全身を 包んで 体を 大きく みせようとする。",
 		'zh-tw': "如果危險逼近，就會從嘴裡吐出泡沫包裹全身， 讓身體看起來更大。",
 		th: "ถ้าอันตรายเข้ามาใกล้ ก็จะพ่นฟองออกมาจากปากห่อหุ้มทั่วร่างเพื่อทำให้ร่างกายดูใหญ่ขึ้น",
-		ko: "",
+		ko: "위험이 닥치면 입에서 뿜어내는 거품으로 전신을 감싸서 몸을 크게 보이려고 한다.",
 		id: "Ketika bahaya mendekat, Krabby membalut tubuhnya dengan gelembung yang dikeluarkan dari mulutnya agar tubuhnya terlihat lebih besar."
 	},
 
@@ -36,7 +36,7 @@ const card: Card = {
 			ja: "しおまねき",
 			'zh-tw': "招潮",
 			th: "เรียกกระแสน้ำ",
-			ko: "",
+			ko: "소금초대",
 			id: "Pemanggil Air Laut"
 		},
 
@@ -44,7 +44,7 @@ const card: Card = {
 			ja: "コインを1回投げオモテなら、自分の山札から「基本エネルギー」を2枚まで選び、このポケモンにつける。そして山札を切る。",
 			'zh-tw': "擲1次硬幣若為正面，則從自己的牌庫選擇最多2張「基本【水】能量」卡，附於這隻寶可夢身上。並且重洗牌庫。",
 			th: "ทอยเหรียญ 1 ครั้งถ้าออกหัว เลือกการ์ด [พลังงานพื้นฐาน[น้ำ]] ได้สูงสุด 2 ใบจากสำรับการ์ดฝ่ายเรา ติดที่โปเกมอนนี้ แล้วสับสำรับการ์ด",
-			ko: "",
+			ko: "동전을 1번 던져서 앞면이 나오면 자신의 덱에서 「기본(물)에너지」를 2장까지 선택해서 이 포켓몬에게 붙인다. 그리고 덱을 섞는다.",
 			id: "Lempar koin 1 kali. Jika hasilnya sisi depan, pilih paling banyak 2 lembar Energi Dasar {Air} dari Deck sendiri, lalu kenakan pada Pokémon ini. Kemudian, kocok Deck."
 		}
 	}, {
@@ -54,7 +54,7 @@ const card: Card = {
 			ja: "クラブハンマー",
 			'zh-tw': "蟹鉗錘",
 			th: "ค้อนก้ามปู",
-			ko: "",
+			ko: "집게해머",
 			id: "Crabhammer"
 		},
 

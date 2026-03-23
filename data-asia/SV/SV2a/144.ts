@@ -8,7 +8,7 @@ const card: Card = {
 		ja: "フリーザー",
 		'zh-tw': "急凍鳥",
 		th: "ฟรีเซอร์",
-		ko: "",
+		ko: "프리져",
 		id: "Articuno"
 	},
 
@@ -23,7 +23,7 @@ const card: Card = {
 		ja: "氷を 自在に 操る 力を もつ。 永久凍土の 雪山に 棲んでいるという。",
 		'zh-tw': "擁有能自在操縱冰的能力。據說是棲息在 永凍之地的雪山中。",
 		th: "มีพลังในการควบคุมน้ำแข็งได้ดั่งใจนึก ว่ากันว่ามันอาศัยอยู่บนภูเขาหิมะที่เยือกแข็งตลอดปี",
-		ko: "",
+		ko: "얼음을 자유자재로 조종하는 힘을 가졌다. 영구 동토의 설산에 살고 있다고 한다.",
 		id: "Articuno memiliki kekuatan untuk mengendalikan es sesukanya. Dikatakan bahwa Pokémon ini tinggal di gunung bersalju dengan ibun abadi."
 	},
 
@@ -36,7 +36,7 @@ const card: Card = {
 			ja: "アイスフロート",
 			'zh-tw': "冰之浮游",
 			th: "ไอซ์โฟลต",
-			ko: "",
+			ko: "아이스 플로트",
 			id: "Ice Float"
 		},
 
@@ -44,7 +44,7 @@ const card: Card = {
 			ja: "このポケモンにエネルギーがついているなら、このポケモンのにげるためのエネルギーは、すべてなくなる。",
 			'zh-tw': "若這隻寶可夢身上附有【水】能量卡，則這隻寶可夢【撤退】所需的能量全部消除。",
 			th: "ถ้าโปเกมอนนี้มีพลังงาน[น้ำ]ติดอยู่ พลังงานสำหรับ[หนี]ของโปเกมอนนี้ ทั้งหมดจะหายไป",
-			ko: "",
+			ko: "이 포켓몬에게(물)에너지가 붙어 있다면 이 포켓몬의후퇴에 필요한 에너지는 모두 없어진다.",
 			id: "Jika Pokémon ini mengenakan Energi {Air}, Pokémon ini menjadi tidak membutuhkan Energi untuk Mundur."
 		}
 	}],
@@ -56,7 +56,7 @@ const card: Card = {
 			ja: "ふぶき",
 			'zh-tw': "暴風雪",
 			th: "พายุหิมะ",
-			ko: "",
+			ko: "눈보라",
 			id: "Badai Salju"
 		},
 
@@ -66,7 +66,7 @@ const card: Card = {
 			ja: "相手のベンチポケモン全員にも、それぞれ10ダメージ。［ベンチは弱点・抵抗力を計算しない。］",
 			'zh-tw': "對手的所有備戰寶可夢也各受到10點傷害。 [在備戰區不計算弱點・抵抗力。]",
 			th: "โปเกมอนบนเบนช์ฝ่ายตรงข้ามทุกตัว ก็จะได้รับแดเมจตัวละ 10 ด้วย {โปเกมอนบนเบนช์จะไม่นำจุดอ่อนและความต้านทานมาคิด}",
-			ko: "",
+			ko: "상대의 벤치 포켓몬 전원에게도 각각 10데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)",
 			id: "Serangan ini juga memberikan kerusakan masing-masing sejumlah 10 kepada semua Pokémon Cadangan lawan. [Kelemahan dan Resistansi Pokémon Cadangan tidak mempengaruhi jumlah kerusakan.]"
 		}
 	}],

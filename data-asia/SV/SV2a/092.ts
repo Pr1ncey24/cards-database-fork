@@ -8,7 +8,7 @@ const card: Card = {
 		ja: "ゴース",
 		'zh-tw': "鬼斯",
 		th: "โกส",
-		ko: "",
+		ko: "고오스",
 		id: "Gastly"
 	},
 
@@ -23,7 +23,7 @@ const card: Card = {
 		ja: "ガス状の 体で まとわりつき 獲物の 皮膚から 少しずつ 毒を 送り込んで 弱らせる。",
 		'zh-tw': "會用氣體狀的身體纏住獵物，再從皮膚緩緩地注入毒素， 使對手變得虛弱。",
 		th: "ใช้ร่างกายที่เป็นแก๊สเกาะติดเหยื่อแล้วค่อย ๆ ส่งพิษผ่านเข้าผิวหนังไปทีละนิดจนเหยื่ออ่อนแอลง",
-		ko: "",
+		ko: "가스로 된 몸으로 휘감은 다음 먹이의 피부를 통해 조금씩 독을 흘려보내어 약하게 만든다.",
 		id: "Gastly melekat pada mangsanya dengan tubuh gasnya, lalu melemahkan mereka dengan mengirimkan racun sedikit demi sedikit melalui kulit mereka."
 	},
 
@@ -36,7 +36,7 @@ const card: Card = {
 			ja: "ガスでつつむ",
 			'zh-tw': "瓦斯包圍",
 			th: "ห่อหุ้มด้วยแก๊ส",
-			ko: "",
+			ko: "가스로감싸기",
 			id: "Gas yang Menyelimuti"
 		},
 
